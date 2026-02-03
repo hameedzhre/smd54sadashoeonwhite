@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "generated_at": "2026-02-03T13:20:22.038Z",
+    "total_products": 2
+  },
+  "products": [
+    {
+      "sku": "white shoes",
+      "name": "adbida white shoes lksf",
+      "brand": "w",
+      "category": "shoes",
+      "price": "60.00",
+      "rating": 4.8,
+      "slug": "white_shoes",
+      "image_count": 0,
+      "amazon_url": "https://amazon.com"
+    },
+    {
+      "sku": "white shoes",
+      "name": "adbida white shoes lksf",
+      "brand": "w",
+      "category": "shoes",
+      "price": "60.00",
+      "rating": 4.8,
+      "slug": "white_shoes",
+      "image_count": 0,
+      "amazon_url": "https://amazon.com"
+    }
+  ]
+}
