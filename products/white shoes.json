@@ -1,0 +1,31 @@
+{
+  "product_id": "white shoes",
+  "asin": "fr6",
+  "product_name": "adbida white shoes lksf",
+  "brand_name": "w",
+  "category": "shoes",
+  "subcategory": "Luxary",
+  "gender": "Male",
+  "amazon_url": "https://amazon.com",
+  "price_min": 50,
+  "price_max": 70,
+  "currency": "USD",
+  "rating": 4.8,
+  "review_count": 1020,
+  "comfort_score": 99,
+  "durability_score": 98,
+  "breathability_score": 40,
+  "overall_score": 79,
+  "short_description": "this is white shoes",
+  "bullets": [
+    "Comfort"
+  ],
+  "primary_keyword": "white shoes",
+  "slug": "white_shoes",
+  "sku": "white shoes",
+  "image_urls": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzeehIAg-1NKIURuGKkZi4W2kq9dTR4_s_JQ&s"
+  ],
+  "average_price": "60.00",
+  "last_updated": "2026-02-03T13:05:47.019Z"
+}
