@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "generated_at": "2026-02-03T13:20:19.662Z",
+    "total_products": 2,
+    "last_updated": "2026-02-03T13:20:19.662Z",
+    "format_version": "1.2"
+  },
+  "by_sku": {
+    "white shoes": {
+      "name": "adbida white shoes lksf",
+      "brand": "w",
+      "category": "shoes",
+      "subcategory": "Luxary",
+      "price": "60.00",
+      "rating": 4.8,
+      "slug": "white_shoes",
+      "image_count": 0
+    }
+  },
+  "by_slug": {
+    "white_shoes": "white shoes"
+  },
+  "by_category": {
+    "shoes": {
+      "display_name": "shoes",
+      "products": [
+        "white shoes",
+        "white shoes"
+      ]
+    }
+  },
+  "by_brand": {
+    "w": {
+      "display_name": "w",
+      "products": [
+        "white shoes",
+        "white shoes"
+      ]
+    }
+  },
+  "sku_list": [
+    "white shoes",
+    "white shoes"
+  ],
+  "slug_list": [
+    "white_shoes",
+    "white_shoes"
+  ]
+}
