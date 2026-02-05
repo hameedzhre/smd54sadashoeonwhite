@@ -1,20 +1,36 @@
 {
   "metadata": {
-    "generated_at": "2026-02-03T13:20:22.798Z"
+    "generated_at": "2026-02-05T03:19:14.028Z"
   },
   "summary": {
     "categories": {
-      "shoes": 2
+      "Shoes": 4
     },
     "brands": {
-      "w": 2
+      "Converse": 1,
+      "hash bubbie": 1,
+      "New Balance": 1,
+      "PUMA": 1
     },
-    "withImages": 0,
-    "withPrice": 2,
-    "withRating": 2,
-    "withSlug": 2,
-    "withAmazonUrl": 2,
-    "withDescription": 2
+    "colors": {
+      "White": 2,
+      "Optical White": 1,
+      "White Mono": 1,
+      "White-White-Silver": 1
+    },
+    "materials": {
+      "Canvas": 2,
+      "Leather": 1,
+      "Leather & Synthetic": 1
+    },
+    "withImages": 4,
+    "withPrice": 4,
+    "withRating": 4,
+    "withSlug": 4,
+    "withAmazonUrl": 4,
+    "withDescription": 4,
+    "withMaterials": 4,
+    "withSpecifications": 4
   },
-  "last_sync": "2026-02-03T13:20:22.798Z"
+  "last_sync": "2026-02-05T03:19:14.029Z"
 }
