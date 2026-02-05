@@ -1,38 +1,80 @@
 {
   "metadata": {
-    "generated_at": "2026-02-03T13:20:20.385Z",
+    "generated_at": "2026-02-05T03:19:10.114Z",
     "total_categories": 1
   },
   "categories": {
     "shoes": {
-      "name": "shoes",
-      "product_count": 2,
+      "name": "Shoes",
+      "product_count": 4,
       "products": [
         {
-          "sku": "white shoes",
-          "name": "adbida white shoes lksf",
-          "brand": "w",
-          "price": "60.00",
-          "rating": 4.8,
-          "slug": "white_shoes"
+          "sku": "CTAS-HI-OPT-WHT",
+          "name": "Converse Unisex Adult Chuck Taylor All Star High Top Sneaker",
+          "brand": "Converse",
+          "price": "48.41",
+          "rating": 4.6,
+          "slug": "converse-unisex-adult-chuck-taylor-all-star-high-top-sneaker",
+          "color": "Optical White"
         },
         {
-          "sku": "white shoes",
-          "name": "adbida white shoes lksf",
-          "brand": "w",
-          "price": "60.00",
-          "rating": 4.8,
-          "slug": "white_shoes"
+          "sku": "HB-WSO-001",
+          "name": "Women's Slip on Shoes Canvas Sneakers Loafers Non Slip Shoes Low Top Casual Shoes",
+          "brand": "hash bubbie",
+          "price": "18.52",
+          "rating": 4.1,
+          "slug": "womens-slip-on-shoes-canvas-sneakers-loafers-non-slip-shoes-low-top-casual-shoes",
+          "color": "White Mono"
+        },
+        {
+          "sku": "NB608V5-001",
+          "name": "New Balance Men's 608 V5 Casual Comfort Cross Trainer",
+          "brand": "New Balance",
+          "price": "61.21",
+          "rating": 4.6,
+          "slug": "new-balance-mens-608-v5-casual-comfort-cross-trainer",
+          "color": "White/White"
+        },
+        {
+          "sku": "PUMA-CARINA-L-37032502",
+          "name": "Puma Womens Carina L Sneaker",
+          "brand": "PUMA",
+          "price": "55.98",
+          "rating": 4.5,
+          "slug": "puma-womens-carina-l-sneaker",
+          "color": "White-White-Silver"
         }
       ],
       "subcategories": {
-        "luxary": {
-          "name": "Luxary",
-          "count": 2
+        "fashion_sneakers": {
+          "name": "Fashion Sneakers",
+          "count": 3
+        },
+        "cross-training_shoes": {
+          "name": "Cross-Training Shoes",
+          "count": 1
         }
       },
-      "avg_rating": 0,
-      "avg_price": 0
+      "colors": {
+        "optical_white": {
+          "name": "optical white",
+          "count": 1
+        },
+        "white_mono": {
+          "name": "white mono",
+          "count": 1
+        },
+        "white": {
+          "name": "white",
+          "count": 2
+        },
+        "white-white-silver": {
+          "name": "white-white-silver",
+          "count": 1
+        }
+      },
+      "avg_rating": "4.4",
+      "avg_price": "46.03"
     }
   }
 }
