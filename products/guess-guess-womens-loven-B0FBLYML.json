@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "product_id": "B0FBLYMLPC",
+    "slug": "guess-guess-womens-loven-B0FBLYML",
+    "generated_at": "2026-02-08T11:34:41.671Z",
+    "source": "google_sheets",
+    "version": "1.0"
+  },
+  "product": {
+    "product_id": "B0FBLYMLPC",
+    "asin": "B0FBLYMLPC",
+    "product_title": "Guess Womens Loven",
+    "brand": "GUESS",
+    "category": "Shoes",
+    "subcategory": "Sneakers",
+    "color": "White Shoes",
+    "gender": "Women",
+    "weight_lbs": "N/A",
+    "upper_material": "Synthetic",
+    "sole_material": "Rubber",
+    "outer_material": "Rubber",
+    "lining": "Fabric",
+    "closure_type": "Lace-Up",
+    "cushioning": "Cushioned",
+    "breathability": "Breathable",
+    "amazon_url": "https://amzn.to/3MtBkRN",
+    "price_min": 59.99,
+    "price_max": 65,
+    "currency": "USD",
+    "rating": 4.6,
+    "review_count": 36838,
+    "comfort_score": 58,
+    "durability_score": 69,
+    "breathability_score": 65,
+    "overall_score": 64,
+    "short_description": "Chic quilted design, comfortable lace-up sneakers",
+    "about_this_item": "Features a stylish quilted faux leather upper, lace-up closure, cushioned footbed, breathable lining, 1\" platform heel",
+    "primary_keyword": "Guess Womens Loven",
+    "slug": "guess-guess-womens-loven-B0FBLYML",
+    "blogger_url": "https://shoes-on-white.blogspot.com/2026/02/guess-guess-womens-loven-B0FBLYML.html",
+    "image_urls": [
+      "https://m.media-amazon.com/images/I/613p+B8-MtL._AC_SX500_.jpg",
+      "https://m.media-amazon.com/images/I/81SChX-oO-L._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/61dv66qVxRL._AC_SX500_.jpg",
+      "https://m.media-amazon.com/images/I/61mGHTe+gjL._AC_SX500_.jpg",
+      "https://m.media-amazon.com/images/I/61IM5LrYBPL._AC_SX500_.jpg",
+      "https://m.media-amazon.com/images/I/61tkTgM07eL._AC_SX500_.jpg"
+    ],
+    "main_image": "https://m.media-amazon.com/images/I/613p+B8-MtL._AC_SX500_.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://shoes-on-white.blogspot.com/#product-B0FBLYMLPC",
+      "name": "Guess Womens Loven",
+      "description": "Chic quilted design, comfortable lace-up sneakers",
+      "url": "https://shoes-on-white.blogspot.com/2026/02/guess-guess-womens-loven-B0FBLYML.html",
+      "sku": "B0FBLYMLPC",
+      "mpn": "B0FBLYMLPC",
+      "brand": {
+        "@type": "Brand",
+        "name": "GUESS"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://shoes-on-white.blogspot.com/2026/02/guess-guess-womens-loven-B0FBLYML.html",
+        "priceCurrency": "USD",
+        "price": 59.99,
+        "priceValidUntil": "2027-02-08",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.6,
+        "reviewCount": 36838,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Sneakers"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Color",
+          "value": "White Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Synthetic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Closure Type",
+          "value": "Lace-Up"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Comfort Score",
+          "value": "58"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Durability Score",
+          "value": "69"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Breathability Score",
+          "value": "65"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Overall Score",
+          "value": "64"
+        }
+      ],
+      "image": [
+        "https://m.media-amazon.com/images/I/613p+B8-MtL._AC_SX500_.jpg",
+        "https://m.media-amazon.com/images/I/81SChX-oO-L._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/61dv66qVxRL._AC_SX500_.jpg",
+        "https://m.media-amazon.com/images/I/61mGHTe+gjL._AC_SX500_.jpg",
+        "https://m.media-amazon.com/images/I/61IM5LrYBPL._AC_SX500_.jpg",
+        "https://m.media-amazon.com/images/I/61tkTgM07eL._AC_SX500_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://shoes-on-white.blogspot.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Shoes",
+            "item": "https://shoes-on-white.blogspot.com/search/label/shoes"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Guess Womens Loven",
+            "item": "https://shoes-on-white.blogspot.com/2026/02/guess-guess-womens-loven-B0FBLYML.html"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-02-08T11:34:15.069Z",
+    "last_updated": "2026-02-08T11:34:15.069Z"
+  }
+}
