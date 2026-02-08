@@ -1,0 +1,174 @@
+{
+  "metadata": {
+    "product_id": "B004C0592I",
+    "slug": "reebok-reebok-court-advance-sneakers-for-men-B004C059",
+    "generated_at": "2026-02-08T11:34:27.061Z",
+    "source": "google_sheets",
+    "version": "1.0"
+  },
+  "product": {
+    "product_id": "B004C0592I",
+    "asin": "B004C0592I",
+    "product_title": "Reebok Court Advance Sneakers for Men",
+    "brand": "Reebok",
+    "category": "Shoes",
+    "subcategory": "Sneakers",
+    "color": "White Shoes",
+    "gender": "Men",
+    "weight_lbs": 4.21,
+    "upper_material": "Leather",
+    "sole_material": "Rubber",
+    "outer_material": "Leather",
+    "lining": "OrthoLite",
+    "closure_type": "Lace-up",
+    "cushioning": "Padded collar + DMX midsole + memory foam",
+    "breathability": "Perforated",
+    "amazon_url": "https://amzn.to/4qVcB7U",
+    "price_min": 49.99,
+    "price_max": 60,
+    "currency": "USD",
+    "rating": 4.5,
+    "review_count": 8867,
+    "comfort_score": 73,
+    "durability_score": 78,
+    "breathability_score": 75,
+    "overall_score": 75.33333333333333,
+    "short_description": "Classic Reebok men's tennis-inspired casual sneakers",
+    "about_this_item": "The Court Advance combines retro style with comfort. Features leather upper, OrthoLite sock liner, DMX midsole bubbles, padded collar, and durable rubber sole. Ideal for casual wear or court sports. Perforated details enhance breathability. Available in multiple sizes and colors.",
+    "primary_keyword": "Reebok Court Advance Sneakers",
+    "slug": "reebok-reebok-court-advance-sneakers-for-men-B004C059",
+    "blogger_url": "https://shoes-on-white.blogspot.com/2026/02/reebok-reebok-court-advance-sneakers-for-men-B004C059.html",
+    "image_urls": [
+      "https://m.media-amazon.com/images/I/61UkNHUu8jL._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/71lIDawB4TL._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/61Fu-66ijNL._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/61JgtctRtCL._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/71EcZKNgVTL._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/71sCnHmAl4L._AC_SY500_.jpg"
+    ],
+    "main_image": "https://m.media-amazon.com/images/I/61UkNHUu8jL._AC_SY500_.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://shoes-on-white.blogspot.com/#product-B004C0592I",
+      "name": "Reebok Court Advance Sneakers for Men",
+      "description": "Classic Reebok men's tennis-inspired casual sneakers",
+      "url": "https://shoes-on-white.blogspot.com/2026/02/reebok-reebok-court-advance-sneakers-for-men-B004C059.html",
+      "sku": "B004C0592I",
+      "mpn": "B004C0592I",
+      "brand": {
+        "@type": "Brand",
+        "name": "Reebok"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://shoes-on-white.blogspot.com/2026/02/reebok-reebok-court-advance-sneakers-for-men-B004C059.html",
+        "priceCurrency": "USD",
+        "price": 49.99,
+        "priceValidUntil": "2027-02-08",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "reviewCount": 8867,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Sneakers"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Color",
+          "value": "White Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Leather"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Closure Type",
+          "value": "Lace-up"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Weight",
+          "value": "4.21"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Comfort Score",
+          "value": "73"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Durability Score",
+          "value": "78"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Breathability Score",
+          "value": "75"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Overall Score",
+          "value": "75.33333333333333"
+        }
+      ],
+      "image": [
+        "https://m.media-amazon.com/images/I/61UkNHUu8jL._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/71lIDawB4TL._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/61Fu-66ijNL._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/61JgtctRtCL._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/71EcZKNgVTL._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/71sCnHmAl4L._AC_SY500_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://shoes-on-white.blogspot.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Shoes",
+            "item": "https://shoes-on-white.blogspot.com/search/label/shoes"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Reebok Court Advance Sneakers for Men",
+            "item": "https://shoes-on-white.blogspot.com/2026/02/reebok-reebok-court-advance-sneakers-for-men-B004C059.html"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-02-08T11:34:15.067Z",
+    "last_updated": "2026-02-08T11:34:15.067Z"
+  }
+}
