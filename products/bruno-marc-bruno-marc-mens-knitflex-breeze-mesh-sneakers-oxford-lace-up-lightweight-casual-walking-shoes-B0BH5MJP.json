@@ -1,0 +1,171 @@
+{
+  "metadata": {
+    "product_id": "B0BH5MJPGS",
+    "slug": "bruno-marc-bruno-marc-mens-knitflex-breeze-mesh-sneakers-oxford-lace-up-lightweight-casual-walking-shoes-B0BH5MJP",
+    "generated_at": "2026-02-08T11:34:44.552Z",
+    "source": "google_sheets",
+    "version": "1.0"
+  },
+  "product": {
+    "product_id": "B0BH5MJPGS",
+    "asin": "B0BH5MJPGS",
+    "product_title": "Bruno Marc Men's KnitFlex Breeze Mesh Sneakers Oxford Lace-up Lightweight Casual Walking Shoes",
+    "brand": "Bruno Marc",
+    "category": "Shoes",
+    "subcategory": "Sneakers",
+    "color": "White Shoes",
+    "gender": "Men",
+    "weight_lbs": "N/A",
+    "upper_material": "Knitted mesh",
+    "sole_material": "EVA (Ethylene Vinyl Acetate)",
+    "outer_material": "Textile (knit mesh)",
+    "lining": "Memory foam",
+    "closure_type": "Lace-Up",
+    "cushioning": "Memory foam insole + cushy EVA outsole",
+    "breathability": "High (breathable knitted upper)",
+    "amazon_url": "https://amzn.to/4r3nW64",
+    "price_min": 38.99,
+    "price_max": 38.99,
+    "currency": "USD",
+    "rating": 4.6,
+    "review_count": 13578,
+    "comfort_score": 82,
+    "durability_score": 82,
+    "breathability_score": 88,
+    "overall_score": 84,
+    "short_description": "Breathable lightweight knit mesh casual sneaker ? great for walking & summer",
+    "about_this_item": "? Breathable knitted upper for airflow ? Responsive EVA outsole + memory foam insole for cushioning ? Elastic collar, lace-up & pull tab for easy on/off ? Lightweight (7.76 oz per shoe) ? Casual/semi-formal style with wing-shaped stitching",
+    "primary_keyword": "Bruno Marc KnitFlex Breeze Mesh White",
+    "slug": "bruno-marc-bruno-marc-mens-knitflex-breeze-mesh-sneakers-oxford-lace-up-lightweight-casual-walking-shoes-B0BH5MJP",
+    "blogger_url": "https://shoes-on-white.blogspot.com/2026/02/bruno-marc-bruno-marc-mens-knitflex-breeze-mesh-sneakers-oxford-lace-up-lightweight-casual-walking-shoes-B0BH5MJP.html",
+    "image_urls": [
+      "https://m.media-amazon.com/images/I/71O8T-D-fpL._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/710WsUtJUmL._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/71TTMo97IdL._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/71zKjobj4CL._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/71SBldOPm2L._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/71X82ideQ0L._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/71uYJ+qpuyL._AC_SY500_.jpg"
+    ],
+    "main_image": "https://m.media-amazon.com/images/I/71O8T-D-fpL._AC_SY500_.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://shoes-on-white.blogspot.com/#product-B0BH5MJPGS",
+      "name": "Bruno Marc Men's KnitFlex Breeze Mesh Sneakers Oxford Lace-up Lightweight Casual Walking Shoes",
+      "description": "Breathable lightweight knit mesh casual sneaker ? great for walking & summer",
+      "url": "https://shoes-on-white.blogspot.com/2026/02/bruno-marc-bruno-marc-mens-knitflex-breeze-mesh-sneakers-oxford-lace-up-lightweight-casual-walking-shoes-B0BH5MJP.html",
+      "sku": "B0BH5MJPGS",
+      "mpn": "B0BH5MJPGS",
+      "brand": {
+        "@type": "Brand",
+        "name": "Bruno Marc"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://shoes-on-white.blogspot.com/2026/02/bruno-marc-bruno-marc-mens-knitflex-breeze-mesh-sneakers-oxford-lace-up-lightweight-casual-walking-shoes-B0BH5MJP.html",
+        "priceCurrency": "USD",
+        "price": 38.99,
+        "priceValidUntil": "2027-02-08",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.6,
+        "reviewCount": 13578,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Sneakers"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Color",
+          "value": "White Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Knitted mesh"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Closure Type",
+          "value": "Lace-Up"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Comfort Score",
+          "value": "82"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Durability Score",
+          "value": "82"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Breathability Score",
+          "value": "88"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Overall Score",
+          "value": "84"
+        }
+      ],
+      "image": [
+        "https://m.media-amazon.com/images/I/71O8T-D-fpL._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/710WsUtJUmL._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/71TTMo97IdL._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/71zKjobj4CL._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/71SBldOPm2L._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/71X82ideQ0L._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/71uYJ+qpuyL._AC_SY500_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://shoes-on-white.blogspot.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Shoes",
+            "item": "https://shoes-on-white.blogspot.com/search/label/shoes"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Bruno Marc Men's KnitFlex Breeze Mesh Sneakers Oxford Lace-up Lightweight Casual Walking Shoes",
+            "item": "https://shoes-on-white.blogspot.com/2026/02/bruno-marc-bruno-marc-mens-knitflex-breeze-mesh-sneakers-oxford-lace-up-lightweight-casual-walking-shoes-B0BH5MJP.html"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-02-08T11:34:15.069Z",
+    "last_updated": "2026-02-08T11:34:15.069Z"
+  }
+}
