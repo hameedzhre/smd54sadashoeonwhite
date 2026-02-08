@@ -1,0 +1,176 @@
+{
+  "metadata": {
+    "product_id": "B0F8VJ3B5D",
+    "slug": "skechers-skechers-womens-arch-fit-arcade-meet-ya-there-sneakers-B0F8VJ3B",
+    "generated_at": "2026-02-08T11:34:24.769Z",
+    "source": "google_sheets",
+    "version": "1.0"
+  },
+  "product": {
+    "product_id": "B0F8VJ3B5D",
+    "asin": "B0F8VJ3B5D",
+    "product_title": "Skechers Women's Arch Fit Arcade Meet Ya There Sneakers",
+    "brand": "Skechers",
+    "category": "Shoes",
+    "subcategory": "Sneakers",
+    "color": "White Shoes",
+    "gender": "Women",
+    "weight_lbs": 3,
+    "upper_material": "Canvas",
+    "sole_material": "Rubber",
+    "outer_material": "Canvas",
+    "lining": "N/A",
+    "closure_type": "Slip-On (No Tie Fit)",
+    "cushioning": "Arch Fit Insole, Lightweight Cushioned Midsole",
+    "breathability": "Vegan-friendly, Canvas",
+    "amazon_url": "https://amzn.to/4kiH4u2",
+    "price_min": 50.99,
+    "price_max": 78,
+    "currency": "USD",
+    "rating": 4.5,
+    "review_count": 1915,
+    "comfort_score": 90,
+    "durability_score": 83,
+    "breathability_score": 80,
+    "overall_score": 84.33333333333333,
+    "short_description": "Slip-on sneakers with podiatrist-certified arch support and vegan canvas upper.",
+    "about_this_item": "PODIATRIST-CERTIFIED SUPPORT: Arch Fit insole system provides exceptional arch support... EASY SLIP-ON DESIGN... PREMIUM COMFORT FEATURES... VEGAN-FRIENDLY CONSTRUCTION... VERSATILE STYLE...",
+    "primary_keyword": "womens slip on shoes, slip on shoes for women",
+    "slug": "skechers-skechers-womens-arch-fit-arcade-meet-ya-there-sneakers-B0F8VJ3B",
+    "blogger_url": "https://shoes-on-white.blogspot.com/2026/02/skechers-skechers-womens-arch-fit-arcade-meet-ya-there-sneakers-B0F8VJ3B.html",
+    "image_urls": [
+      "https://m.media-amazon.com/images/I/71qSEh7gAPL._AC_SX500_.jpg",
+      "https://m.media-amazon.com/images/I/6109s2G152L._AC_SX500_.jpg",
+      "https://m.media-amazon.com/images/I/61cZuDxdkBL._AC_SX500_.jpg",
+      "https://m.media-amazon.com/images/I/61x+9fL4ZzL._AC_SX500_.jpg",
+      "https://m.media-amazon.com/images/I/61tZbpizazL._AC_SX500_.jpg",
+      "https://m.media-amazon.com/images/I/61SetvHFDXL._AC_SX500_.jpg",
+      "https://m.media-amazon.com/images/I/61vIdAInu5L._AC_SX500_.jpg"
+    ],
+    "main_image": "https://m.media-amazon.com/images/I/71qSEh7gAPL._AC_SX500_.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://shoes-on-white.blogspot.com/#product-B0F8VJ3B5D",
+      "name": "Skechers Women's Arch Fit Arcade Meet Ya There Sneakers",
+      "description": "Slip-on sneakers with podiatrist-certified arch support and vegan canvas upper.",
+      "url": "https://shoes-on-white.blogspot.com/2026/02/skechers-skechers-womens-arch-fit-arcade-meet-ya-there-sneakers-B0F8VJ3B.html",
+      "sku": "B0F8VJ3B5D",
+      "mpn": "B0F8VJ3B5D",
+      "brand": {
+        "@type": "Brand",
+        "name": "Skechers"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://shoes-on-white.blogspot.com/2026/02/skechers-skechers-womens-arch-fit-arcade-meet-ya-there-sneakers-B0F8VJ3B.html",
+        "priceCurrency": "USD",
+        "price": 50.99,
+        "priceValidUntil": "2027-02-08",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "reviewCount": 1915,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Sneakers"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Color",
+          "value": "White Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Canvas"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Closure Type",
+          "value": "Slip-On (No Tie Fit)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Weight",
+          "value": "3"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Comfort Score",
+          "value": "90"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Durability Score",
+          "value": "83"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Breathability Score",
+          "value": "80"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Overall Score",
+          "value": "84.33333333333333"
+        }
+      ],
+      "image": [
+        "https://m.media-amazon.com/images/I/71qSEh7gAPL._AC_SX500_.jpg",
+        "https://m.media-amazon.com/images/I/6109s2G152L._AC_SX500_.jpg",
+        "https://m.media-amazon.com/images/I/61cZuDxdkBL._AC_SX500_.jpg",
+        "https://m.media-amazon.com/images/I/61x+9fL4ZzL._AC_SX500_.jpg",
+        "https://m.media-amazon.com/images/I/61tZbpizazL._AC_SX500_.jpg",
+        "https://m.media-amazon.com/images/I/61SetvHFDXL._AC_SX500_.jpg",
+        "https://m.media-amazon.com/images/I/61vIdAInu5L._AC_SX500_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://shoes-on-white.blogspot.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Shoes",
+            "item": "https://shoes-on-white.blogspot.com/search/label/shoes"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Skechers Women's Arch Fit Arcade Meet Ya There Sneakers",
+            "item": "https://shoes-on-white.blogspot.com/2026/02/skechers-skechers-womens-arch-fit-arcade-meet-ya-there-sneakers-B0F8VJ3B.html"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-02-08T11:34:15.067Z",
+    "last_updated": "2026-02-08T11:34:15.067Z"
+  }
+}
