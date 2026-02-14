@@ -1,0 +1,194 @@
+{
+  "metadata": {
+    "product_id": "B08C2DZ18Q",
+    "slug": "obtaom-obtaom-womens-play-fashion-sneaker-white-color-washed-and-leopard-canvas-slip-on-B08C2D",
+    "generated_at": "2026-02-14T03:55:35.111Z",
+    "source": "google_sheets",
+    "version": "1.0",
+    "urls": {
+      "product": "https://www.shoesonwhite.com/2026/02/obtaom-obtaom-womens-play-fashion-sneaker-white-color-washed-and-leopard-canvas-slip-on-B08C2D.html",
+      "gender": "https://www.shoesonwhite.com/p/women",
+      "brand": "https://www.shoesonwhite.com/p/obtaom",
+      "subcategory": "https://www.shoesonwhite.com/p/sneakers"
+    }
+  },
+  "product": {
+    "product_id": "B08C2DZ18Q",
+    "asin": "B08C2DZ18Q",
+    "product_title": "Obtaom Women?s Play Fashion Sneaker White Color Washed and Leopard Canvas Slip on Shoes",
+    "brand": "Obtaom",
+    "category": "Shoes",
+    "subcategory": "Sneakers",
+    "color": "White Shoes",
+    "gender": "Women",
+    "weight_lbs": 1.2,
+    "upper_material": "Canvas",
+    "sole_material": "Rubber",
+    "outer_material": "Cotton",
+    "lining": "Fabric",
+    "closure_type": "Slip-On / Laces",
+    "cushioning": "Foam insole padding",
+    "breathability": "Breathable",
+    "amazon_url": "https://amzn.to/4a25p3Z",
+    "price_min": 21.99,
+    "price_max": 21.99,
+    "currency": "USD",
+    "rating": 4.4,
+    "review_count": 15718,
+    "comfort_score": 79,
+    "durability_score": 63,
+    "breathability_score": 55,
+    "overall_score": 65.66666666666667,
+    "short_description": "Comfortable & stylish women?s canvas sneaker",
+    "about_this_item": "FABRIC UPPER: 235g fabric upper with moderate yarn thickness, breathable, soft, keeps dry. SOLE: Rubber sole, quiet, soft, anti-skid. STURDY: Vulcanized three times under high pressure, elastic band or laces, super comfort padding. Perfect slip-on fashion sneaker for women.",
+    "primary_keyword": "women canvas sneakers",
+    "slug": "obtaom-obtaom-womens-play-fashion-sneaker-white-color-washed-and-leopard-canvas-slip-on-B08C2D",
+    "url": "https://www.shoesonwhite.com/2026/02/obtaom-obtaom-womens-play-fashion-sneaker-white-color-washed-and-leopard-canvas-slip-on-B08C2D.html",
+    "gender_url": "https://www.shoesonwhite.com/p/women",
+    "brand_url": "https://www.shoesonwhite.com/p/obtaom",
+    "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
+    "image_urls": [
+      "https://m.media-amazon.com/images/I/71hEr4RNgcL._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/81NdLCYkgCL._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/71rD1aNbg-L._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/81FCjxJmlqL._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/71ZwHXPRDLL._AC_SY500_.jpg"
+    ],
+    "main_image": "https://m.media-amazon.com/images/I/71hEr4RNgcL._AC_SY500_.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://www.shoesonwhite.com/#product-B08C2DZ18Q",
+      "name": "Obtaom Women?s Play Fashion Sneaker White Color Washed and Leopard Canvas Slip on Shoes",
+      "description": "Comfortable & stylish women?s canvas sneaker",
+      "url": "https://www.shoesonwhite.com/2026/02/obtaom-obtaom-womens-play-fashion-sneaker-white-color-washed-and-leopard-canvas-slip-on-B08C2D.html",
+      "sku": "B08C2DZ18Q",
+      "mpn": "B08C2DZ18Q",
+      "brand": {
+        "@type": "Brand",
+        "name": "Obtaom",
+        "url": "https://www.shoesonwhite.com/p/obtaom"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.shoesonwhite.com/2026/02/obtaom-obtaom-womens-play-fashion-sneaker-white-color-washed-and-leopard-canvas-slip-on-B08C2D.html",
+        "priceCurrency": "USD",
+        "price": 21.99,
+        "priceValidUntil": "2027-02-14",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.4,
+        "reviewCount": 15718,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Sneakers"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Color",
+          "value": "White Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Canvas"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Closure Type",
+          "value": "Slip-On / Laces"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Weight",
+          "value": "1.2"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Comfort Score",
+          "value": "79"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Durability Score",
+          "value": "63"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Breathability Score",
+          "value": "55"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Overall Score",
+          "value": "65.66666666666667"
+        }
+      ],
+      "image": [
+        "https://m.media-amazon.com/images/I/71hEr4RNgcL._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/81NdLCYkgCL._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/71rD1aNbg-L._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/81FCjxJmlqL._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/71ZwHXPRDLL._AC_SY500_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.shoesonwhite.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Women",
+            "item": "https://www.shoesonwhite.com/p/women"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Obtaom",
+            "item": "https://www.shoesonwhite.com/p/obtaom"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Sneakers",
+            "item": "https://www.shoesonwhite.com/p/sneakers"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Obtaom Women?s Play Fashion Sneaker White Color Washed and Leopard Canvas Slip on Shoes",
+            "item": "https://www.shoesonwhite.com/2026/02/obtaom-obtaom-womens-play-fashion-sneaker-white-color-washed-and-leopard-canvas-slip-on-B08C2D.html"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-02-14T03:55:21.101Z",
+    "last_updated": "2026-02-14T03:55:21.101Z"
+  }
+}
