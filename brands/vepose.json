@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "name": "Vepose",
+    "slug": "vepose",
+    "url": "https://www.shoesonwhite.com/p/vepose",
+    "generated_at": "2026-02-14T03:55:52.543Z",
+    "total_products": 1,
+    "site_url": "https://www.shoesonwhite.com"
+  },
+  "brand": {
+    "name": "Vepose",
+    "slug": "vepose",
+    "url": "https://www.shoesonwhite.com/p/vepose"
+  },
+  "products": [
+    {
+      "product_id": "B08XM4K566",
+      "title": "Vepose Women's Fashion Sneakers Casual Shoes Comfortable Dress Sneaker 2.0",
+      "slug": "vepose-vepose-womens-fashion-sneakers-casual-shoes-comfortable-dress-sneaker-20-B08XM4",
+      "url": "https://www.shoesonwhite.com/2026/02/vepose-vepose-womens-fashion-sneakers-casual-shoes-comfortable-dress-sneaker-20-B08XM4.html",
+      "gender": "Women",
+      "subcategory": "Sneakers",
+      "price_min": 29.99,
+      "image": "https://m.media-amazon.com/images/I/61AVf1BUsvL._AC_SX500_.jpg",
+      "overall_score": 71.66666666666667
+    }
+  ]
+}
