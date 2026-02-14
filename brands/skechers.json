@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "name": "Skechers",
+    "slug": "skechers",
+    "url": "https://www.shoesonwhite.com/p/skechers",
+    "generated_at": "2026-02-14T03:55:55.490Z",
+    "total_products": 6,
+    "site_url": "https://www.shoesonwhite.com"
+  },
+  "brand": {
+    "name": "Skechers",
+    "slug": "skechers",
+    "url": "https://www.shoesonwhite.com/p/skechers"
+  },
+  "products": [
+    {
+      "product_id": "B0FH7GZD1Y",
+      "title": "Skechers Women's Uno Stand on Air Sneakers",
+      "slug": "skechers-skechers-womens-uno-stand-on-air-sneakers-B0FH7G",
+      "url": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-uno-stand-on-air-sneakers-B0FH7G.html",
+      "gender": "Women",
+      "subcategory": "Sneakers",
+      "price_min": 44.99,
+      "image": "https://m.media-amazon.com/images/I/717k9ujBpFL._AC_SX500_.jpg",
+      "overall_score": 81
+    },
+    {
+      "product_id": "B0D7YTJBMF",
+      "title": "Skechers Women's Summits Sneaker",
+      "slug": "skechers-skechers-womens-summits-sneaker-B0D7YT",
+      "url": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-summits-sneaker-B0D7YT.html",
+      "gender": "Women",
+      "subcategory": "Sneakers",
+      "price_min": 40,
+      "image": "https://m.media-amazon.com/images/I/61SVqFHUMVL._AC_SY500_.jpg",
+      "overall_score": 80.33333333333333
+    },
+    {
+      "product_id": "B0F9294296",
+      "title": "Skechers Women's Go Walk Joy Cushioning Sneakers",
+      "slug": "skechers-skechers-womens-go-walk-joy-cushioning-sneakers-B0F929",
+      "url": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-go-walk-joy-cushioning-sneakers-B0F929.html",
+      "gender": "Women",
+      "subcategory": "Athletic",
+      "price_min": 44.88,
+      "image": "https://m.media-amazon.com/images/I/61O-QcGZp+L._AC_SX522_.jpg",
+      "overall_score": 80.66666666666667
+    },
+    {
+      "product_id": "B014GNJWW7",
+      "title": "Skechers Women's D'Lites Fresh Start Memory Foam Sneakers",
+      "slug": "skechers-skechers-womens-dlites-fresh-start-memory-foam-sneakers-B014GN",
+      "url": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-dlites-fresh-start-memory-foam-sneakers-B014GN.html",
+      "gender": "Women",
+      "subcategory": "Sneakers",
+      "price_min": 49.72,
+      "image": "https://m.media-amazon.com/images/I/619BpI3vxQL._AC_SY500_.jpg",
+      "overall_score": 78.66666666666667
+    },
+    {
+      "product_id": "B0FBSBXCMS",
+      "title": "Skechers Women's Bobs B Cute Sneaker ? Memory Foam, Flexible Outsole, Lightweight Vegan Shoes",
+      "slug": "skechers-skechers-womens-bobs-b-cute-sneaker-memory-foam-flexible-outsole-lightweight-veg-B0FBSB",
+      "url": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-bobs-b-cute-sneaker-memory-foam-flexible-outsole-lightweight-veg-B0FBSB.html",
+      "gender": "Women",
+      "subcategory": "Sneakers",
+      "price_min": 49.95,
+      "image": "https://m.media-amazon.com/images/I/71KJFFcZd2L._AC_SY500_.jpg",
+      "overall_score": 79.66666666666667
+    },
+    {
+      "product_id": "B0F8VJ3B5D",
+      "title": "Skechers Women's Arch Fit Arcade Meet Ya There Sneakers",
+      "slug": "skechers-skechers-womens-arch-fit-arcade-meet-ya-there-sneakers-B0F8VJ",
+      "url": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-arch-fit-arcade-meet-ya-there-sneakers-B0F8VJ.html",
+      "gender": "Women",
+      "subcategory": "Sneakers",
+      "price_min": 50.99,
+      "image": "https://m.media-amazon.com/images/I/71qSEh7gAPL._AC_SX500_.jpg",
+      "overall_score": 84.33333333333333
+    }
+  ]
+}
