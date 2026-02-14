@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "name": "GUESS",
+    "slug": "guess",
+    "url": "https://www.shoesonwhite.com/p/guess",
+    "generated_at": "2026-02-14T03:56:04.000Z",
+    "total_products": 1,
+    "site_url": "https://www.shoesonwhite.com"
+  },
+  "brand": {
+    "name": "GUESS",
+    "slug": "guess",
+    "url": "https://www.shoesonwhite.com/p/guess"
+  },
+  "products": [
+    {
+      "product_id": "B0FBLYMLPC",
+      "title": "Guess Womens Loven",
+      "slug": "guess-guess-womens-loven-B0FBLY",
+      "url": "https://www.shoesonwhite.com/2026/02/guess-guess-womens-loven-B0FBLY.html",
+      "gender": "Women",
+      "subcategory": "Sneakers",
+      "price_min": 59.99,
+      "image": "https://m.media-amazon.com/images/I/613p+B8-MtL._AC_SX500_.jpg",
+      "overall_score": 64
+    }
+  ]
+}
