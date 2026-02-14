@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "name": "VAMJAM",
+    "slug": "vamjam",
+    "url": "https://www.shoesonwhite.com/p/vamjam",
+    "generated_at": "2026-02-14T03:55:53.754Z",
+    "total_products": 1,
+    "site_url": "https://www.shoesonwhite.com"
+  },
+  "brand": {
+    "name": "VAMJAM",
+    "slug": "vamjam",
+    "url": "https://www.shoesonwhite.com/p/vamjam"
+  },
+  "products": [
+    {
+      "product_id": "B0DCV7BV1F",
+      "title": "VAMJAM Men's Running Shoes Fashion Sneakers - Lightweight Breathable Flying Knitting Lace Up Mesh Walking Shoes Workout Casual Sports Shoes",
+      "slug": "vamjam-vamjam-mens-running-shoes-fashion-sneakers-lightweight-breathable-flying-knittin-B0DCV7",
+      "url": "https://www.shoesonwhite.com/2026/02/vamjam-vamjam-mens-running-shoes-fashion-sneakers-lightweight-breathable-flying-knittin-B0DCV7.html",
+      "gender": "Men",
+      "subcategory": "Athletic",
+      "price_min": 32.99,
+      "image": "https://m.media-amazon.com/images/I/619BpI3vxQL._AC_SY500_.jpg",
+      "overall_score": 80.66666666666667
+    }
+  ]
+}
