@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "name": "Under Armour",
+    "slug": "under-armour",
+    "url": "https://www.shoesonwhite.com/p/under-armour",
+    "generated_at": "2026-02-14T03:55:54.263Z",
+    "total_products": 1,
+    "site_url": "https://www.shoesonwhite.com"
+  },
+  "brand": {
+    "name": "Under Armour",
+    "slug": "under-armour",
+    "url": "https://www.shoesonwhite.com/p/under-armour"
+  },
+  "products": [
+    {
+      "product_id": "B0FCK8MX1X",
+      "title": "Under Armour Men's Charged Surge 4 Sneaker",
+      "slug": "under-armour-under-armour-mens-charged-surge-4-sneaker-B0FCK8",
+      "url": "https://www.shoesonwhite.com/2026/02/under-armour-under-armour-mens-charged-surge-4-sneaker-B0FCK8.html",
+      "gender": "Men",
+      "subcategory": "Sneakers",
+      "price_min": 54.99,
+      "image": "https://m.media-amazon.com/images/I/71hvGJOasWL._AC_SY500_.jpg",
+      "overall_score": 83.66666666666667
+    }
+  ]
+}
