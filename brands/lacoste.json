@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "name": "Lacoste",
+    "slug": "lacoste",
+    "url": "https://www.shoesonwhite.com/p/lacoste",
+    "generated_at": "2026-02-14T03:56:02.288Z",
+    "total_products": 1,
+    "site_url": "https://www.shoesonwhite.com"
+  },
+  "brand": {
+    "name": "Lacoste",
+    "slug": "lacoste",
+    "url": "https://www.shoesonwhite.com/p/lacoste"
+  },
+  "products": [
+    {
+      "product_id": "B0922CS587",
+      "title": "Lacoste Men's Bayliss Sneakers",
+      "slug": "lacoste-lacoste-mens-bayliss-sneakers-B0922C",
+      "url": "https://www.shoesonwhite.com/2026/02/lacoste-lacoste-mens-bayliss-sneakers-B0922C.html",
+      "gender": "Men",
+      "subcategory": "Sneakers",
+      "price_min": 66.28,
+      "image": "https://m.media-amazon.com/images/I/41BLROZVPOL._AC_SY500_.jpg",
+      "overall_score": 75.33333333333333
+    }
+  ]
+}
