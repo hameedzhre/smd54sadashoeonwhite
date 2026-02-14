@@ -1,0 +1,191 @@
+{
+  "metadata": {
+    "product_id": "B0922CS587",
+    "slug": "lacoste-lacoste-mens-bayliss-sneakers-B0922C",
+    "generated_at": "2026-02-14T03:55:41.536Z",
+    "source": "google_sheets",
+    "version": "1.0",
+    "urls": {
+      "product": "https://www.shoesonwhite.com/2026/02/lacoste-lacoste-mens-bayliss-sneakers-B0922C.html",
+      "gender": "https://www.shoesonwhite.com/p/men",
+      "brand": "https://www.shoesonwhite.com/p/lacoste",
+      "subcategory": "https://www.shoesonwhite.com/p/sneakers"
+    }
+  },
+  "product": {
+    "product_id": "B0922CS587",
+    "asin": "B0922CS588",
+    "product_title": "Lacoste Men's Bayliss Sneakers",
+    "brand": "Lacoste",
+    "category": "Shoes",
+    "subcategory": "Sneakers",
+    "color": "White Shoes",
+    "gender": "Men",
+    "weight_lbs": "N/A",
+    "upper_material": "Polyester / Leather / Polyurethane (52%-36%-12%)",
+    "sole_material": "Rubber",
+    "outer_material": "Fabric / Leather / Synthetic",
+    "lining": "Textile (implied)",
+    "closure_type": "Lace-up",
+    "cushioning": "Moderate (padded collar & tongue)",
+    "breathability": "Moderate (fabric upper)",
+    "amazon_url": "https://amzn.to/3OrAkOz",
+    "price_min": 66.28,
+    "price_max": 98,
+    "currency": "USD",
+    "rating": 4.5,
+    "review_count": 9843,
+    "comfort_score": 74,
+    "durability_score": 80,
+    "breathability_score": 72,
+    "overall_score": 75.33333333333333,
+    "short_description": "Low-profile classic casual sneaker ? versatile with suits or jeans, good value at discount",
+    "about_this_item": "? Low profile sneaker for men ? Polyester/leather/polyurethane upper ? Rubber sole ? Padded collar & tongue ? Imported",
+    "primary_keyword": "Lacoste Bayliss Deep White",
+    "slug": "lacoste-lacoste-mens-bayliss-sneakers-B0922C",
+    "url": "https://www.shoesonwhite.com/2026/02/lacoste-lacoste-mens-bayliss-sneakers-B0922C.html",
+    "gender_url": "https://www.shoesonwhite.com/p/men",
+    "brand_url": "https://www.shoesonwhite.com/p/lacoste",
+    "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
+    "image_urls": [
+      "https://m.media-amazon.com/images/I/41BLROZVPOL._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/41Mw4WS6bZL._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/41of3qE8inL._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/41d3Qwig+DL._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/41g2L3M-nhL._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/71DZRfsieIL._AC_SY500_.jpg"
+    ],
+    "main_image": "https://m.media-amazon.com/images/I/41BLROZVPOL._AC_SY500_.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://www.shoesonwhite.com/#product-B0922CS587",
+      "name": "Lacoste Men's Bayliss Sneakers",
+      "description": "Low-profile classic casual sneaker ? versatile with suits or jeans, good value at discount",
+      "url": "https://www.shoesonwhite.com/2026/02/lacoste-lacoste-mens-bayliss-sneakers-B0922C.html",
+      "sku": "B0922CS587",
+      "mpn": "B0922CS588",
+      "brand": {
+        "@type": "Brand",
+        "name": "Lacoste",
+        "url": "https://www.shoesonwhite.com/p/lacoste"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.shoesonwhite.com/2026/02/lacoste-lacoste-mens-bayliss-sneakers-B0922C.html",
+        "priceCurrency": "USD",
+        "price": 66.28,
+        "priceValidUntil": "2027-02-14",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "reviewCount": 9843,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Sneakers"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Color",
+          "value": "White Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Polyester / Leather / Polyurethane (52%-36%-12%)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Closure Type",
+          "value": "Lace-up"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Comfort Score",
+          "value": "74"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Durability Score",
+          "value": "80"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Breathability Score",
+          "value": "72"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Overall Score",
+          "value": "75.33333333333333"
+        }
+      ],
+      "image": [
+        "https://m.media-amazon.com/images/I/41BLROZVPOL._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/41Mw4WS6bZL._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/41of3qE8inL._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/41d3Qwig+DL._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/41g2L3M-nhL._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/71DZRfsieIL._AC_SY500_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.shoesonwhite.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Men",
+            "item": "https://www.shoesonwhite.com/p/men"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Lacoste",
+            "item": "https://www.shoesonwhite.com/p/lacoste"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Sneakers",
+            "item": "https://www.shoesonwhite.com/p/sneakers"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Lacoste Men's Bayliss Sneakers",
+            "item": "https://www.shoesonwhite.com/2026/02/lacoste-lacoste-mens-bayliss-sneakers-B0922C.html"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-02-14T03:55:21.101Z",
+    "last_updated": "2026-02-14T03:55:21.101Z"
+  }
+}
