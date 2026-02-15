@@ -2,11 +2,11 @@
   "metadata": {
     "product_id": "B0FCK8MX1X",
     "slug": "under-armour-under-armour-mens-charged-surge-4-sneaker-B0FCK8",
-    "generated_at": "2026-02-14T03:55:25.357Z",
+    "generated_at": "2026-02-15T04:27:07.131Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
-      "product": "https://www.shoesonwhite.com/2026/02/under-armour-under-armour-mens-charged-surge-4-sneaker-B0FCK8.html",
+      "product": "https://www.shoesonwhite.com/sneakers+under-armour-mens-charged-surge-4-sneaker",
       "gender": "https://www.shoesonwhite.com/p/men",
       "brand": "https://www.shoesonwhite.com/p/under-armour",
       "subcategory": "https://www.shoesonwhite.com/p/sneakers"
@@ -43,7 +43,7 @@
     "about_this_item": "Breathable mesh upper with synthetic overlays, enhanced cushioning around ankle collar, Deluxe Comfort System sockliner, Charged Cushioning? midsole for all-day comfort, durable rubber outsole providing traction and flexibility",
     "primary_keyword": "Under Armour Men's Charged Surge 4",
     "slug": "under-armour-under-armour-mens-charged-surge-4-sneaker-B0FCK8",
-    "url": "https://www.shoesonwhite.com/2026/02/under-armour-under-armour-mens-charged-surge-4-sneaker-B0FCK8.html",
+    "url": "https://www.shoesonwhite.com/sneakers+under-armour-mens-charged-surge-4-sneaker",
     "gender_url": "https://www.shoesonwhite.com/p/men",
     "brand_url": "https://www.shoesonwhite.com/p/under-armour",
     "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -60,7 +60,7 @@
       "@id": "https://www.shoesonwhite.com/#product-B0FCK8MX1X",
       "name": "Under Armour Men's Charged Surge 4 Sneaker",
       "description": "Breathable, cushioned running sneakers for men",
-      "url": "https://www.shoesonwhite.com/2026/02/under-armour-under-armour-mens-charged-surge-4-sneaker-B0FCK8.html",
+      "url": "https://www.shoesonwhite.com/sneakers+under-armour-mens-charged-surge-4-sneaker",
       "sku": "B0FCK8MX1X",
       "mpn": "B0FCK8MX1X",
       "brand": {
@@ -70,10 +70,10 @@
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.shoesonwhite.com/2026/02/under-armour-under-armour-mens-charged-surge-4-sneaker-B0FCK8.html",
+        "url": "https://www.shoesonwhite.com/sneakers+under-armour-mens-charged-surge-4-sneaker",
         "priceCurrency": "USD",
         "price": 54.99,
-        "priceValidUntil": "2027-02-14",
+        "priceValidUntil": "2027-02-15",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -181,12 +181,12 @@
             "@type": "ListItem",
             "position": 5,
             "name": "Under Armour Men's Charged Surge 4 Sneaker",
-            "item": "https://www.shoesonwhite.com/2026/02/under-armour-under-armour-mens-charged-surge-4-sneaker-B0FCK8.html"
+            "item": "https://www.shoesonwhite.com/sneakers+under-armour-mens-charged-surge-4-sneaker"
           }
         ]
       }
     },
-    "created_at": "2026-02-14T03:55:21.099Z",
-    "last_updated": "2026-02-14T03:55:21.099Z"
+    "created_at": "2026-02-15T04:27:03.592Z",
+    "last_updated": "2026-02-15T04:27:03.592Z"
   }
 }
