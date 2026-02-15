@@ -1,0 +1,196 @@
+{
+  "metadata": {
+    "product_id": "B0DB22DYWJ",
+    "slug": "lugz-lugz-mens-clipper-sneaker-B0DB22",
+    "generated_at": "2026-02-15T04:34:11.789Z",
+    "source": "google_sheets",
+    "version": "1.0",
+    "urls": {
+      "product": "https://www.shoesonwhite.com/sneakers+mens-clipper-sneaker",
+      "gender": "https://www.shoesonwhite.com/p/men",
+      "brand": "https://www.shoesonwhite.com/p/lugz",
+      "subcategory": "https://www.shoesonwhite.com/p/sneakers"
+    }
+  },
+  "product": {
+    "product_id": "B0DB22DYWJ",
+    "asin": "B0DB22DYWJ",
+    "product_title": "Lugz Men?s Clipper Sneaker",
+    "brand": "Lugz",
+    "category": "Shoes",
+    "subcategory": "Sneakers",
+    "color": "White Shoes",
+    "gender": "Men",
+    "weight_lbs": 0.73,
+    "upper_material": "Canvas",
+    "sole_material": "Rubber",
+    "outer_material": "Canvas",
+    "lining": "Cushioned",
+    "closure_type": "Slip-On",
+    "cushioning": "Cushioned Insole",
+    "breathability": "Breathable",
+    "amazon_url": "https://amzn.to/4qYlX2F",
+    "price_min": 29.97,
+    "price_max": 29.97,
+    "currency": "USD",
+    "rating": 4.3,
+    "review_count": 37106,
+    "comfort_score": 60,
+    "durability_score": 71,
+    "breathability_score": 68,
+    "overall_score": 66.33333333333333,
+    "short_description": "Slip-on casual sneaker for men",
+    "about_this_item": "Versatile canvas style with cushioned insole and durable rubber outsole.",
+    "primary_keyword": "Lugz Clipper Sneakers",
+    "slug": "lugz-lugz-mens-clipper-sneaker-B0DB22",
+    "url": "https://www.shoesonwhite.com/sneakers+mens-clipper-sneaker",
+    "gender_url": "https://www.shoesonwhite.com/p/men",
+    "brand_url": "https://www.shoesonwhite.com/p/lugz",
+    "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
+    "image_urls": [
+      "https://m.media-amazon.com/images/I/41dzGp40fSL._AC_SX500_.jpg",
+      "https://m.media-amazon.com/images/I/31NeUNwyUTL._AC_SX500_.jpg",
+      "https://m.media-amazon.com/images/I/31UFRwY4SPL._AC_SX500_.jpg",
+      "https://m.media-amazon.com/images/I/51R9tFHFW8L._AC_SX500_.jpg",
+      "https://m.media-amazon.com/images/I/51qquJ5l5cL._AC_SX500_.jpg",
+      "https://m.media-amazon.com/images/I/41+OQ6jVL+L._AC_SX500_.jpg"
+    ],
+    "main_image": "https://m.media-amazon.com/images/I/41dzGp40fSL._AC_SX500_.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://www.shoesonwhite.com/#product-B0DB22DYWJ",
+      "name": "Lugz Men?s Clipper Sneaker",
+      "description": "Slip-on casual sneaker for men",
+      "url": "https://www.shoesonwhite.com/sneakers+mens-clipper-sneaker",
+      "sku": "B0DB22DYWJ",
+      "mpn": "B0DB22DYWJ",
+      "brand": {
+        "@type": "Brand",
+        "name": "Lugz",
+        "url": "https://www.shoesonwhite.com/p/lugz"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.shoesonwhite.com/sneakers+mens-clipper-sneaker",
+        "priceCurrency": "USD",
+        "price": 29.97,
+        "priceValidUntil": "2027-02-15",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.3,
+        "reviewCount": 37106,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Sneakers"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Color",
+          "value": "White Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Canvas"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Closure Type",
+          "value": "Slip-On"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Weight",
+          "value": "0.73"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Comfort Score",
+          "value": "60"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Durability Score",
+          "value": "71"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Breathability Score",
+          "value": "68"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Overall Score",
+          "value": "66.33333333333333"
+        }
+      ],
+      "image": [
+        "https://m.media-amazon.com/images/I/41dzGp40fSL._AC_SX500_.jpg",
+        "https://m.media-amazon.com/images/I/31NeUNwyUTL._AC_SX500_.jpg",
+        "https://m.media-amazon.com/images/I/31UFRwY4SPL._AC_SX500_.jpg",
+        "https://m.media-amazon.com/images/I/51R9tFHFW8L._AC_SX500_.jpg",
+        "https://m.media-amazon.com/images/I/51qquJ5l5cL._AC_SX500_.jpg",
+        "https://m.media-amazon.com/images/I/41+OQ6jVL+L._AC_SX500_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.shoesonwhite.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Men",
+            "item": "https://www.shoesonwhite.com/p/men"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Lugz",
+            "item": "https://www.shoesonwhite.com/p/lugz"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Sneakers",
+            "item": "https://www.shoesonwhite.com/p/sneakers"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Lugz Men?s Clipper Sneaker",
+            "item": "https://www.shoesonwhite.com/sneakers+mens-clipper-sneaker"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-02-15T04:33:55.518Z",
+    "last_updated": "2026-02-15T04:33:55.518Z"
+  }
+}
