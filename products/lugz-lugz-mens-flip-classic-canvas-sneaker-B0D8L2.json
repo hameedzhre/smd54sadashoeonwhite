@@ -2,11 +2,11 @@
   "metadata": {
     "product_id": "B0D8L25VM2",
     "slug": "lugz-lugz-mens-flip-classic-canvas-sneaker-B0D8L2",
-    "generated_at": "2026-02-14T03:55:40.386Z",
+    "generated_at": "2026-02-15T04:27:21.302Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
-      "product": "https://www.shoesonwhite.com/2026/02/lugz-lugz-mens-flip-classic-canvas-sneaker-B0D8L2.html",
+      "product": "https://www.shoesonwhite.com/sneakers+mens-flip-classic-canvas-sneaker",
       "gender": "https://www.shoesonwhite.com/p/men",
       "brand": "https://www.shoesonwhite.com/p/lugz",
       "subcategory": "https://www.shoesonwhite.com/p/sneakers"
@@ -43,7 +43,7 @@
     "about_this_item": "Cushioned Insole for added comfort, Canvas Upper, Rubber outsole, Lace-up closure, Padded collar",
     "primary_keyword": "Lugz Flip Canvas Sneaker",
     "slug": "lugz-lugz-mens-flip-classic-canvas-sneaker-B0D8L2",
-    "url": "https://www.shoesonwhite.com/2026/02/lugz-lugz-mens-flip-classic-canvas-sneaker-B0D8L2.html",
+    "url": "https://www.shoesonwhite.com/sneakers+mens-flip-classic-canvas-sneaker",
     "gender_url": "https://www.shoesonwhite.com/p/men",
     "brand_url": "https://www.shoesonwhite.com/p/lugz",
     "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -63,7 +63,7 @@
       "@id": "https://www.shoesonwhite.com/#product-B0D8L25VM2",
       "name": "Lugz Mens Flip Classic Canvas Sneaker",
       "description": "Classic and versatile men's canvas sneaker",
-      "url": "https://www.shoesonwhite.com/2026/02/lugz-lugz-mens-flip-classic-canvas-sneaker-B0D8L2.html",
+      "url": "https://www.shoesonwhite.com/sneakers+mens-flip-classic-canvas-sneaker",
       "sku": "B0D8L25VM2",
       "mpn": "B0D8L25VM3",
       "brand": {
@@ -73,10 +73,10 @@
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.shoesonwhite.com/2026/02/lugz-lugz-mens-flip-classic-canvas-sneaker-B0D8L2.html",
+        "url": "https://www.shoesonwhite.com/sneakers+mens-flip-classic-canvas-sneaker",
         "priceCurrency": "USD",
         "price": 29.97,
-        "priceValidUntil": "2027-02-14",
+        "priceValidUntil": "2027-02-15",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -182,12 +182,12 @@
             "@type": "ListItem",
             "position": 5,
             "name": "Lugz Mens Flip Classic Canvas Sneaker",
-            "item": "https://www.shoesonwhite.com/2026/02/lugz-lugz-mens-flip-classic-canvas-sneaker-B0D8L2.html"
+            "item": "https://www.shoesonwhite.com/sneakers+mens-flip-classic-canvas-sneaker"
           }
         ]
       }
     },
-    "created_at": "2026-02-14T03:55:21.101Z",
-    "last_updated": "2026-02-14T03:55:21.101Z"
+    "created_at": "2026-02-15T04:27:03.594Z",
+    "last_updated": "2026-02-15T04:27:03.594Z"
   }
 }
