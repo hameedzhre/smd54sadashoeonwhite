@@ -2,11 +2,11 @@
   "metadata": {
     "product_id": "B014GNJWW7",
     "slug": "skechers-skechers-womens-dlites-fresh-start-memory-foam-sneakers-B014GN",
-    "generated_at": "2026-02-14T03:55:28.308Z",
+    "generated_at": "2026-02-15T04:27:09.855Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
-      "product": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-dlites-fresh-start-memory-foam-sneakers-B014GN.html",
+      "product": "https://www.shoesonwhite.com/sneakers+womens-dlites-fresh-start-memory-foam-sneakers",
       "gender": "https://www.shoesonwhite.com/p/women",
       "brand": "https://www.shoesonwhite.com/p/skechers",
       "subcategory": "https://www.shoesonwhite.com/p/sneakers"
@@ -43,7 +43,7 @@
     "about_this_item": "REVITALIZED CLASSIC STYLE with smooth leather and synthetic upper; CUSHIONED COMFORT using Air-Cooled Memory Foam insole; LIGHTWEIGHT shock-absorbing midsole; FLEXIBLE rubber traction outsole for durability and grip.",
     "primary_keyword": "skechers white sneakers",
     "slug": "skechers-skechers-womens-dlites-fresh-start-memory-foam-sneakers-B014GN",
-    "url": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-dlites-fresh-start-memory-foam-sneakers-B014GN.html",
+    "url": "https://www.shoesonwhite.com/sneakers+womens-dlites-fresh-start-memory-foam-sneakers",
     "gender_url": "https://www.shoesonwhite.com/p/women",
     "brand_url": "https://www.shoesonwhite.com/p/skechers",
     "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -62,7 +62,7 @@
       "@id": "https://www.shoesonwhite.com/#product-B014GNJWW7",
       "name": "Skechers Women's D'Lites Fresh Start Memory Foam Sneakers",
       "description": "Classic white chunky sneakers with memory foam cushioning designed for all-day comfort and casual wear.",
-      "url": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-dlites-fresh-start-memory-foam-sneakers-B014GN.html",
+      "url": "https://www.shoesonwhite.com/sneakers+womens-dlites-fresh-start-memory-foam-sneakers",
       "sku": "B014GNJWW7",
       "mpn": "B014GNJWW8",
       "brand": {
@@ -72,10 +72,10 @@
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-dlites-fresh-start-memory-foam-sneakers-B014GN.html",
+        "url": "https://www.shoesonwhite.com/sneakers+womens-dlites-fresh-start-memory-foam-sneakers",
         "priceCurrency": "USD",
         "price": 49.72,
-        "priceValidUntil": "2027-02-14",
+        "priceValidUntil": "2027-02-15",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -185,12 +185,12 @@
             "@type": "ListItem",
             "position": 5,
             "name": "Skechers Women's D'Lites Fresh Start Memory Foam Sneakers",
-            "item": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-dlites-fresh-start-memory-foam-sneakers-B014GN.html"
+            "item": "https://www.shoesonwhite.com/sneakers+womens-dlites-fresh-start-memory-foam-sneakers"
           }
         ]
       }
     },
-    "created_at": "2026-02-14T03:55:21.100Z",
-    "last_updated": "2026-02-14T03:55:21.100Z"
+    "created_at": "2026-02-15T04:27:03.593Z",
+    "last_updated": "2026-02-15T04:27:03.593Z"
   }
 }
