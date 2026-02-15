@@ -2,11 +2,11 @@
   "metadata": {
     "product_id": "B09537W3Q3",
     "slug": "veja-veja-women-esplar-sneakers-extra-white-B09537",
-    "generated_at": "2026-02-14T03:55:24.156Z",
+    "generated_at": "2026-02-15T04:27:05.964Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
-      "product": "https://www.shoesonwhite.com/2026/02/veja-veja-women-esplar-sneakers-extra-white-B09537.html",
+      "product": "https://www.shoesonwhite.com/sneakers+women-esplar-sneakers-extra-white",
       "gender": "https://www.shoesonwhite.com/p/women",
       "brand": "https://www.shoesonwhite.com/p/veja",
       "subcategory": "https://www.shoesonwhite.com/p/sneakers"
@@ -43,7 +43,7 @@
     "about_this_item": "Outer Material: Chromefree Leather",
     "primary_keyword": "leather sneakers, minimalist sneakers",
     "slug": "veja-veja-women-esplar-sneakers-extra-white-B09537",
-    "url": "https://www.shoesonwhite.com/2026/02/veja-veja-women-esplar-sneakers-extra-white-B09537.html",
+    "url": "https://www.shoesonwhite.com/sneakers+women-esplar-sneakers-extra-white",
     "gender_url": "https://www.shoesonwhite.com/p/women",
     "brand_url": "https://www.shoesonwhite.com/p/veja",
     "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -62,7 +62,7 @@
       "@id": "https://www.shoesonwhite.com/#product-B09537W3Q3",
       "name": "Veja Women Esplar Sneakers Extra White",
       "description": "Minimalist leather sneaker made with chrome-free leather.",
-      "url": "https://www.shoesonwhite.com/2026/02/veja-veja-women-esplar-sneakers-extra-white-B09537.html",
+      "url": "https://www.shoesonwhite.com/sneakers+women-esplar-sneakers-extra-white",
       "sku": "B09537W3Q3",
       "mpn": "B09537W3Q3",
       "brand": {
@@ -72,10 +72,10 @@
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.shoesonwhite.com/2026/02/veja-veja-women-esplar-sneakers-extra-white-B09537.html",
+        "url": "https://www.shoesonwhite.com/sneakers+women-esplar-sneakers-extra-white",
         "priceCurrency": "USD",
         "price": 116.23,
-        "priceValidUntil": "2027-02-14",
+        "priceValidUntil": "2027-02-15",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -185,12 +185,12 @@
             "@type": "ListItem",
             "position": 5,
             "name": "Veja Women Esplar Sneakers Extra White",
-            "item": "https://www.shoesonwhite.com/2026/02/veja-veja-women-esplar-sneakers-extra-white-B09537.html"
+            "item": "https://www.shoesonwhite.com/sneakers+women-esplar-sneakers-extra-white"
           }
         ]
       }
     },
-    "created_at": "2026-02-14T03:55:21.099Z",
-    "last_updated": "2026-02-14T03:55:21.099Z"
+    "created_at": "2026-02-15T04:27:03.592Z",
+    "last_updated": "2026-02-15T04:27:03.592Z"
   }
 }
