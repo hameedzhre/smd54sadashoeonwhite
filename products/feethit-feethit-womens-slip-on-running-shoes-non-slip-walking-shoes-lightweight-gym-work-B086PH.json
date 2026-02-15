@@ -2,11 +2,11 @@
   "metadata": {
     "product_id": "B086PH6G4X",
     "slug": "feethit-feethit-womens-slip-on-running-shoes-non-slip-walking-shoes-lightweight-gym-work-B086PH",
-    "generated_at": "2026-02-14T03:55:43.918Z",
+    "generated_at": "2026-02-15T04:27:24.806Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
-      "product": "https://www.shoesonwhite.com/2026/02/feethit-feethit-womens-slip-on-running-shoes-non-slip-walking-shoes-lightweight-gym-work-B086PH.html",
+      "product": "https://www.shoesonwhite.com/athletic+womens-slip-on-running-shoes-non-slip-walking-shoes-",
       "gender": "https://www.shoesonwhite.com/p/women",
       "brand": "https://www.shoesonwhite.com/p/feethit",
       "subcategory": "https://www.shoesonwhite.com/p/athletic"
@@ -42,7 +42,7 @@
     "about_this_item": "Lightweight and breathable upper, comfy liner, slip-resistant outsole, fashionable, suitable for multiple occasions",
     "primary_keyword": "running shoes",
     "slug": "feethit-feethit-womens-slip-on-running-shoes-non-slip-walking-shoes-lightweight-gym-work-B086PH",
-    "url": "https://www.shoesonwhite.com/2026/02/feethit-feethit-womens-slip-on-running-shoes-non-slip-walking-shoes-lightweight-gym-work-B086PH.html",
+    "url": "https://www.shoesonwhite.com/athletic+womens-slip-on-running-shoes-non-slip-walking-shoes-",
     "gender_url": "https://www.shoesonwhite.com/p/women",
     "brand_url": "https://www.shoesonwhite.com/p/feethit",
     "subcategory_url": "https://www.shoesonwhite.com/p/athletic",
@@ -61,7 +61,7 @@
       "@id": "https://www.shoesonwhite.com/#product-B086PH6G4X",
       "name": "Feethit Womens Slip On Running Shoes Non Slip Walking Shoes Lightweight Gym Workout Shoes Breathable Fashion Sneakers",
       "description": "Lightweight, breathable women's running shoes with slip-on design, mesh upper, memory foam insole, and EVA outsole.",
-      "url": "https://www.shoesonwhite.com/2026/02/feethit-feethit-womens-slip-on-running-shoes-non-slip-walking-shoes-lightweight-gym-work-B086PH.html",
+      "url": "https://www.shoesonwhite.com/athletic+womens-slip-on-running-shoes-non-slip-walking-shoes-",
       "sku": "B086PH6G4X",
       "mpn": "B086PH6G4X",
       "brand": {
@@ -71,10 +71,10 @@
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.shoesonwhite.com/2026/02/feethit-feethit-womens-slip-on-running-shoes-non-slip-walking-shoes-lightweight-gym-work-B086PH.html",
+        "url": "https://www.shoesonwhite.com/athletic+womens-slip-on-running-shoes-non-slip-walking-shoes-",
         "priceCurrency": "USD",
         "price": 35.33,
-        "priceValidUntil": "2027-02-14",
+        "priceValidUntil": "2027-02-15",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -179,12 +179,12 @@
             "@type": "ListItem",
             "position": 5,
             "name": "Feethit Womens Slip On Running Shoes Non Slip Walking Shoes Lightweight Gym Workout Shoes Breathable Fashion Sneakers",
-            "item": "https://www.shoesonwhite.com/2026/02/feethit-feethit-womens-slip-on-running-shoes-non-slip-walking-shoes-lightweight-gym-work-B086PH.html"
+            "item": "https://www.shoesonwhite.com/athletic+womens-slip-on-running-shoes-non-slip-walking-shoes-"
           }
         ]
       }
     },
-    "created_at": "2026-02-14T03:55:21.101Z",
-    "last_updated": "2026-02-14T03:55:21.101Z"
+    "created_at": "2026-02-15T04:27:03.594Z",
+    "last_updated": "2026-02-15T04:27:03.594Z"
   }
 }
