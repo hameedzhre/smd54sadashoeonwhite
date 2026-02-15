@@ -2,11 +2,11 @@
   "metadata": {
     "product_id": "B0BWTDFGBF",
     "slug": "nike-nike-womens-court-legacy-lift-shoes-B0BWTD",
-    "generated_at": "2026-02-14T03:55:36.468Z",
+    "generated_at": "2026-02-15T04:27:17.896Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
-      "product": "https://www.shoesonwhite.com/2026/02/nike-nike-womens-court-legacy-lift-shoes-B0BWTD.html",
+      "product": "https://www.shoesonwhite.com/sneakers+womens-court-legacy-lift-shoes",
       "gender": "https://www.shoesonwhite.com/p/women",
       "brand": "https://www.shoesonwhite.com/p/nike",
       "subcategory": "https://www.shoesonwhite.com/p/sneakers"
@@ -43,7 +43,7 @@
     "about_this_item": "Elevate your style with the Nike Court Legacy Lift. Its platform midsole delivers a bold statement... Subtly layered upper... Rubber outsole... Padded heel and plush tongue...",
     "primary_keyword": "platform sneakers, fashion sneakers",
     "slug": "nike-nike-womens-court-legacy-lift-shoes-B0BWTD",
-    "url": "https://www.shoesonwhite.com/2026/02/nike-nike-womens-court-legacy-lift-shoes-B0BWTD.html",
+    "url": "https://www.shoesonwhite.com/sneakers+womens-court-legacy-lift-shoes",
     "gender_url": "https://www.shoesonwhite.com/p/women",
     "brand_url": "https://www.shoesonwhite.com/p/nike",
     "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -62,7 +62,7 @@
       "@id": "https://www.shoesonwhite.com/#product-B0BWTDFGBF",
       "name": "Nike Women's Court Legacy Lift Shoes",
       "description": "Platform sneaker with a classic, easy-to-wear design and padded comfort.",
-      "url": "https://www.shoesonwhite.com/2026/02/nike-nike-womens-court-legacy-lift-shoes-B0BWTD.html",
+      "url": "https://www.shoesonwhite.com/sneakers+womens-court-legacy-lift-shoes",
       "sku": "B0BWTDFGBF",
       "mpn": "B0BWTDFGBF",
       "brand": {
@@ -72,10 +72,10 @@
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.shoesonwhite.com/2026/02/nike-nike-womens-court-legacy-lift-shoes-B0BWTD.html",
+        "url": "https://www.shoesonwhite.com/sneakers+womens-court-legacy-lift-shoes",
         "priceCurrency": "USD",
         "price": 95,
-        "priceValidUntil": "2027-02-14",
+        "priceValidUntil": "2027-02-15",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -175,12 +175,12 @@
             "@type": "ListItem",
             "position": 5,
             "name": "Nike Women's Court Legacy Lift Shoes",
-            "item": "https://www.shoesonwhite.com/2026/02/nike-nike-womens-court-legacy-lift-shoes-B0BWTD.html"
+            "item": "https://www.shoesonwhite.com/sneakers+womens-court-legacy-lift-shoes"
           }
         ]
       }
     },
-    "created_at": "2026-02-14T03:55:21.101Z",
-    "last_updated": "2026-02-14T03:55:21.101Z"
+    "created_at": "2026-02-15T04:27:03.594Z",
+    "last_updated": "2026-02-15T04:27:03.594Z"
   }
 }
