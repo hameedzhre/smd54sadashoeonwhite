@@ -2,11 +2,11 @@
   "metadata": {
     "product_id": "B004C0592I",
     "slug": "reebok-reebok-court-advance-sneakers-for-men-B004C0",
-    "generated_at": "2026-02-14T03:55:31.368Z",
+    "generated_at": "2026-02-15T04:27:13.003Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
-      "product": "https://www.shoesonwhite.com/2026/02/reebok-reebok-court-advance-sneakers-for-men-B004C0.html",
+      "product": "https://www.shoesonwhite.com/sneakers+court-advance-sneakers-for",
       "gender": "https://www.shoesonwhite.com/p/men",
       "brand": "https://www.shoesonwhite.com/p/reebok",
       "subcategory": "https://www.shoesonwhite.com/p/sneakers"
@@ -43,7 +43,7 @@
     "about_this_item": "The Court Advance combines retro style with comfort. Features leather upper, OrthoLite sock liner, DMX midsole bubbles, padded collar, and durable rubber sole. Ideal for casual wear or court sports. Perforated details enhance breathability. Available in multiple sizes and colors.",
     "primary_keyword": "Reebok Court Advance Sneakers",
     "slug": "reebok-reebok-court-advance-sneakers-for-men-B004C0",
-    "url": "https://www.shoesonwhite.com/2026/02/reebok-reebok-court-advance-sneakers-for-men-B004C0.html",
+    "url": "https://www.shoesonwhite.com/sneakers+court-advance-sneakers-for",
     "gender_url": "https://www.shoesonwhite.com/p/men",
     "brand_url": "https://www.shoesonwhite.com/p/reebok",
     "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -62,7 +62,7 @@
       "@id": "https://www.shoesonwhite.com/#product-B004C0592I",
       "name": "Reebok Court Advance Sneakers for Men",
       "description": "Classic Reebok men's tennis-inspired casual sneakers",
-      "url": "https://www.shoesonwhite.com/2026/02/reebok-reebok-court-advance-sneakers-for-men-B004C0.html",
+      "url": "https://www.shoesonwhite.com/sneakers+court-advance-sneakers-for",
       "sku": "B004C0592I",
       "mpn": "B004C0592I",
       "brand": {
@@ -72,10 +72,10 @@
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.shoesonwhite.com/2026/02/reebok-reebok-court-advance-sneakers-for-men-B004C0.html",
+        "url": "https://www.shoesonwhite.com/sneakers+court-advance-sneakers-for",
         "priceCurrency": "USD",
         "price": 49.99,
-        "priceValidUntil": "2027-02-14",
+        "priceValidUntil": "2027-02-15",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -185,12 +185,12 @@
             "@type": "ListItem",
             "position": 5,
             "name": "Reebok Court Advance Sneakers for Men",
-            "item": "https://www.shoesonwhite.com/2026/02/reebok-reebok-court-advance-sneakers-for-men-B004C0.html"
+            "item": "https://www.shoesonwhite.com/sneakers+court-advance-sneakers-for"
           }
         ]
       }
     },
-    "created_at": "2026-02-14T03:55:21.100Z",
-    "last_updated": "2026-02-14T03:55:21.100Z"
+    "created_at": "2026-02-15T04:27:03.593Z",
+    "last_updated": "2026-02-15T04:27:03.593Z"
   }
 }
