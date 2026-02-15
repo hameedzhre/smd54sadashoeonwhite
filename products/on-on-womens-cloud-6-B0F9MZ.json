@@ -2,11 +2,11 @@
   "metadata": {
     "product_id": "B0F9MZ4KY6",
     "slug": "on-on-womens-cloud-6-B0F9MZ",
-    "generated_at": "2026-02-14T03:55:34.611Z",
+    "generated_at": "2026-02-15T04:27:15.966Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
-      "product": "https://www.shoesonwhite.com/2026/02/on-on-womens-cloud-6-B0F9MZ.html",
+      "product": "https://www.shoesonwhite.com/sneakers+womens-cloud-6",
       "gender": "https://www.shoesonwhite.com/p/women",
       "brand": "https://www.shoesonwhite.com/p/on",
       "subcategory": "https://www.shoesonwhite.com/p/sneakers"
@@ -43,7 +43,7 @@
     "about_this_item": "Elastic speed-lace system, Reflective accents, Cushioned collar and removable insole, Designed for training , Ultra lightweight and breathable design",
     "primary_keyword": "cloud sneakers, running style shoes",
     "slug": "on-on-womens-cloud-6-B0F9MZ",
-    "url": "https://www.shoesonwhite.com/2026/02/on-on-womens-cloud-6-B0F9MZ.html",
+    "url": "https://www.shoesonwhite.com/sneakers+womens-cloud-6",
     "gender_url": "https://www.shoesonwhite.com/p/women",
     "brand_url": "https://www.shoesonwhite.com/p/on",
     "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -61,7 +61,7 @@
       "@id": "https://www.shoesonwhite.com/#product-B0F9MZ4KY6",
       "name": "On Womens Cloud 6",
       "description": "Lightweight running-inspired sneaker with CloudTec cushioning.",
-      "url": "https://www.shoesonwhite.com/2026/02/on-on-womens-cloud-6-B0F9MZ.html",
+      "url": "https://www.shoesonwhite.com/sneakers+womens-cloud-6",
       "sku": "B0F9MZ4KY6",
       "mpn": "B0F9MZ4KY7",
       "brand": {
@@ -71,10 +71,10 @@
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.shoesonwhite.com/2026/02/on-on-womens-cloud-6-B0F9MZ.html",
+        "url": "https://www.shoesonwhite.com/sneakers+womens-cloud-6",
         "priceCurrency": "USD",
         "price": 147.99,
-        "priceValidUntil": "2027-02-14",
+        "priceValidUntil": "2027-02-15",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -178,12 +178,12 @@
             "@type": "ListItem",
             "position": 5,
             "name": "On Womens Cloud 6",
-            "item": "https://www.shoesonwhite.com/2026/02/on-on-womens-cloud-6-B0F9MZ.html"
+            "item": "https://www.shoesonwhite.com/sneakers+womens-cloud-6"
           }
         ]
       }
     },
-    "created_at": "2026-02-14T03:55:21.101Z",
-    "last_updated": "2026-02-14T03:55:21.101Z"
+    "created_at": "2026-02-15T04:27:03.594Z",
+    "last_updated": "2026-02-15T04:27:03.594Z"
   }
 }
