@@ -2,11 +2,11 @@
   "metadata": {
     "product_id": "B0DB22DYWJ",
     "slug": "lugz-lugz-mens-clipper-sneaker-B0DB22",
-    "generated_at": "2026-02-14T03:55:41.009Z",
+    "generated_at": "2026-02-15T04:27:21.863Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
-      "product": "https://www.shoesonwhite.com/2026/02/lugz-lugz-mens-clipper-sneaker-B0DB22.html",
+      "product": "https://www.shoesonwhite.com/sneakers+mens-clipper-sneaker",
       "gender": "https://www.shoesonwhite.com/p/men",
       "brand": "https://www.shoesonwhite.com/p/lugz",
       "subcategory": "https://www.shoesonwhite.com/p/sneakers"
@@ -43,7 +43,7 @@
     "about_this_item": "Versatile canvas style with cushioned insole and durable rubber outsole.",
     "primary_keyword": "Lugz Clipper Sneakers",
     "slug": "lugz-lugz-mens-clipper-sneaker-B0DB22",
-    "url": "https://www.shoesonwhite.com/2026/02/lugz-lugz-mens-clipper-sneaker-B0DB22.html",
+    "url": "https://www.shoesonwhite.com/sneakers+mens-clipper-sneaker",
     "gender_url": "https://www.shoesonwhite.com/p/men",
     "brand_url": "https://www.shoesonwhite.com/p/lugz",
     "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -62,7 +62,7 @@
       "@id": "https://www.shoesonwhite.com/#product-B0DB22DYWJ",
       "name": "Lugz Men?s Clipper Sneaker",
       "description": "Slip-on casual sneaker for men",
-      "url": "https://www.shoesonwhite.com/2026/02/lugz-lugz-mens-clipper-sneaker-B0DB22.html",
+      "url": "https://www.shoesonwhite.com/sneakers+mens-clipper-sneaker",
       "sku": "B0DB22DYWJ",
       "mpn": "B0DB22DYWJ",
       "brand": {
@@ -72,10 +72,10 @@
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.shoesonwhite.com/2026/02/lugz-lugz-mens-clipper-sneaker-B0DB22.html",
+        "url": "https://www.shoesonwhite.com/sneakers+mens-clipper-sneaker",
         "priceCurrency": "USD",
         "price": 29.97,
-        "priceValidUntil": "2027-02-14",
+        "priceValidUntil": "2027-02-15",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -185,12 +185,12 @@
             "@type": "ListItem",
             "position": 5,
             "name": "Lugz Men?s Clipper Sneaker",
-            "item": "https://www.shoesonwhite.com/2026/02/lugz-lugz-mens-clipper-sneaker-B0DB22.html"
+            "item": "https://www.shoesonwhite.com/sneakers+mens-clipper-sneaker"
           }
         ]
       }
     },
-    "created_at": "2026-02-14T03:55:21.101Z",
-    "last_updated": "2026-02-14T03:55:21.101Z"
+    "created_at": "2026-02-15T04:27:03.594Z",
+    "last_updated": "2026-02-15T04:27:03.594Z"
   }
 }
