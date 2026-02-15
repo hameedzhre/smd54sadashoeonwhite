@@ -1,0 +1,196 @@
+{
+  "metadata": {
+    "product_id": "B0F9294296",
+    "slug": "skechers-womens-go-walk-joy-cushioning",
+    "generated_at": "2026-02-15T04:43:01.972Z",
+    "source": "google_sheets",
+    "version": "1.0",
+    "urls": {
+      "product": "https://www.shoesonwhite.com/2026/02/skechers-womens-go-walk-joy-cushioning",
+      "gender": "https://www.shoesonwhite.com/p/women",
+      "brand": "https://www.shoesonwhite.com/p/skechers",
+      "subcategory": "https://www.shoesonwhite.com/p/athletic"
+    }
+  },
+  "product": {
+    "product_id": "B0F9294296",
+    "asin": "B0F9294297",
+    "product_title": "Skechers Women's Go Walk Joy Cushioning Sneakers",
+    "brand": "Skechers",
+    "category": "Shoes",
+    "subcategory": "Athletic",
+    "color": "White Shoes",
+    "gender": "Women",
+    "weight_lbs": 3,
+    "upper_material": "Athletic Engineered Mesh (Fabric)",
+    "sole_material": "Rubber",
+    "outer_material": "Mesh",
+    "lining": "N/A",
+    "closure_type": "Slip-On",
+    "cushioning": "5GEN tech, Goga Max high rebound insole, Air-Cooled Memory Foam",
+    "breathability": "Athletic Engineered Mesh",
+    "amazon_url": "https://amzn.to/3Mumjz7",
+    "price_min": 44.88,
+    "price_max": 44.88,
+    "currency": "USD",
+    "rating": 4.5,
+    "review_count": 97834,
+    "comfort_score": 92,
+    "durability_score": 68,
+    "breathability_score": 82,
+    "overall_score": 80.66666666666667,
+    "short_description": "Slip-on walking shoe with advanced cushioning and breathable mesh. Machine washable.",
+    "about_this_item": "SUPERIOR COMFORT AND SUPPORT: Experience premium cushioning with 5GEN technology and Goga Max high rebound insole... BREATHABLE DESIGN... EASY SLIP-ON STYLE... VEGAN FRIENDLY CONSTRUCTION... EASY CARE...",
+    "primary_keyword": "walking shoes, slip on athletic shoes",
+    "slug": "skechers-womens-go-walk-joy-cushioning",
+    "url": "https://www.shoesonwhite.com/2026/02/skechers-womens-go-walk-joy-cushioning",
+    "gender_url": "https://www.shoesonwhite.com/p/women",
+    "brand_url": "https://www.shoesonwhite.com/p/skechers",
+    "subcategory_url": "https://www.shoesonwhite.com/p/athletic",
+    "image_urls": [
+      "https://m.media-amazon.com/images/I/61O-QcGZp+L._AC_SX522_.jpg",
+      "https://m.media-amazon.com/images/I/712qKV+gxUL._AC_SX522_.jpg",
+      "https://m.media-amazon.com/images/I/71mk0WXFKLL._AC_SX522_.jpg",
+      "https://m.media-amazon.com/images/I/61H5toIAzFL._AC_SX522_.jpg",
+      "https://m.media-amazon.com/images/I/71UNBT4wTvL._AC_SX522_.jpg",
+      "https://m.media-amazon.com/images/I/71e3DYRiGML._AC_SX522_.jpg"
+    ],
+    "main_image": "https://m.media-amazon.com/images/I/61O-QcGZp+L._AC_SX522_.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://www.shoesonwhite.com/#product-B0F9294296",
+      "name": "Skechers Women's Go Walk Joy Cushioning Sneakers",
+      "description": "Slip-on walking shoe with advanced cushioning and breathable mesh. Machine washable.",
+      "url": "https://www.shoesonwhite.com/2026/02/skechers-womens-go-walk-joy-cushioning",
+      "sku": "B0F9294296",
+      "mpn": "B0F9294297",
+      "brand": {
+        "@type": "Brand",
+        "name": "Skechers",
+        "url": "https://www.shoesonwhite.com/p/skechers"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.shoesonwhite.com/2026/02/skechers-womens-go-walk-joy-cushioning",
+        "priceCurrency": "USD",
+        "price": 44.88,
+        "priceValidUntil": "2027-02-15",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "reviewCount": 97834,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Athletic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Color",
+          "value": "White Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Athletic Engineered Mesh (Fabric)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Closure Type",
+          "value": "Slip-On"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Weight",
+          "value": "3"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Comfort Score",
+          "value": "92"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Durability Score",
+          "value": "68"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Breathability Score",
+          "value": "82"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Overall Score",
+          "value": "80.66666666666667"
+        }
+      ],
+      "image": [
+        "https://m.media-amazon.com/images/I/61O-QcGZp+L._AC_SX522_.jpg",
+        "https://m.media-amazon.com/images/I/712qKV+gxUL._AC_SX522_.jpg",
+        "https://m.media-amazon.com/images/I/71mk0WXFKLL._AC_SX522_.jpg",
+        "https://m.media-amazon.com/images/I/61H5toIAzFL._AC_SX522_.jpg",
+        "https://m.media-amazon.com/images/I/71UNBT4wTvL._AC_SX522_.jpg",
+        "https://m.media-amazon.com/images/I/71e3DYRiGML._AC_SX522_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.shoesonwhite.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Women",
+            "item": "https://www.shoesonwhite.com/p/women"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Skechers",
+            "item": "https://www.shoesonwhite.com/p/skechers"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Athletic",
+            "item": "https://www.shoesonwhite.com/p/athletic"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Skechers Women's Go Walk Joy Cushioning Sneakers",
+            "item": "https://www.shoesonwhite.com/2026/02/skechers-womens-go-walk-joy-cushioning"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-02-15T04:42:56.954Z",
+    "last_updated": "2026-02-15T04:42:56.954Z"
+  }
+}
