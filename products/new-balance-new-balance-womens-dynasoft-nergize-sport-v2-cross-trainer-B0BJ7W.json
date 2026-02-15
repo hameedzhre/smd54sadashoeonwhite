@@ -2,11 +2,11 @@
   "metadata": {
     "product_id": "B0BJ7W5WFV",
     "slug": "new-balance-new-balance-womens-dynasoft-nergize-sport-v2-cross-trainer-B0BJ7W",
-    "generated_at": "2026-02-14T03:55:37.751Z",
+    "generated_at": "2026-02-15T04:27:19.016Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
-      "product": "https://www.shoesonwhite.com/2026/02/new-balance-new-balance-womens-dynasoft-nergize-sport-v2-cross-trainer-B0BJ7W.html",
+      "product": "https://www.shoesonwhite.com/athletic+new-balance-womens-dynasoft-nergize-sport-v2-cross-trainer",
       "gender": "https://www.shoesonwhite.com/p/women",
       "brand": "https://www.shoesonwhite.com/p/new-balance",
       "subcategory": "https://www.shoesonwhite.com/p/athletic"
@@ -43,7 +43,7 @@
     "about_this_item": "DynaSoft midsole for plush comfort; no-sew upper for sleek fit; synthetic/textile upper; durable rubber outsole; adjustable lace closure for customized fit",
     "primary_keyword": "women white cross training shoes",
     "slug": "new-balance-new-balance-womens-dynasoft-nergize-sport-v2-cross-trainer-B0BJ7W",
-    "url": "https://www.shoesonwhite.com/2026/02/new-balance-new-balance-womens-dynasoft-nergize-sport-v2-cross-trainer-B0BJ7W.html",
+    "url": "https://www.shoesonwhite.com/athletic+new-balance-womens-dynasoft-nergize-sport-v2-cross-trainer",
     "gender_url": "https://www.shoesonwhite.com/p/women",
     "brand_url": "https://www.shoesonwhite.com/p/new-balance",
     "subcategory_url": "https://www.shoesonwhite.com/p/athletic",
@@ -62,7 +62,7 @@
       "@id": "https://www.shoesonwhite.com/#product-B0BJ7W5WFV",
       "name": "New Balance Women's DynaSoft Nergize Sport V2 Cross Trainer",
       "description": "Sleek, lightweight women's cross-training shoe designed for comfort, gym workouts, and everyday wear.",
-      "url": "https://www.shoesonwhite.com/2026/02/new-balance-new-balance-womens-dynasoft-nergize-sport-v2-cross-trainer-B0BJ7W.html",
+      "url": "https://www.shoesonwhite.com/athletic+new-balance-womens-dynasoft-nergize-sport-v2-cross-trainer",
       "sku": "B0BJ7W5WFV",
       "mpn": "B0BJ7W5WFV",
       "brand": {
@@ -72,10 +72,10 @@
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.shoesonwhite.com/2026/02/new-balance-new-balance-womens-dynasoft-nergize-sport-v2-cross-trainer-B0BJ7W.html",
+        "url": "https://www.shoesonwhite.com/athletic+new-balance-womens-dynasoft-nergize-sport-v2-cross-trainer",
         "priceCurrency": "USD",
         "price": 52.22,
-        "priceValidUntil": "2027-02-14",
+        "priceValidUntil": "2027-02-15",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -185,12 +185,12 @@
             "@type": "ListItem",
             "position": 5,
             "name": "New Balance Women's DynaSoft Nergize Sport V2 Cross Trainer",
-            "item": "https://www.shoesonwhite.com/2026/02/new-balance-new-balance-womens-dynasoft-nergize-sport-v2-cross-trainer-B0BJ7W.html"
+            "item": "https://www.shoesonwhite.com/athletic+new-balance-womens-dynasoft-nergize-sport-v2-cross-trainer"
           }
         ]
       }
     },
-    "created_at": "2026-02-14T03:55:21.101Z",
-    "last_updated": "2026-02-14T03:55:21.101Z"
+    "created_at": "2026-02-15T04:27:03.594Z",
+    "last_updated": "2026-02-15T04:27:03.594Z"
   }
 }
