@@ -2,22 +2,22 @@
   "metadata": {
     "name": "Nike",
     "slug": "nike",
-    "url": "https://www.shoesonwhite.com/p/nike",
-    "generated_at": "2026-02-15T04:43:29.828Z",
+    "url": "https://www.shoesonwhite.com/p/nike.html",
+    "generated_at": "2026-02-15T09:23:08.999Z",
     "total_products": 1,
     "site_url": "https://www.shoesonwhite.com"
   },
   "brand": {
     "name": "Nike",
     "slug": "nike",
-    "url": "https://www.shoesonwhite.com/p/nike"
+    "url": "https://www.shoesonwhite.com/p/nike.html"
   },
   "products": [
     {
       "product_id": "B0BWTDFGBF",
       "title": "Nike Women's Court Legacy Lift Shoes",
       "slug": "nike-womens-court-legacy-lift",
-      "url": "https://www.shoesonwhite.com/2026/02/nike-womens-court-legacy-lift",
+      "url": "https://www.shoesonwhite.com/2026/02/nike-womens-court-legacy-lift.html",
       "gender": "Women",
       "subcategory": "Sneakers",
       "price_min": 95,
