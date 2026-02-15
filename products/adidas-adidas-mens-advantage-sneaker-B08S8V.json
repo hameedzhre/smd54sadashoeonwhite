@@ -2,11 +2,11 @@
   "metadata": {
     "product_id": "B08S8VR3L2",
     "slug": "adidas-adidas-mens-advantage-sneaker-B08S8V",
-    "generated_at": "2026-02-14T03:55:49.536Z",
+    "generated_at": "2026-02-15T04:27:30.030Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
-      "product": "https://www.shoesonwhite.com/2026/02/adidas-adidas-mens-advantage-sneaker-B08S8V.html",
+      "product": "https://www.shoesonwhite.com/athletic+mens-advantage-sneaker",
       "gender": "https://www.shoesonwhite.com/p/men",
       "brand": "https://www.shoesonwhite.com/p/adidas",
       "subcategory": "https://www.shoesonwhite.com/p/athletic"
@@ -43,7 +43,7 @@
     "about_this_item": "Classic-look sneakers with modern touches. Synthetic upper, Cloudfoam sockliner, rubber cupsole. 50% recycled materials.",
     "primary_keyword": "adidas Men's Advantage Sneaker",
     "slug": "adidas-adidas-mens-advantage-sneaker-B08S8V",
-    "url": "https://www.shoesonwhite.com/2026/02/adidas-adidas-mens-advantage-sneaker-B08S8V.html",
+    "url": "https://www.shoesonwhite.com/athletic+mens-advantage-sneaker",
     "gender_url": "https://www.shoesonwhite.com/p/men",
     "brand_url": "https://www.shoesonwhite.com/p/adidas",
     "subcategory_url": "https://www.shoesonwhite.com/p/athletic",
@@ -63,7 +63,7 @@
       "@id": "https://www.shoesonwhite.com/#product-B08S8VR3L2",
       "name": "adidas Men's Advantage Sneaker",
       "description": "Men's lightweight tennis shoes for training or matches",
-      "url": "https://www.shoesonwhite.com/2026/02/adidas-adidas-mens-advantage-sneaker-B08S8V.html",
+      "url": "https://www.shoesonwhite.com/athletic+mens-advantage-sneaker",
       "sku": "B08S8VR3L2",
       "mpn": "B08S8VR3L3",
       "brand": {
@@ -73,10 +73,10 @@
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.shoesonwhite.com/2026/02/adidas-adidas-mens-advantage-sneaker-B08S8V.html",
+        "url": "https://www.shoesonwhite.com/athletic+mens-advantage-sneaker",
         "priceCurrency": "USD",
         "price": 36.42,
-        "priceValidUntil": "2027-02-14",
+        "priceValidUntil": "2027-02-15",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -187,12 +187,12 @@
             "@type": "ListItem",
             "position": 5,
             "name": "adidas Men's Advantage Sneaker",
-            "item": "https://www.shoesonwhite.com/2026/02/adidas-adidas-mens-advantage-sneaker-B08S8V.html"
+            "item": "https://www.shoesonwhite.com/athletic+mens-advantage-sneaker"
           }
         ]
       }
     },
-    "created_at": "2026-02-14T03:55:21.102Z",
-    "last_updated": "2026-02-14T03:55:21.102Z"
+    "created_at": "2026-02-15T04:27:03.595Z",
+    "last_updated": "2026-02-15T04:27:03.595Z"
   }
 }
