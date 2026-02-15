@@ -2,11 +2,11 @@
   "metadata": {
     "product_id": "B0D7YTJBMF",
     "slug": "skechers-skechers-womens-summits-sneaker-B0D7YT",
-    "generated_at": "2026-02-14T03:55:27.147Z",
+    "generated_at": "2026-02-15T04:27:08.785Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
-      "product": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-summits-sneaker-B0D7YT.html",
+      "product": "https://www.shoesonwhite.com/sneakers+womens-summits-sneaker",
       "gender": "https://www.shoesonwhite.com/p/women",
       "brand": "https://www.shoesonwhite.com/p/skechers",
       "subcategory": "https://www.shoesonwhite.com/p/sneakers"
@@ -43,7 +43,7 @@
     "about_this_item": "ATHLETIC COMFORT DESIGN: Soft mesh knit upper with bungee lacing system... PREMIUM CUSHIONING: Memory Foam cushioned insole... VERSATILE PERFORMANCE... EASY MAINTENANCE... RELIABLE TRACTION...",
     "primary_keyword": "slip on sneakers for women, memory foam shoes",
     "slug": "skechers-skechers-womens-summits-sneaker-B0D7YT",
-    "url": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-summits-sneaker-B0D7YT.html",
+    "url": "https://www.shoesonwhite.com/sneakers+womens-summits-sneaker",
     "gender_url": "https://www.shoesonwhite.com/p/women",
     "brand_url": "https://www.shoesonwhite.com/p/skechers",
     "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -63,7 +63,7 @@
       "@id": "https://www.shoesonwhite.com/#product-B0D7YTJBMF",
       "name": "Skechers Women's Summits Sneaker",
       "description": "Slip-on athletic sneaker with memory foam and mesh upper. Machine washable.",
-      "url": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-summits-sneaker-B0D7YT.html",
+      "url": "https://www.shoesonwhite.com/sneakers+womens-summits-sneaker",
       "sku": "B0D7YTJBMF",
       "mpn": "B0D7YTJBMF",
       "brand": {
@@ -73,10 +73,10 @@
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-summits-sneaker-B0D7YT.html",
+        "url": "https://www.shoesonwhite.com/sneakers+womens-summits-sneaker",
         "priceCurrency": "USD",
         "price": 40,
-        "priceValidUntil": "2027-02-14",
+        "priceValidUntil": "2027-02-15",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -182,12 +182,12 @@
             "@type": "ListItem",
             "position": 5,
             "name": "Skechers Women's Summits Sneaker",
-            "item": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-summits-sneaker-B0D7YT.html"
+            "item": "https://www.shoesonwhite.com/sneakers+womens-summits-sneaker"
           }
         ]
       }
     },
-    "created_at": "2026-02-14T03:55:21.100Z",
-    "last_updated": "2026-02-14T03:55:21.100Z"
+    "created_at": "2026-02-15T04:27:03.593Z",
+    "last_updated": "2026-02-15T04:27:03.593Z"
   }
 }
