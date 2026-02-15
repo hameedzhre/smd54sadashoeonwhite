@@ -2,11 +2,11 @@
   "metadata": {
     "product_id": "B0FBLYMLPC",
     "slug": "guess-guess-womens-loven-B0FBLY",
-    "generated_at": "2026-02-14T03:55:43.268Z",
+    "generated_at": "2026-02-15T04:27:24.237Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
-      "product": "https://www.shoesonwhite.com/2026/02/guess-guess-womens-loven-B0FBLY.html",
+      "product": "https://www.shoesonwhite.com/sneakers+womens-loven",
       "gender": "https://www.shoesonwhite.com/p/women",
       "brand": "https://www.shoesonwhite.com/p/guess",
       "subcategory": "https://www.shoesonwhite.com/p/sneakers"
@@ -43,7 +43,7 @@
     "about_this_item": "Features a stylish quilted faux leather upper, lace-up closure, cushioned footbed, breathable lining, 1\" platform heel",
     "primary_keyword": "Guess Womens Loven",
     "slug": "guess-guess-womens-loven-B0FBLY",
-    "url": "https://www.shoesonwhite.com/2026/02/guess-guess-womens-loven-B0FBLY.html",
+    "url": "https://www.shoesonwhite.com/sneakers+womens-loven",
     "gender_url": "https://www.shoesonwhite.com/p/women",
     "brand_url": "https://www.shoesonwhite.com/p/guess",
     "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -62,7 +62,7 @@
       "@id": "https://www.shoesonwhite.com/#product-B0FBLYMLPC",
       "name": "Guess Womens Loven",
       "description": "Chic quilted design, comfortable lace-up sneakers",
-      "url": "https://www.shoesonwhite.com/2026/02/guess-guess-womens-loven-B0FBLY.html",
+      "url": "https://www.shoesonwhite.com/sneakers+womens-loven",
       "sku": "B0FBLYMLPC",
       "mpn": "B0FBLYMLPC",
       "brand": {
@@ -72,10 +72,10 @@
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.shoesonwhite.com/2026/02/guess-guess-womens-loven-B0FBLY.html",
+        "url": "https://www.shoesonwhite.com/sneakers+womens-loven",
         "priceCurrency": "USD",
         "price": 59.99,
-        "priceValidUntil": "2027-02-14",
+        "priceValidUntil": "2027-02-15",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -180,12 +180,12 @@
             "@type": "ListItem",
             "position": 5,
             "name": "Guess Womens Loven",
-            "item": "https://www.shoesonwhite.com/2026/02/guess-guess-womens-loven-B0FBLY.html"
+            "item": "https://www.shoesonwhite.com/sneakers+womens-loven"
           }
         ]
       }
     },
-    "created_at": "2026-02-14T03:55:21.101Z",
-    "last_updated": "2026-02-14T03:55:21.101Z"
+    "created_at": "2026-02-15T04:27:03.594Z",
+    "last_updated": "2026-02-15T04:27:03.594Z"
   }
 }
