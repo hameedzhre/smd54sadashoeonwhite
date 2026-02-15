@@ -2,11 +2,11 @@
   "metadata": {
     "product_id": "B0922CS587",
     "slug": "lacoste-lacoste-mens-bayliss-sneakers-B0922C",
-    "generated_at": "2026-02-14T03:55:41.536Z",
+    "generated_at": "2026-02-15T04:27:22.428Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
-      "product": "https://www.shoesonwhite.com/2026/02/lacoste-lacoste-mens-bayliss-sneakers-B0922C.html",
+      "product": "https://www.shoesonwhite.com/sneakers+mens-bayliss-sneakers",
       "gender": "https://www.shoesonwhite.com/p/men",
       "brand": "https://www.shoesonwhite.com/p/lacoste",
       "subcategory": "https://www.shoesonwhite.com/p/sneakers"
@@ -43,7 +43,7 @@
     "about_this_item": "? Low profile sneaker for men ? Polyester/leather/polyurethane upper ? Rubber sole ? Padded collar & tongue ? Imported",
     "primary_keyword": "Lacoste Bayliss Deep White",
     "slug": "lacoste-lacoste-mens-bayliss-sneakers-B0922C",
-    "url": "https://www.shoesonwhite.com/2026/02/lacoste-lacoste-mens-bayliss-sneakers-B0922C.html",
+    "url": "https://www.shoesonwhite.com/sneakers+mens-bayliss-sneakers",
     "gender_url": "https://www.shoesonwhite.com/p/men",
     "brand_url": "https://www.shoesonwhite.com/p/lacoste",
     "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -62,7 +62,7 @@
       "@id": "https://www.shoesonwhite.com/#product-B0922CS587",
       "name": "Lacoste Men's Bayliss Sneakers",
       "description": "Low-profile classic casual sneaker ? versatile with suits or jeans, good value at discount",
-      "url": "https://www.shoesonwhite.com/2026/02/lacoste-lacoste-mens-bayliss-sneakers-B0922C.html",
+      "url": "https://www.shoesonwhite.com/sneakers+mens-bayliss-sneakers",
       "sku": "B0922CS587",
       "mpn": "B0922CS588",
       "brand": {
@@ -72,10 +72,10 @@
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.shoesonwhite.com/2026/02/lacoste-lacoste-mens-bayliss-sneakers-B0922C.html",
+        "url": "https://www.shoesonwhite.com/sneakers+mens-bayliss-sneakers",
         "priceCurrency": "USD",
         "price": 66.28,
-        "priceValidUntil": "2027-02-14",
+        "priceValidUntil": "2027-02-15",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -180,12 +180,12 @@
             "@type": "ListItem",
             "position": 5,
             "name": "Lacoste Men's Bayliss Sneakers",
-            "item": "https://www.shoesonwhite.com/2026/02/lacoste-lacoste-mens-bayliss-sneakers-B0922C.html"
+            "item": "https://www.shoesonwhite.com/sneakers+mens-bayliss-sneakers"
           }
         ]
       }
     },
-    "created_at": "2026-02-14T03:55:21.101Z",
-    "last_updated": "2026-02-14T03:55:21.101Z"
+    "created_at": "2026-02-15T04:27:03.594Z",
+    "last_updated": "2026-02-15T04:27:03.594Z"
   }
 }
