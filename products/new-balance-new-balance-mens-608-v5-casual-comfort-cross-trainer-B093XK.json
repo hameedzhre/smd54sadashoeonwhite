@@ -2,11 +2,11 @@
   "metadata": {
     "product_id": "B093XKL7WZ",
     "slug": "new-balance-new-balance-mens-608-v5-casual-comfort-cross-trainer-B093XK",
-    "generated_at": "2026-02-14T03:55:39.155Z",
+    "generated_at": "2026-02-15T04:27:20.080Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
-      "product": "https://www.shoesonwhite.com/2026/02/new-balance-new-balance-mens-608-v5-casual-comfort-cross-trainer-B093XK.html",
+      "product": "https://www.shoesonwhite.com/athletic+new-balance-mens-608-v5-casual-comfort-cross-trainer",
       "gender": "https://www.shoesonwhite.com/p/men",
       "brand": "https://www.shoesonwhite.com/p/new-balance",
       "subcategory": "https://www.shoesonwhite.com/p/athletic"
@@ -43,7 +43,7 @@
     "about_this_item": "ABZORB midsole absorbs impact, suede & leather upper, EVA foam cushioning, midfoot shank support, dual density collar foam for all-day comfort",
     "primary_keyword": "New Balance 608 V5 Men?s Cross Trainer",
     "slug": "new-balance-new-balance-mens-608-v5-casual-comfort-cross-trainer-B093XK",
-    "url": "https://www.shoesonwhite.com/2026/02/new-balance-new-balance-mens-608-v5-casual-comfort-cross-trainer-B093XK.html",
+    "url": "https://www.shoesonwhite.com/athletic+new-balance-mens-608-v5-casual-comfort-cross-trainer",
     "gender_url": "https://www.shoesonwhite.com/p/men",
     "brand_url": "https://www.shoesonwhite.com/p/new-balance",
     "subcategory_url": "https://www.shoesonwhite.com/p/athletic",
@@ -61,7 +61,7 @@
       "@id": "https://www.shoesonwhite.com/#product-B093XKL7WZ",
       "name": "New Balance Men's 608 V5 Casual Comfort Cross Trainer",
       "description": "Comfortable everyday cross-training shoes with premium cushioning and durable leather upper",
-      "url": "https://www.shoesonwhite.com/2026/02/new-balance-new-balance-mens-608-v5-casual-comfort-cross-trainer-B093XK.html",
+      "url": "https://www.shoesonwhite.com/athletic+new-balance-mens-608-v5-casual-comfort-cross-trainer",
       "sku": "B093XKL7WZ",
       "mpn": "B093XKL7WZ",
       "brand": {
@@ -71,10 +71,10 @@
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.shoesonwhite.com/2026/02/new-balance-new-balance-mens-608-v5-casual-comfort-cross-trainer-B093XK.html",
+        "url": "https://www.shoesonwhite.com/athletic+new-balance-mens-608-v5-casual-comfort-cross-trainer",
         "priceCurrency": "USD",
         "price": 42.43,
-        "priceValidUntil": "2027-02-14",
+        "priceValidUntil": "2027-02-15",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -183,12 +183,12 @@
             "@type": "ListItem",
             "position": 5,
             "name": "New Balance Men's 608 V5 Casual Comfort Cross Trainer",
-            "item": "https://www.shoesonwhite.com/2026/02/new-balance-new-balance-mens-608-v5-casual-comfort-cross-trainer-B093XK.html"
+            "item": "https://www.shoesonwhite.com/athletic+new-balance-mens-608-v5-casual-comfort-cross-trainer"
           }
         ]
       }
     },
-    "created_at": "2026-02-14T03:55:21.101Z",
-    "last_updated": "2026-02-14T03:55:21.101Z"
+    "created_at": "2026-02-15T04:27:03.594Z",
+    "last_updated": "2026-02-15T04:27:03.594Z"
   }
 }
