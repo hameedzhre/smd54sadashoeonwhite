@@ -2,11 +2,11 @@
   "metadata": {
     "product_id": "B0F9294296",
     "slug": "skechers-skechers-womens-go-walk-joy-cushioning-sneakers-B0F929",
-    "generated_at": "2026-02-14T03:55:27.721Z",
+    "generated_at": "2026-02-15T04:27:09.316Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
-      "product": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-go-walk-joy-cushioning-sneakers-B0F929.html",
+      "product": "https://www.shoesonwhite.com/athletic+womens-go-walk-joy-cushioning-sneakers",
       "gender": "https://www.shoesonwhite.com/p/women",
       "brand": "https://www.shoesonwhite.com/p/skechers",
       "subcategory": "https://www.shoesonwhite.com/p/athletic"
@@ -43,7 +43,7 @@
     "about_this_item": "SUPERIOR COMFORT AND SUPPORT: Experience premium cushioning with 5GEN technology and Goga Max high rebound insole... BREATHABLE DESIGN... EASY SLIP-ON STYLE... VEGAN FRIENDLY CONSTRUCTION... EASY CARE...",
     "primary_keyword": "walking shoes, slip on athletic shoes",
     "slug": "skechers-skechers-womens-go-walk-joy-cushioning-sneakers-B0F929",
-    "url": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-go-walk-joy-cushioning-sneakers-B0F929.html",
+    "url": "https://www.shoesonwhite.com/athletic+womens-go-walk-joy-cushioning-sneakers",
     "gender_url": "https://www.shoesonwhite.com/p/women",
     "brand_url": "https://www.shoesonwhite.com/p/skechers",
     "subcategory_url": "https://www.shoesonwhite.com/p/athletic",
@@ -62,7 +62,7 @@
       "@id": "https://www.shoesonwhite.com/#product-B0F9294296",
       "name": "Skechers Women's Go Walk Joy Cushioning Sneakers",
       "description": "Slip-on walking shoe with advanced cushioning and breathable mesh. Machine washable.",
-      "url": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-go-walk-joy-cushioning-sneakers-B0F929.html",
+      "url": "https://www.shoesonwhite.com/athletic+womens-go-walk-joy-cushioning-sneakers",
       "sku": "B0F9294296",
       "mpn": "B0F9294297",
       "brand": {
@@ -72,10 +72,10 @@
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-go-walk-joy-cushioning-sneakers-B0F929.html",
+        "url": "https://www.shoesonwhite.com/athletic+womens-go-walk-joy-cushioning-sneakers",
         "priceCurrency": "USD",
         "price": 44.88,
-        "priceValidUntil": "2027-02-14",
+        "priceValidUntil": "2027-02-15",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -185,12 +185,12 @@
             "@type": "ListItem",
             "position": 5,
             "name": "Skechers Women's Go Walk Joy Cushioning Sneakers",
-            "item": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-go-walk-joy-cushioning-sneakers-B0F929.html"
+            "item": "https://www.shoesonwhite.com/athletic+womens-go-walk-joy-cushioning-sneakers"
           }
         ]
       }
     },
-    "created_at": "2026-02-14T03:55:21.100Z",
-    "last_updated": "2026-02-14T03:55:21.100Z"
+    "created_at": "2026-02-15T04:27:03.593Z",
+    "last_updated": "2026-02-15T04:27:03.593Z"
   }
 }
