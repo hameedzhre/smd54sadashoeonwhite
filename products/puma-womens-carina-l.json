@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "product_id": "B0CNYJ28VG",
+    "product_id": "B07HJLRXBT",
     "slug": "puma-womens-carina-l",
-    "generated_at": "2026-02-15T09:22:40.167Z",
+    "generated_at": "2026-02-15T09:22:40.818Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
@@ -13,35 +13,35 @@
     }
   },
   "product": {
-    "product_id": "B0CNYJ28VG",
-    "asin": "B0CNYJ28VG",
-    "product_title": "Puma Womens Carina L Sneaker",
+    "product_id": "B07HJLRXBT",
+    "asin": "B07HJLRXBT",
+    "product_title": "PUMA Womens Carina L Sneaker",
     "brand": "PUMA",
     "category": "Shoes",
     "subcategory": "Sneakers",
     "color": "White Shoes",
     "gender": "Women",
     "weight_lbs": 2.1,
-    "upper_material": "Leather & Synthetic",
+    "upper_material": "Leather and Synthetic",
     "sole_material": "Rubber",
     "outer_material": "Leather",
     "lining": "Textile",
-    "closure_type": "Lace-Up",
-    "cushioning": "SoftFoam+ cushioned sockliner",
-    "breathability": "Medium",
-    "amazon_url": "https://amzn.to/4rz5VMA",
+    "closure_type": "Lace-up",
+    "cushioning": "SoftFoam plus sockliner",
+    "breathability": "High",
+    "amazon_url": "https://amzn.to/4ruQu8c",
     "price_min": 41.95,
     "price_max": 70,
     "currency": "USD",
     "rating": 4.5,
     "review_count": 17108,
-    "comfort_score": 71,
-    "durability_score": 73,
-    "breathability_score": 70,
-    "overall_score": 71.33333333333333,
-    "short_description": "Retro-inspired women?s fashion sneaker with premium leather upper and elevated platform sole",
-    "about_this_item": "80s-inspired design, premium leather upper, elevated platform sole, SoftFoam+ cushioning, lace closure, minimal PUMA branding",
-    "primary_keyword": "Puma Womens Carina L Sneaker",
+    "comfort_score": 76,
+    "durability_score": 72,
+    "breathability_score": 91,
+    "overall_score": 79.66666666666667,
+    "short_description": "80's inspired sneaker with elevated platform and premium leather upper",
+    "about_this_item": "RETRO AND TRENDY: 80's inspired, adapted to fit today's laid-back sneaker look of Californian beach towns. ENHANCED PLATFORM: New tooling with an elevated platform sole. HIGH-QUALITY CONSTRUCTION: This shoe contains a premium leather upper. MINIMAL AND TIMELESS: Subtle PUMA branding. SIZE UP FOR BETTER FIT: Tight fit. One size up recommended.",
+    "primary_keyword": "white sneakers",
     "slug": "puma-womens-carina-l",
     "url": "https://www.shoesonwhite.com/2026/02/puma-womens-carina-l.html",
     "gender_url": "https://www.shoesonwhite.com/p/women.html",
@@ -59,12 +59,12 @@
     "schema": {
       "@context": "https://schema.org",
       "@type": "Product",
-      "@id": "https://www.shoesonwhite.com/#product-B0CNYJ28VG",
-      "name": "Puma Womens Carina L Sneaker",
-      "description": "Retro-inspired women?s fashion sneaker with premium leather upper and elevated platform sole",
+      "@id": "https://www.shoesonwhite.com/#product-B07HJLRXBT",
+      "name": "PUMA Womens Carina L Sneaker",
+      "description": "80's inspired sneaker with elevated platform and premium leather upper",
       "url": "https://www.shoesonwhite.com/2026/02/puma-womens-carina-l.html",
-      "sku": "B0CNYJ28VG",
-      "mpn": "B0CNYJ28VG",
+      "sku": "B07HJLRXBT",
+      "mpn": "B07HJLRXBT",
       "brand": {
         "@type": "Brand",
         "name": "PUMA",
@@ -113,12 +113,12 @@
         {
           "@type": "PropertyValue",
           "name": "Material",
-          "value": "Leather & Synthetic"
+          "value": "Leather and Synthetic"
         },
         {
           "@type": "PropertyValue",
           "name": "Closure Type",
-          "value": "Lace-Up"
+          "value": "Lace-up"
         },
         {
           "@type": "PropertyValue",
@@ -128,22 +128,22 @@
         {
           "@type": "PropertyValue",
           "name": "Comfort Score",
-          "value": "71"
+          "value": "76"
         },
         {
           "@type": "PropertyValue",
           "name": "Durability Score",
-          "value": "73"
+          "value": "72"
         },
         {
           "@type": "PropertyValue",
           "name": "Breathability Score",
-          "value": "70"
+          "value": "91"
         },
         {
           "@type": "PropertyValue",
           "name": "Overall Score",
-          "value": "71.33333333333333"
+          "value": "79.66666666666667"
         }
       ],
       "image": [
@@ -184,7 +184,7 @@
           {
             "@type": "ListItem",
             "position": 5,
-            "name": "Puma Womens Carina L Sneaker",
+            "name": "PUMA Womens Carina L Sneaker",
             "item": "https://www.shoesonwhite.com/2026/02/puma-womens-carina-l.html"
           }
         ]
