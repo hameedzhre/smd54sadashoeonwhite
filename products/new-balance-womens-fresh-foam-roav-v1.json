@@ -1,0 +1,191 @@
+{
+  "metadata": {
+    "product_id": "B0DG7W333S",
+    "slug": "new-balance-womens-fresh-foam-roav-v1",
+    "generated_at": "2026-02-15T04:43:09.741Z",
+    "source": "google_sheets",
+    "version": "1.0",
+    "urls": {
+      "product": "https://www.shoesonwhite.com/2026/02/new-balance-womens-fresh-foam-roav-v1",
+      "gender": "https://www.shoesonwhite.com/p/women",
+      "brand": "https://www.shoesonwhite.com/p/new-balance",
+      "subcategory": "https://www.shoesonwhite.com/p/sneakers"
+    }
+  },
+  "product": {
+    "product_id": "B0DG7W333S",
+    "asin": "B0DG7W333S",
+    "product_title": "New Balance Women's Fresh Foam Roav V1 Sneaker",
+    "brand": "New Balance",
+    "category": "Shoes",
+    "subcategory": "Sneakers",
+    "color": "White Shoes",
+    "gender": "Women",
+    "weight_lbs": "N/A",
+    "upper_material": "Synthetic/mesh",
+    "sole_material": "Rubber",
+    "outer_material": "Mesh",
+    "lining": "N/A",
+    "closure_type": "Lace-up",
+    "cushioning": "Fresh Foam midsole cushioning",
+    "breathability": "Breathable",
+    "amazon_url": "https://amzn.to/4agDfkB",
+    "price_min": 80.36,
+    "price_max": 89.99,
+    "currency": "USD",
+    "rating": 4.4,
+    "review_count": 23725,
+    "comfort_score": 91,
+    "durability_score": 88,
+    "breathability_score": 84,
+    "overall_score": 87.66666666666667,
+    "short_description": "Ultra Heel design hugs the back of the foot for a snug, supportive fit",
+    "about_this_item": "Ultra Heel design, Synthetic/mesh upper, Full-length rubber outsole, Bootie upper construction",
+    "primary_keyword": "Fresh Foam Roav V1 Sneaker",
+    "slug": "new-balance-womens-fresh-foam-roav-v1",
+    "url": "https://www.shoesonwhite.com/2026/02/new-balance-womens-fresh-foam-roav-v1",
+    "gender_url": "https://www.shoesonwhite.com/p/women",
+    "brand_url": "https://www.shoesonwhite.com/p/new-balance",
+    "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
+    "image_urls": [
+      "https://m.media-amazon.com/images/I/41ncrLWCvML._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/41yS2pP1MXL._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/41NBXhi66tL._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/41ARXvoEQ3L._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/51kcHlKe14L._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/41hJQraBHeL._AC_SY500_.jpg"
+    ],
+    "main_image": "https://m.media-amazon.com/images/I/41ncrLWCvML._AC_SY500_.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://www.shoesonwhite.com/#product-B0DG7W333S",
+      "name": "New Balance Women's Fresh Foam Roav V1 Sneaker",
+      "description": "Ultra Heel design hugs the back of the foot for a snug, supportive fit",
+      "url": "https://www.shoesonwhite.com/2026/02/new-balance-womens-fresh-foam-roav-v1",
+      "sku": "B0DG7W333S",
+      "mpn": "B0DG7W333S",
+      "brand": {
+        "@type": "Brand",
+        "name": "New Balance",
+        "url": "https://www.shoesonwhite.com/p/new-balance"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.shoesonwhite.com/2026/02/new-balance-womens-fresh-foam-roav-v1",
+        "priceCurrency": "USD",
+        "price": 80.36,
+        "priceValidUntil": "2027-02-15",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.4,
+        "reviewCount": 23725,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Sneakers"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Color",
+          "value": "White Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Synthetic/mesh"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Closure Type",
+          "value": "Lace-up"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Comfort Score",
+          "value": "91"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Durability Score",
+          "value": "88"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Breathability Score",
+          "value": "84"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Overall Score",
+          "value": "87.66666666666667"
+        }
+      ],
+      "image": [
+        "https://m.media-amazon.com/images/I/41ncrLWCvML._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/41yS2pP1MXL._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/41NBXhi66tL._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/41ARXvoEQ3L._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/51kcHlKe14L._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/41hJQraBHeL._AC_SY500_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.shoesonwhite.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Women",
+            "item": "https://www.shoesonwhite.com/p/women"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "New Balance",
+            "item": "https://www.shoesonwhite.com/p/new-balance"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Sneakers",
+            "item": "https://www.shoesonwhite.com/p/sneakers"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "New Balance Women's Fresh Foam Roav V1 Sneaker",
+            "item": "https://www.shoesonwhite.com/2026/02/new-balance-womens-fresh-foam-roav-v1"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-02-15T04:42:56.955Z",
+    "last_updated": "2026-02-15T04:42:56.955Z"
+  }
+}
