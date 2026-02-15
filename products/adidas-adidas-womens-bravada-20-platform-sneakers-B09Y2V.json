@@ -2,11 +2,11 @@
   "metadata": {
     "product_id": "B09Y2VHQ90",
     "slug": "adidas-adidas-womens-bravada-20-platform-sneakers-B09Y2V",
-    "generated_at": "2026-02-14T03:55:48.942Z",
+    "generated_at": "2026-02-15T04:27:29.432Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
-      "product": "https://www.shoesonwhite.com/2026/02/adidas-adidas-womens-bravada-20-platform-sneakers-B09Y2V.html",
+      "product": "https://www.shoesonwhite.com/sneakers+womens-bravada-20-platform-sneakers",
       "gender": "https://www.shoesonwhite.com/p/women",
       "brand": "https://www.shoesonwhite.com/p/adidas",
       "subcategory": "https://www.shoesonwhite.com/p/sneakers"
@@ -43,7 +43,7 @@
     "about_this_item": "Women's canvas shoes bring an edgy vibe to casual everyday wear... SNUG FIT... CUSHIONED MIDSOLE... RUBBER OUTSOLE... WE PARTNER WITH BETTER COTTON...",
     "primary_keyword": "platform sneakers, casual sneakers",
     "slug": "adidas-adidas-womens-bravada-20-platform-sneakers-B09Y2V",
-    "url": "https://www.shoesonwhite.com/2026/02/adidas-adidas-womens-bravada-20-platform-sneakers-B09Y2V.html",
+    "url": "https://www.shoesonwhite.com/sneakers+womens-bravada-20-platform-sneakers",
     "gender_url": "https://www.shoesonwhite.com/p/women",
     "brand_url": "https://www.shoesonwhite.com/p/adidas",
     "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -62,7 +62,7 @@
       "@id": "https://www.shoesonwhite.com/#product-B09Y2VHQ90",
       "name": "Adidas Women's Bravada 2.0 Platform Sneakers",
       "description": "Canvas platform sneaker with Cloudfoam cushioning.",
-      "url": "https://www.shoesonwhite.com/2026/02/adidas-adidas-womens-bravada-20-platform-sneakers-B09Y2V.html",
+      "url": "https://www.shoesonwhite.com/sneakers+womens-bravada-20-platform-sneakers",
       "sku": "B09Y2VHQ90",
       "mpn": "B09Y2VHQ91",
       "brand": {
@@ -72,10 +72,10 @@
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.shoesonwhite.com/2026/02/adidas-adidas-womens-bravada-20-platform-sneakers-B09Y2V.html",
+        "url": "https://www.shoesonwhite.com/sneakers+womens-bravada-20-platform-sneakers",
         "priceCurrency": "USD",
         "price": 45.49,
-        "priceValidUntil": "2027-02-14",
+        "priceValidUntil": "2027-02-15",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -185,12 +185,12 @@
             "@type": "ListItem",
             "position": 5,
             "name": "Adidas Women's Bravada 2.0 Platform Sneakers",
-            "item": "https://www.shoesonwhite.com/2026/02/adidas-adidas-womens-bravada-20-platform-sneakers-B09Y2V.html"
+            "item": "https://www.shoesonwhite.com/sneakers+womens-bravada-20-platform-sneakers"
           }
         ]
       }
     },
-    "created_at": "2026-02-14T03:55:21.102Z",
-    "last_updated": "2026-02-14T03:55:21.102Z"
+    "created_at": "2026-02-15T04:27:03.594Z",
+    "last_updated": "2026-02-15T04:27:03.594Z"
   }
 }
