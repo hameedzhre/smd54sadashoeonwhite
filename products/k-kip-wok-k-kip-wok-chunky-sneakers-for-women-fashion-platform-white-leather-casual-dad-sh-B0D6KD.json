@@ -1,0 +1,191 @@
+{
+  "metadata": {
+    "product_id": "B0D6KDH9CS",
+    "slug": "k-kip-wok-k-kip-wok-chunky-sneakers-for-women-fashion-platform-white-leather-casual-dad-sh-B0D6KD",
+    "generated_at": "2026-02-15T04:34:13.293Z",
+    "source": "google_sheets",
+    "version": "1.0",
+    "urls": {
+      "product": "https://www.shoesonwhite.com/sneakers+k-kip-wok-chunky-sneakers-for-women-fashion-platform-white-l",
+      "gender": "https://www.shoesonwhite.com/p/women",
+      "brand": "https://www.shoesonwhite.com/p/k-kip-wok",
+      "subcategory": "https://www.shoesonwhite.com/p/sneakers"
+    }
+  },
+  "product": {
+    "product_id": "B0D6KDH9CS",
+    "asin": "B0D6KDH9CS",
+    "product_title": "K KIP WOK Chunky Sneakers for Women Fashion Platform White Leather Casual Dad Shoes Comfortable Wedge Walking Sport Sneakers",
+    "brand": "K KIP WOK",
+    "category": "Shoes",
+    "subcategory": "Sneakers",
+    "color": "White Shoes",
+    "gender": "Women",
+    "weight_lbs": "N/A",
+    "upper_material": "Faux Leather (Synthetic PU)",
+    "sole_material": "Polyurethane, Leather",
+    "outer_material": "Faux Leather",
+    "lining": "Synthetic PU",
+    "closure_type": "Lace-Up",
+    "cushioning": "Memory Foam insole",
+    "breathability": "N/A",
+    "amazon_url": "https://amzn.to/4qYHZlV",
+    "price_min": 44.99,
+    "price_max": 44.99,
+    "currency": "USD",
+    "rating": 4.3,
+    "review_count": 2005,
+    "comfort_score": 77,
+    "durability_score": 67,
+    "breathability_score": 58,
+    "overall_score": 67.33333333333333,
+    "short_description": "Chunky platform sneaker with a ~3.15 inch sole and memory foam insole.",
+    "about_this_item": "MEASUREMENTS: Height of lightweight platform sole is approximately 3.15inch (8 cm)... COMFORTABLE: Soft synthetic PU... Memory foam insole... UNIQUE DESGIN... OCCASION... AFTER-SALES SERVICE...",
+    "primary_keyword": "platform sneakers, chunky sneakers",
+    "slug": "k-kip-wok-k-kip-wok-chunky-sneakers-for-women-fashion-platform-white-leather-casual-dad-sh-B0D6KD",
+    "url": "https://www.shoesonwhite.com/sneakers+k-kip-wok-chunky-sneakers-for-women-fashion-platform-white-l",
+    "gender_url": "https://www.shoesonwhite.com/p/women",
+    "brand_url": "https://www.shoesonwhite.com/p/k-kip-wok",
+    "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
+    "image_urls": [
+      "https://m.media-amazon.com/images/I/61FyAXtAWyL._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/81RoU5oqceL._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/81TjGcfcQEL._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/71lcyp2XaYL._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/71aeLDOogqL._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/71dLQJ+9beL._AC_SY500_.jpg"
+    ],
+    "main_image": "https://m.media-amazon.com/images/I/61FyAXtAWyL._AC_SY500_.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://www.shoesonwhite.com/#product-B0D6KDH9CS",
+      "name": "K KIP WOK Chunky Sneakers for Women Fashion Platform White Leather Casual Dad Shoes Comfortable Wedge Walking Sport Sneakers",
+      "description": "Chunky platform sneaker with a ~3.15 inch sole and memory foam insole.",
+      "url": "https://www.shoesonwhite.com/sneakers+k-kip-wok-chunky-sneakers-for-women-fashion-platform-white-l",
+      "sku": "B0D6KDH9CS",
+      "mpn": "B0D6KDH9CS",
+      "brand": {
+        "@type": "Brand",
+        "name": "K KIP WOK",
+        "url": "https://www.shoesonwhite.com/p/k-kip-wok"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.shoesonwhite.com/sneakers+k-kip-wok-chunky-sneakers-for-women-fashion-platform-white-l",
+        "priceCurrency": "USD",
+        "price": 44.99,
+        "priceValidUntil": "2027-02-15",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.3,
+        "reviewCount": 2005,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Sneakers"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Color",
+          "value": "White Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Faux Leather (Synthetic PU)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Closure Type",
+          "value": "Lace-Up"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Comfort Score",
+          "value": "77"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Durability Score",
+          "value": "67"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Breathability Score",
+          "value": "58"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Overall Score",
+          "value": "67.33333333333333"
+        }
+      ],
+      "image": [
+        "https://m.media-amazon.com/images/I/61FyAXtAWyL._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/81RoU5oqceL._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/81TjGcfcQEL._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/71lcyp2XaYL._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/71aeLDOogqL._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/71dLQJ+9beL._AC_SY500_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.shoesonwhite.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Women",
+            "item": "https://www.shoesonwhite.com/p/women"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "K KIP WOK",
+            "item": "https://www.shoesonwhite.com/p/k-kip-wok"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Sneakers",
+            "item": "https://www.shoesonwhite.com/p/sneakers"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "K KIP WOK Chunky Sneakers for Women Fashion Platform White Leather Casual Dad Shoes Comfortable Wedge Walking Sport Sneakers",
+            "item": "https://www.shoesonwhite.com/sneakers+k-kip-wok-chunky-sneakers-for-women-fashion-platform-white-l"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-02-15T04:33:55.518Z",
+    "last_updated": "2026-02-15T04:33:55.518Z"
+  }
+}
