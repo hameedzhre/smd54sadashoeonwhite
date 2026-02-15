@@ -1,0 +1,192 @@
+{
+  "metadata": {
+    "product_id": "B0FCK8MX1X",
+    "slug": "under-armour-mens-charged-surge-4-sneaker",
+    "generated_at": "2026-02-15T18:02:11.961Z",
+    "source": "google_sheets",
+    "version": "1.0",
+    "urls": {
+      "product": "https://www.shoesonwhite.com/2026/02/under-armour-mens-charged-surge-4-sneaker.html",
+      "gender": "https://www.shoesonwhite.com/p/men.html",
+      "brand": "https://www.shoesonwhite.com/p/under-armour.html",
+      "subcategory": "https://www.shoesonwhite.com/p/sneakers.html"
+    }
+  },
+  "product": {
+    "product_id": "B0FCK8MX1X",
+    "asin": "B0FCK8MX1X",
+    "product_title": "Under Armour Men's Charged Surge 4 Sneaker Shoes",
+    "brand": "Under Armour",
+    "category": "Shoes",
+    "subcategory": "Sneakers",
+    "color": "White Shoes",
+    "gender": "Men",
+    "weight_lbs": 2.4,
+    "upper_material": "Breathable mesh upper with synthetic overlays",
+    "sole_material": "Rubber",
+    "outer_material": "100% recycled polyester mesh",
+    "lining": "Ethylene Vinyl Acetate",
+    "closure_type": "Lace-up",
+    "cushioning": "Charged Cushioning midsole",
+    "breathability": "High",
+    "amazon_url": "https://amzn.to/3ZhHgjI",
+    "price_min": 54.99,
+    "price_max": 65,
+    "currency": "USD",
+    "rating": 4.6,
+    "review_count": 11050,
+    "comfort_score": 84,
+    "durability_score": 82,
+    "breathability_score": 85,
+    "overall_score": 83.66666666666667,
+    "short_description": "Breathable, cushioned running sneakers for men",
+    "about_this_item": "Breathable mesh upper with synthetic overlays, enhanced cushioning around ankle collar, Deluxe Comfort System sockliner, Charged Cushioning? midsole for all-day comfort, durable rubber outsole providing traction and flexibility",
+    "primary_keyword": "Under Armour Men's Charged Surge 4",
+    "slug": "under-armour-mens-charged-surge-4-sneaker",
+    "url": "https://www.shoesonwhite.com/2026/02/under-armour-mens-charged-surge-4-sneaker.html",
+    "gender_url": "https://www.shoesonwhite.com/p/men.html",
+    "brand_url": "https://www.shoesonwhite.com/p/under-armour.html",
+    "subcategory_url": "https://www.shoesonwhite.com/p/sneakers.html",
+    "image_urls": [
+      "https://m.media-amazon.com/images/I/71hvGJOasWL._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/61dtdO2kN-L._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/619JpTFxs6L._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/710wOBQLkJL._AC_SY500_.jpg"
+    ],
+    "main_image": "https://m.media-amazon.com/images/I/71hvGJOasWL._AC_SY500_.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://www.shoesonwhite.com/#product-B0FCK8MX1X",
+      "name": "Under Armour Men's Charged Surge 4 Sneaker Shoes",
+      "description": "Breathable, cushioned running sneakers for men",
+      "url": "https://www.shoesonwhite.com/2026/02/under-armour-mens-charged-surge-4-sneaker.html",
+      "sku": "B0FCK8MX1X",
+      "mpn": "B0FCK8MX1X",
+      "brand": {
+        "@type": "Brand",
+        "name": "Under Armour",
+        "url": "https://www.shoesonwhite.com/p/under-armour.html"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.shoesonwhite.com/2026/02/under-armour-mens-charged-surge-4-sneaker.html",
+        "priceCurrency": "USD",
+        "price": 54.99,
+        "priceValidUntil": "2027-02-15",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.6,
+        "reviewCount": 11050,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Sneakers"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Color",
+          "value": "White Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Breathable mesh upper with synthetic overlays"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Closure Type",
+          "value": "Lace-up"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Weight",
+          "value": "2.4"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Comfort Score",
+          "value": "84"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Durability Score",
+          "value": "82"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Breathability Score",
+          "value": "85"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Overall Score",
+          "value": "83.66666666666667"
+        }
+      ],
+      "image": [
+        "https://m.media-amazon.com/images/I/71hvGJOasWL._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/61dtdO2kN-L._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/619JpTFxs6L._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/710wOBQLkJL._AC_SY500_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.shoesonwhite.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Men",
+            "item": "https://www.shoesonwhite.com/p/men.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Under Armour",
+            "item": "https://www.shoesonwhite.com/p/under-armour.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Sneakers",
+            "item": "https://www.shoesonwhite.com/p/sneakers.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Under Armour Men's Charged Surge 4 Sneaker Shoes",
+            "item": "https://www.shoesonwhite.com/2026/02/under-armour-mens-charged-surge-4-sneaker.html"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-02-15T18:02:04.389Z",
+    "last_updated": "2026-02-15T18:02:04.389Z"
+  }
+}
