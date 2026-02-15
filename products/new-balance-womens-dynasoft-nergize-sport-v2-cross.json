@@ -2,14 +2,14 @@
   "metadata": {
     "product_id": "B0BJ7W5WFV",
     "slug": "new-balance-womens-dynasoft-nergize-sport-v2-cross",
-    "generated_at": "2026-02-15T04:43:10.209Z",
+    "generated_at": "2026-02-15T09:22:45.018Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
-      "product": "https://www.shoesonwhite.com/2026/02/new-balance-womens-dynasoft-nergize-sport-v2-cross",
-      "gender": "https://www.shoesonwhite.com/p/women",
-      "brand": "https://www.shoesonwhite.com/p/new-balance",
-      "subcategory": "https://www.shoesonwhite.com/p/athletic"
+      "product": "https://www.shoesonwhite.com/2026/02/new-balance-womens-dynasoft-nergize-sport-v2-cross.html",
+      "gender": "https://www.shoesonwhite.com/p/women.html",
+      "brand": "https://www.shoesonwhite.com/p/new-balance.html",
+      "subcategory": "https://www.shoesonwhite.com/p/athletic.html"
     }
   },
   "product": {
@@ -43,10 +43,10 @@
     "about_this_item": "DynaSoft midsole for plush comfort; no-sew upper for sleek fit; synthetic/textile upper; durable rubber outsole; adjustable lace closure for customized fit",
     "primary_keyword": "women white cross training shoes",
     "slug": "new-balance-womens-dynasoft-nergize-sport-v2-cross",
-    "url": "https://www.shoesonwhite.com/2026/02/new-balance-womens-dynasoft-nergize-sport-v2-cross",
-    "gender_url": "https://www.shoesonwhite.com/p/women",
-    "brand_url": "https://www.shoesonwhite.com/p/new-balance",
-    "subcategory_url": "https://www.shoesonwhite.com/p/athletic",
+    "url": "https://www.shoesonwhite.com/2026/02/new-balance-womens-dynasoft-nergize-sport-v2-cross.html",
+    "gender_url": "https://www.shoesonwhite.com/p/women.html",
+    "brand_url": "https://www.shoesonwhite.com/p/new-balance.html",
+    "subcategory_url": "https://www.shoesonwhite.com/p/athletic.html",
     "image_urls": [
       "https://m.media-amazon.com/images/I/41eQ4ZSLJUL._AC_SY500_.jpg",
       "https://m.media-amazon.com/images/I/41zr4+bjr2L._AC_SY500_.jpg",
@@ -62,17 +62,17 @@
       "@id": "https://www.shoesonwhite.com/#product-B0BJ7W5WFV",
       "name": "New Balance Women's DynaSoft Nergize Sport V2 Cross Trainer",
       "description": "Sleek, lightweight women's cross-training shoe designed for comfort, gym workouts, and everyday wear.",
-      "url": "https://www.shoesonwhite.com/2026/02/new-balance-womens-dynasoft-nergize-sport-v2-cross",
+      "url": "https://www.shoesonwhite.com/2026/02/new-balance-womens-dynasoft-nergize-sport-v2-cross.html",
       "sku": "B0BJ7W5WFV",
       "mpn": "B0BJ7W5WFV",
       "brand": {
         "@type": "Brand",
         "name": "New Balance",
-        "url": "https://www.shoesonwhite.com/p/new-balance"
+        "url": "https://www.shoesonwhite.com/p/new-balance.html"
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.shoesonwhite.com/2026/02/new-balance-womens-dynasoft-nergize-sport-v2-cross",
+        "url": "https://www.shoesonwhite.com/2026/02/new-balance-womens-dynasoft-nergize-sport-v2-cross.html",
         "priceCurrency": "USD",
         "price": 52.22,
         "priceValidUntil": "2027-02-15",
@@ -167,30 +167,30 @@
             "@type": "ListItem",
             "position": 2,
             "name": "Women",
-            "item": "https://www.shoesonwhite.com/p/women"
+            "item": "https://www.shoesonwhite.com/p/women.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "New Balance",
-            "item": "https://www.shoesonwhite.com/p/new-balance"
+            "item": "https://www.shoesonwhite.com/p/new-balance.html"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Athletic",
-            "item": "https://www.shoesonwhite.com/p/athletic"
+            "item": "https://www.shoesonwhite.com/p/athletic.html"
           },
           {
             "@type": "ListItem",
             "position": 5,
             "name": "New Balance Women's DynaSoft Nergize Sport V2 Cross Trainer",
-            "item": "https://www.shoesonwhite.com/2026/02/new-balance-womens-dynasoft-nergize-sport-v2-cross"
+            "item": "https://www.shoesonwhite.com/2026/02/new-balance-womens-dynasoft-nergize-sport-v2-cross.html"
           }
         ]
       }
     },
-    "created_at": "2026-02-15T04:42:56.955Z",
-    "last_updated": "2026-02-15T04:42:56.955Z"
+    "created_at": "2026-02-15T09:22:28.927Z",
+    "last_updated": "2026-02-15T09:22:28.927Z"
   }
 }
