@@ -2,11 +2,11 @@
   "metadata": {
     "product_id": "B0FBSBXCMS",
     "slug": "skechers-skechers-womens-bobs-b-cute-sneaker-memory-foam-flexible-outsole-lightweight-veg-B0FBSB",
-    "generated_at": "2026-02-14T03:55:28.982Z",
+    "generated_at": "2026-02-15T04:27:10.377Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
-      "product": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-bobs-b-cute-sneaker-memory-foam-flexible-outsole-lightweight-veg-B0FBSB.html",
+      "product": "https://www.shoesonwhite.com/sneakers+womens-bobs-b-cute-sneaker-memory-foam-flexible-out",
       "gender": "https://www.shoesonwhite.com/p/women",
       "brand": "https://www.shoesonwhite.com/p/skechers",
       "subcategory": "https://www.shoesonwhite.com/p/sneakers"
@@ -43,7 +43,7 @@
     "about_this_item": "Memory Foam cushioned insole, soft canvas upper, slip-on design, vegan materials, machine washable",
     "primary_keyword": "Skechers Bobs B Cute",
     "slug": "skechers-skechers-womens-bobs-b-cute-sneaker-memory-foam-flexible-outsole-lightweight-veg-B0FBSB",
-    "url": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-bobs-b-cute-sneaker-memory-foam-flexible-outsole-lightweight-veg-B0FBSB.html",
+    "url": "https://www.shoesonwhite.com/sneakers+womens-bobs-b-cute-sneaker-memory-foam-flexible-out",
     "gender_url": "https://www.shoesonwhite.com/p/women",
     "brand_url": "https://www.shoesonwhite.com/p/skechers",
     "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -63,7 +63,7 @@
       "@id": "https://www.shoesonwhite.com/#product-B0FBSBXCMS",
       "name": "Skechers Women's Bobs B Cute Sneaker ? Memory Foam, Flexible Outsole, Lightweight Vegan Shoes",
       "description": "Lightweight, comfortable vegan sneaker",
-      "url": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-bobs-b-cute-sneaker-memory-foam-flexible-outsole-lightweight-veg-B0FBSB.html",
+      "url": "https://www.shoesonwhite.com/sneakers+womens-bobs-b-cute-sneaker-memory-foam-flexible-out",
       "sku": "B0FBSBXCMS",
       "mpn": "B0FBSBXCMS",
       "brand": {
@@ -73,10 +73,10 @@
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-bobs-b-cute-sneaker-memory-foam-flexible-outsole-lightweight-veg-B0FBSB.html",
+        "url": "https://www.shoesonwhite.com/sneakers+womens-bobs-b-cute-sneaker-memory-foam-flexible-out",
         "priceCurrency": "USD",
         "price": 49.95,
-        "priceValidUntil": "2027-02-14",
+        "priceValidUntil": "2027-02-15",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -187,12 +187,12 @@
             "@type": "ListItem",
             "position": 5,
             "name": "Skechers Women's Bobs B Cute Sneaker ? Memory Foam, Flexible Outsole, Lightweight Vegan Shoes",
-            "item": "https://www.shoesonwhite.com/2026/02/skechers-skechers-womens-bobs-b-cute-sneaker-memory-foam-flexible-outsole-lightweight-veg-B0FBSB.html"
+            "item": "https://www.shoesonwhite.com/sneakers+womens-bobs-b-cute-sneaker-memory-foam-flexible-out"
           }
         ]
       }
     },
-    "created_at": "2026-02-14T03:55:21.100Z",
-    "last_updated": "2026-02-14T03:55:21.100Z"
+    "created_at": "2026-02-15T04:27:03.593Z",
+    "last_updated": "2026-02-15T04:27:03.593Z"
   }
 }
