@@ -2,14 +2,14 @@
   "metadata": {
     "product_id": "B0CKMHWRW6",
     "slug": "adidas-womens-run-falcon-5-running",
-    "generated_at": "2026-02-15T04:43:18.038Z",
+    "generated_at": "2026-02-15T09:22:54.557Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
-      "product": "https://www.shoesonwhite.com/2026/02/adidas-womens-run-falcon-5-running",
-      "gender": "https://www.shoesonwhite.com/p/women",
-      "brand": "https://www.shoesonwhite.com/p/adidas",
-      "subcategory": "https://www.shoesonwhite.com/p/athletic"
+      "product": "https://www.shoesonwhite.com/2026/02/adidas-womens-run-falcon-5-running.html",
+      "gender": "https://www.shoesonwhite.com/p/women.html",
+      "brand": "https://www.shoesonwhite.com/p/adidas.html",
+      "subcategory": "https://www.shoesonwhite.com/p/athletic.html"
     }
   },
   "product": {
@@ -43,10 +43,10 @@
     "about_this_item": "Lightweight and versatile, the Runfalcon 5 Running Shoes feature a Cloudfoam midsole for cushioned comfort... SNUG FIT... CUSHIONED MIDSOLE...",
     "primary_keyword": "running shoes for women, lightweight sneakers",
     "slug": "adidas-womens-run-falcon-5-running",
-    "url": "https://www.shoesonwhite.com/2026/02/adidas-womens-run-falcon-5-running",
-    "gender_url": "https://www.shoesonwhite.com/p/women",
-    "brand_url": "https://www.shoesonwhite.com/p/adidas",
-    "subcategory_url": "https://www.shoesonwhite.com/p/athletic",
+    "url": "https://www.shoesonwhite.com/2026/02/adidas-womens-run-falcon-5-running.html",
+    "gender_url": "https://www.shoesonwhite.com/p/women.html",
+    "brand_url": "https://www.shoesonwhite.com/p/adidas.html",
+    "subcategory_url": "https://www.shoesonwhite.com/p/athletic.html",
     "image_urls": [
       "https://m.media-amazon.com/images/I/61oqt0zVLQL._AC_SY695_.jpg",
       "https://m.media-amazon.com/images/I/711AsrcuirL._AC_SY500_.jpg",
@@ -62,17 +62,17 @@
       "@id": "https://www.shoesonwhite.com/#product-B0CKMHWRW6",
       "name": "adidas Women's Run Falcon 5 Running Shoes",
       "description": "Lightweight running shoe with Cloudfoam midsole for cushioned comfort.",
-      "url": "https://www.shoesonwhite.com/2026/02/adidas-womens-run-falcon-5-running",
+      "url": "https://www.shoesonwhite.com/2026/02/adidas-womens-run-falcon-5-running.html",
       "sku": "B0CKMHWRW6",
       "mpn": "B0CKMHWRW7",
       "brand": {
         "@type": "Brand",
         "name": "adidas",
-        "url": "https://www.shoesonwhite.com/p/adidas"
+        "url": "https://www.shoesonwhite.com/p/adidas.html"
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.shoesonwhite.com/2026/02/adidas-womens-run-falcon-5-running",
+        "url": "https://www.shoesonwhite.com/2026/02/adidas-womens-run-falcon-5-running.html",
         "priceCurrency": "USD",
         "price": 45.21,
         "priceValidUntil": "2027-02-15",
@@ -162,30 +162,30 @@
             "@type": "ListItem",
             "position": 2,
             "name": "Women",
-            "item": "https://www.shoesonwhite.com/p/women"
+            "item": "https://www.shoesonwhite.com/p/women.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "adidas",
-            "item": "https://www.shoesonwhite.com/p/adidas"
+            "item": "https://www.shoesonwhite.com/p/adidas.html"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Athletic",
-            "item": "https://www.shoesonwhite.com/p/athletic"
+            "item": "https://www.shoesonwhite.com/p/athletic.html"
           },
           {
             "@type": "ListItem",
             "position": 5,
             "name": "adidas Women's Run Falcon 5 Running Shoes",
-            "item": "https://www.shoesonwhite.com/2026/02/adidas-womens-run-falcon-5-running"
+            "item": "https://www.shoesonwhite.com/2026/02/adidas-womens-run-falcon-5-running.html"
           }
         ]
       }
     },
-    "created_at": "2026-02-15T04:42:56.957Z",
-    "last_updated": "2026-02-15T04:42:56.957Z"
+    "created_at": "2026-02-15T09:22:28.928Z",
+    "last_updated": "2026-02-15T09:22:28.928Z"
   }
 }
