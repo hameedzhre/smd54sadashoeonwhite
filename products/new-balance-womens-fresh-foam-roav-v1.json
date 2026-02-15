@@ -2,14 +2,14 @@
   "metadata": {
     "product_id": "B0DG7W333S",
     "slug": "new-balance-womens-fresh-foam-roav-v1",
-    "generated_at": "2026-02-15T04:43:09.741Z",
+    "generated_at": "2026-02-15T09:22:44.456Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
-      "product": "https://www.shoesonwhite.com/2026/02/new-balance-womens-fresh-foam-roav-v1",
-      "gender": "https://www.shoesonwhite.com/p/women",
-      "brand": "https://www.shoesonwhite.com/p/new-balance",
-      "subcategory": "https://www.shoesonwhite.com/p/sneakers"
+      "product": "https://www.shoesonwhite.com/2026/02/new-balance-womens-fresh-foam-roav-v1.html",
+      "gender": "https://www.shoesonwhite.com/p/women.html",
+      "brand": "https://www.shoesonwhite.com/p/new-balance.html",
+      "subcategory": "https://www.shoesonwhite.com/p/sneakers.html"
     }
   },
   "product": {
@@ -43,10 +43,10 @@
     "about_this_item": "Ultra Heel design, Synthetic/mesh upper, Full-length rubber outsole, Bootie upper construction",
     "primary_keyword": "Fresh Foam Roav V1 Sneaker",
     "slug": "new-balance-womens-fresh-foam-roav-v1",
-    "url": "https://www.shoesonwhite.com/2026/02/new-balance-womens-fresh-foam-roav-v1",
-    "gender_url": "https://www.shoesonwhite.com/p/women",
-    "brand_url": "https://www.shoesonwhite.com/p/new-balance",
-    "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
+    "url": "https://www.shoesonwhite.com/2026/02/new-balance-womens-fresh-foam-roav-v1.html",
+    "gender_url": "https://www.shoesonwhite.com/p/women.html",
+    "brand_url": "https://www.shoesonwhite.com/p/new-balance.html",
+    "subcategory_url": "https://www.shoesonwhite.com/p/sneakers.html",
     "image_urls": [
       "https://m.media-amazon.com/images/I/41ncrLWCvML._AC_SY500_.jpg",
       "https://m.media-amazon.com/images/I/41yS2pP1MXL._AC_SY500_.jpg",
@@ -62,17 +62,17 @@
       "@id": "https://www.shoesonwhite.com/#product-B0DG7W333S",
       "name": "New Balance Women's Fresh Foam Roav V1 Sneaker",
       "description": "Ultra Heel design hugs the back of the foot for a snug, supportive fit",
-      "url": "https://www.shoesonwhite.com/2026/02/new-balance-womens-fresh-foam-roav-v1",
+      "url": "https://www.shoesonwhite.com/2026/02/new-balance-womens-fresh-foam-roav-v1.html",
       "sku": "B0DG7W333S",
       "mpn": "B0DG7W333S",
       "brand": {
         "@type": "Brand",
         "name": "New Balance",
-        "url": "https://www.shoesonwhite.com/p/new-balance"
+        "url": "https://www.shoesonwhite.com/p/new-balance.html"
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.shoesonwhite.com/2026/02/new-balance-womens-fresh-foam-roav-v1",
+        "url": "https://www.shoesonwhite.com/2026/02/new-balance-womens-fresh-foam-roav-v1.html",
         "priceCurrency": "USD",
         "price": 80.36,
         "priceValidUntil": "2027-02-15",
@@ -162,30 +162,30 @@
             "@type": "ListItem",
             "position": 2,
             "name": "Women",
-            "item": "https://www.shoesonwhite.com/p/women"
+            "item": "https://www.shoesonwhite.com/p/women.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "New Balance",
-            "item": "https://www.shoesonwhite.com/p/new-balance"
+            "item": "https://www.shoesonwhite.com/p/new-balance.html"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Sneakers",
-            "item": "https://www.shoesonwhite.com/p/sneakers"
+            "item": "https://www.shoesonwhite.com/p/sneakers.html"
           },
           {
             "@type": "ListItem",
             "position": 5,
             "name": "New Balance Women's Fresh Foam Roav V1 Sneaker",
-            "item": "https://www.shoesonwhite.com/2026/02/new-balance-womens-fresh-foam-roav-v1"
+            "item": "https://www.shoesonwhite.com/2026/02/new-balance-womens-fresh-foam-roav-v1.html"
           }
         ]
       }
     },
-    "created_at": "2026-02-15T04:42:56.955Z",
-    "last_updated": "2026-02-15T04:42:56.955Z"
+    "created_at": "2026-02-15T09:22:28.927Z",
+    "last_updated": "2026-02-15T09:22:28.927Z"
   }
 }
