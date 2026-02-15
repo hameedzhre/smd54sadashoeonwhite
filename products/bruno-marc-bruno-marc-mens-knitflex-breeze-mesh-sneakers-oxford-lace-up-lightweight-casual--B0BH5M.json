@@ -2,11 +2,11 @@
   "metadata": {
     "product_id": "B0BH5MJPGS",
     "slug": "bruno-marc-bruno-marc-mens-knitflex-breeze-mesh-sneakers-oxford-lace-up-lightweight-casual--B0BH5M",
-    "generated_at": "2026-02-14T03:55:45.919Z",
+    "generated_at": "2026-02-15T04:27:26.601Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
-      "product": "https://www.shoesonwhite.com/2026/02/bruno-marc-bruno-marc-mens-knitflex-breeze-mesh-sneakers-oxford-lace-up-lightweight-casual--B0BH5M.html",
+      "product": "https://www.shoesonwhite.com/sneakers+bruno-marc-mens-knitflex-breeze-mesh-sneakers-oxford-lace-up",
       "gender": "https://www.shoesonwhite.com/p/men",
       "brand": "https://www.shoesonwhite.com/p/bruno-marc",
       "subcategory": "https://www.shoesonwhite.com/p/sneakers"
@@ -43,7 +43,7 @@
     "about_this_item": "? Breathable knitted upper for airflow ? Responsive EVA outsole + memory foam insole for cushioning ? Elastic collar, lace-up & pull tab for easy on/off ? Lightweight (7.76 oz per shoe) ? Casual/semi-formal style with wing-shaped stitching",
     "primary_keyword": "Bruno Marc KnitFlex Breeze Mesh White",
     "slug": "bruno-marc-bruno-marc-mens-knitflex-breeze-mesh-sneakers-oxford-lace-up-lightweight-casual--B0BH5M",
-    "url": "https://www.shoesonwhite.com/2026/02/bruno-marc-bruno-marc-mens-knitflex-breeze-mesh-sneakers-oxford-lace-up-lightweight-casual--B0BH5M.html",
+    "url": "https://www.shoesonwhite.com/sneakers+bruno-marc-mens-knitflex-breeze-mesh-sneakers-oxford-lace-up",
     "gender_url": "https://www.shoesonwhite.com/p/men",
     "brand_url": "https://www.shoesonwhite.com/p/bruno-marc",
     "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -63,7 +63,7 @@
       "@id": "https://www.shoesonwhite.com/#product-B0BH5MJPGS",
       "name": "Bruno Marc Men's KnitFlex Breeze Mesh Sneakers Oxford Lace-up Lightweight Casual Walking Shoes",
       "description": "Breathable lightweight knit mesh casual sneaker ? great for walking & summer",
-      "url": "https://www.shoesonwhite.com/2026/02/bruno-marc-bruno-marc-mens-knitflex-breeze-mesh-sneakers-oxford-lace-up-lightweight-casual--B0BH5M.html",
+      "url": "https://www.shoesonwhite.com/sneakers+bruno-marc-mens-knitflex-breeze-mesh-sneakers-oxford-lace-up",
       "sku": "B0BH5MJPGS",
       "mpn": "B0BH5MJPGS",
       "brand": {
@@ -73,10 +73,10 @@
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.shoesonwhite.com/2026/02/bruno-marc-bruno-marc-mens-knitflex-breeze-mesh-sneakers-oxford-lace-up-lightweight-casual--B0BH5M.html",
+        "url": "https://www.shoesonwhite.com/sneakers+bruno-marc-mens-knitflex-breeze-mesh-sneakers-oxford-lace-up",
         "priceCurrency": "USD",
         "price": 38.99,
-        "priceValidUntil": "2027-02-14",
+        "priceValidUntil": "2027-02-15",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -182,12 +182,12 @@
             "@type": "ListItem",
             "position": 5,
             "name": "Bruno Marc Men's KnitFlex Breeze Mesh Sneakers Oxford Lace-up Lightweight Casual Walking Shoes",
-            "item": "https://www.shoesonwhite.com/2026/02/bruno-marc-bruno-marc-mens-knitflex-breeze-mesh-sneakers-oxford-lace-up-lightweight-casual--B0BH5M.html"
+            "item": "https://www.shoesonwhite.com/sneakers+bruno-marc-mens-knitflex-breeze-mesh-sneakers-oxford-lace-up"
           }
         ]
       }
     },
-    "created_at": "2026-02-14T03:55:21.101Z",
-    "last_updated": "2026-02-14T03:55:21.101Z"
+    "created_at": "2026-02-15T04:27:03.594Z",
+    "last_updated": "2026-02-15T04:27:03.594Z"
   }
 }
