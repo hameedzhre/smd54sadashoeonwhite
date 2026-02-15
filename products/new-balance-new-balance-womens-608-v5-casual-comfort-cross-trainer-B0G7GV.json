@@ -1,0 +1,196 @@
+{
+  "metadata": {
+    "product_id": "B0G7GVNSJ6",
+    "slug": "new-balance-new-balance-womens-608-v5-casual-comfort-cross-trainer-B0G7GV",
+    "generated_at": "2026-02-15T04:34:09.828Z",
+    "source": "google_sheets",
+    "version": "1.0",
+    "urls": {
+      "product": "https://www.shoesonwhite.com/sneakers+new-balance-womens-608-v5-casual-comfort-cross-trainer",
+      "gender": "https://www.shoesonwhite.com/p/women",
+      "brand": "https://www.shoesonwhite.com/p/new-balance",
+      "subcategory": "https://www.shoesonwhite.com/p/sneakers"
+    }
+  },
+  "product": {
+    "product_id": "B0G7GVNSJ6",
+    "asin": "B0G7GVNSJ7",
+    "product_title": "New Balance Women's 608 V5 Casual Comfort Cross Trainer",
+    "brand": "New Balance",
+    "category": "Shoes",
+    "subcategory": "Sneakers",
+    "color": "White Shoes",
+    "gender": "Women",
+    "weight_lbs": 2.4,
+    "upper_material": "Leather",
+    "sole_material": "Rubber",
+    "outer_material": "Leather",
+    "lining": "N/A",
+    "closure_type": "Lace-Up",
+    "cushioning": "ABZORB Midsole, Lightweight EVA foam midsole",
+    "breathability": "N/A",
+    "amazon_url": "https://amzn.to/4tlZiz1",
+    "price_min": 63.96,
+    "price_max": 79.99,
+    "currency": "USD",
+    "rating": 4.4,
+    "review_count": 42330,
+    "comfort_score": 66,
+    "durability_score": 86,
+    "breathability_score": 79,
+    "overall_score": 77,
+    "short_description": "Leather cross trainer with ABZORB cushioning and durable outsole.",
+    "about_this_item": "NDurance rubber outsole technology provides superior durability... ABZORB midsole absorbs impact... Lightweight injection-molded EVA foam midsole provides lightweight cushioning...",
+    "primary_keyword": "cross trainers, leather sneakers",
+    "slug": "new-balance-new-balance-womens-608-v5-casual-comfort-cross-trainer-B0G7GV",
+    "url": "https://www.shoesonwhite.com/sneakers+new-balance-womens-608-v5-casual-comfort-cross-trainer",
+    "gender_url": "https://www.shoesonwhite.com/p/women",
+    "brand_url": "https://www.shoesonwhite.com/p/new-balance",
+    "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
+    "image_urls": [
+      "https://m.media-amazon.com/images/I/613LIIH2peL._AC_SX500_.jpg",
+      "https://m.media-amazon.com/images/I/61MosjN5g9L._AC_SX500_.jpg",
+      "https://m.media-amazon.com/images/I/61fIM5-7kHL._AC_SY625_.jpg",
+      "https://m.media-amazon.com/images/I/41n09YGR+cL._AC_.jpg",
+      "https://m.media-amazon.com/images/I/61UNOQZQr1L._AC_SX500_.jpg",
+      "https://m.media-amazon.com/images/I/71+OQsxohgL._AC_SX500_.jpg"
+    ],
+    "main_image": "https://m.media-amazon.com/images/I/613LIIH2peL._AC_SX500_.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://www.shoesonwhite.com/#product-B0G7GVNSJ6",
+      "name": "New Balance Women's 608 V5 Casual Comfort Cross Trainer",
+      "description": "Leather cross trainer with ABZORB cushioning and durable outsole.",
+      "url": "https://www.shoesonwhite.com/sneakers+new-balance-womens-608-v5-casual-comfort-cross-trainer",
+      "sku": "B0G7GVNSJ6",
+      "mpn": "B0G7GVNSJ7",
+      "brand": {
+        "@type": "Brand",
+        "name": "New Balance",
+        "url": "https://www.shoesonwhite.com/p/new-balance"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.shoesonwhite.com/sneakers+new-balance-womens-608-v5-casual-comfort-cross-trainer",
+        "priceCurrency": "USD",
+        "price": 63.96,
+        "priceValidUntil": "2027-02-15",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.4,
+        "reviewCount": 42330,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Sneakers"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Color",
+          "value": "White Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Leather"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Closure Type",
+          "value": "Lace-Up"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Weight",
+          "value": "2.4"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Comfort Score",
+          "value": "66"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Durability Score",
+          "value": "86"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Breathability Score",
+          "value": "79"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Overall Score",
+          "value": "77"
+        }
+      ],
+      "image": [
+        "https://m.media-amazon.com/images/I/613LIIH2peL._AC_SX500_.jpg",
+        "https://m.media-amazon.com/images/I/61MosjN5g9L._AC_SX500_.jpg",
+        "https://m.media-amazon.com/images/I/61fIM5-7kHL._AC_SY625_.jpg",
+        "https://m.media-amazon.com/images/I/41n09YGR+cL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/61UNOQZQr1L._AC_SX500_.jpg",
+        "https://m.media-amazon.com/images/I/71+OQsxohgL._AC_SX500_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.shoesonwhite.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Women",
+            "item": "https://www.shoesonwhite.com/p/women"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "New Balance",
+            "item": "https://www.shoesonwhite.com/p/new-balance"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Sneakers",
+            "item": "https://www.shoesonwhite.com/p/sneakers"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "New Balance Women's 608 V5 Casual Comfort Cross Trainer",
+            "item": "https://www.shoesonwhite.com/sneakers+new-balance-womens-608-v5-casual-comfort-cross-trainer"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-02-15T04:33:55.518Z",
+    "last_updated": "2026-02-15T04:33:55.518Z"
+  }
+}
