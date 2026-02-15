@@ -2,11 +2,11 @@
   "metadata": {
     "product_id": "B0BYZHQXHJ",
     "slug": "pujcs-pujcs-womens-sneakers-non-slip-walking-shoes-lightweight-tennis-shoes-breathable-B0BYZH",
-    "generated_at": "2026-02-14T03:55:34.072Z",
+    "generated_at": "2026-02-15T04:27:15.382Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
-      "product": "https://www.shoesonwhite.com/2026/02/pujcs-pujcs-womens-sneakers-non-slip-walking-shoes-lightweight-tennis-shoes-breathable-B0BYZH.html",
+      "product": "https://www.shoesonwhite.com/athletic+womens-sneakers-non-slip-walking-shoes-lightweight-ten",
       "gender": "https://www.shoesonwhite.com/p/women",
       "brand": "https://www.shoesonwhite.com/p/pujcs",
       "subcategory": "https://www.shoesonwhite.com/p/athletic"
@@ -43,7 +43,7 @@
     "about_this_item": "Breathable mesh upper; lightweight EVA outsole; slip-resistant sole; cushioned memory foam insole; easy slip-on design; suitable for walking, running, gym, travel, and casual outfits.",
     "primary_keyword": "white sneakers women",
     "slug": "pujcs-pujcs-womens-sneakers-non-slip-walking-shoes-lightweight-tennis-shoes-breathable-B0BYZH",
-    "url": "https://www.shoesonwhite.com/2026/02/pujcs-pujcs-womens-sneakers-non-slip-walking-shoes-lightweight-tennis-shoes-breathable-B0BYZH.html",
+    "url": "https://www.shoesonwhite.com/athletic+womens-sneakers-non-slip-walking-shoes-lightweight-ten",
     "gender_url": "https://www.shoesonwhite.com/p/women",
     "brand_url": "https://www.shoesonwhite.com/p/pujcs",
     "subcategory_url": "https://www.shoesonwhite.com/p/athletic",
@@ -62,7 +62,7 @@
       "@id": "https://www.shoesonwhite.com/#product-B0BYZHQXHJ",
       "name": "Pujcs Womens Sneakers Non Slip Walking Shoes Lightweight Tennis Shoes Breathable Running Shoes Gym Workout Mesh Sneakers",
       "description": "Lightweight breathable women?s walking sneakers designed for comfort, flexibility, and everyday wear.",
-      "url": "https://www.shoesonwhite.com/2026/02/pujcs-pujcs-womens-sneakers-non-slip-walking-shoes-lightweight-tennis-shoes-breathable-B0BYZH.html",
+      "url": "https://www.shoesonwhite.com/athletic+womens-sneakers-non-slip-walking-shoes-lightweight-ten",
       "sku": "B0BYZHQXHJ",
       "mpn": "B0BYZHQXHJ",
       "brand": {
@@ -72,10 +72,10 @@
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.shoesonwhite.com/2026/02/pujcs-pujcs-womens-sneakers-non-slip-walking-shoes-lightweight-tennis-shoes-breathable-B0BYZH.html",
+        "url": "https://www.shoesonwhite.com/athletic+womens-sneakers-non-slip-walking-shoes-lightweight-ten",
         "priceCurrency": "USD",
         "price": 26.99,
-        "priceValidUntil": "2027-02-14",
+        "priceValidUntil": "2027-02-15",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -180,12 +180,12 @@
             "@type": "ListItem",
             "position": 5,
             "name": "Pujcs Womens Sneakers Non Slip Walking Shoes Lightweight Tennis Shoes Breathable Running Shoes Gym Workout Mesh Sneakers",
-            "item": "https://www.shoesonwhite.com/2026/02/pujcs-pujcs-womens-sneakers-non-slip-walking-shoes-lightweight-tennis-shoes-breathable-B0BYZH.html"
+            "item": "https://www.shoesonwhite.com/athletic+womens-sneakers-non-slip-walking-shoes-lightweight-ten"
           }
         ]
       }
     },
-    "created_at": "2026-02-14T03:55:21.101Z",
-    "last_updated": "2026-02-14T03:55:21.101Z"
+    "created_at": "2026-02-15T04:27:03.594Z",
+    "last_updated": "2026-02-15T04:27:03.594Z"
   }
 }
