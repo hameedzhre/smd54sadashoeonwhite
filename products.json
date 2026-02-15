@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generated_at": "2026-02-15T09:22:28.934Z",
+    "generated_at": "2026-02-15T18:02:04.400Z",
     "total_products": 44,
-    "last_sync": "2026-02-15T09:22:28.934Z",
+    "last_sync": "2026-02-15T18:02:04.400Z",
     "format_version": "2.0",
     "site_url": "https://www.shoesonwhite.com"
   },
@@ -178,8 +178,8 @@
           ]
         }
       },
-      "created_at": "2026-02-15T09:22:28.924Z",
-      "last_updated": "2026-02-15T09:22:28.924Z"
+      "created_at": "2026-02-15T18:02:04.388Z",
+      "last_updated": "2026-02-15T18:02:04.388Z"
     },
     {
       "product_id": "B08XM4K566",
@@ -352,8 +352,8 @@
           ]
         }
       },
-      "created_at": "2026-02-15T09:22:28.925Z",
-      "last_updated": "2026-02-15T09:22:28.925Z"
+      "created_at": "2026-02-15T18:02:04.388Z",
+      "last_updated": "2026-02-15T18:02:04.388Z"
     },
     {
       "product_id": "B09537W3Q3",
@@ -533,8 +533,8 @@
           ]
         }
       },
-      "created_at": "2026-02-15T09:22:28.925Z",
-      "last_updated": "2026-02-15T09:22:28.925Z"
+      "created_at": "2026-02-15T18:02:04.388Z",
+      "last_updated": "2026-02-15T18:02:04.388Z"
     },
     {
       "product_id": "B0DCV7BV1F",
@@ -707,13 +707,13 @@
           ]
         }
       },
-      "created_at": "2026-02-15T09:22:28.925Z",
-      "last_updated": "2026-02-15T09:22:28.925Z"
+      "created_at": "2026-02-15T18:02:04.389Z",
+      "last_updated": "2026-02-15T18:02:04.389Z"
     },
     {
       "product_id": "B0FCK8MX1X",
       "asin": "B0FCK8MX1X",
-      "product_title": "Under Armour Men's Charged Surge 4 Sneaker",
+      "product_title": "Under Armour Men's Charged Surge 4 Sneaker Shoes",
       "brand": "Under Armour",
       "category": "Shoes",
       "subcategory": "Sneakers",
@@ -740,8 +740,8 @@
       "short_description": "Breathable, cushioned running sneakers for men",
       "about_this_item": "Breathable mesh upper with synthetic overlays, enhanced cushioning around ankle collar, Deluxe Comfort System sockliner, Charged Cushioning? midsole for all-day comfort, durable rubber outsole providing traction and flexibility",
       "primary_keyword": "Under Armour Men's Charged Surge 4",
-      "slug": "under-armour-mens-charged-surge-4",
-      "url": "https://www.shoesonwhite.com/2026/02/under-armour-mens-charged-surge-4.html",
+      "slug": "under-armour-mens-charged-surge-4-sneaker",
+      "url": "https://www.shoesonwhite.com/2026/02/under-armour-mens-charged-surge-4-sneaker.html",
       "gender_url": "https://www.shoesonwhite.com/p/men.html",
       "brand_url": "https://www.shoesonwhite.com/p/under-armour.html",
       "subcategory_url": "https://www.shoesonwhite.com/p/sneakers.html",
@@ -756,9 +756,9 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "@id": "https://www.shoesonwhite.com/#product-B0FCK8MX1X",
-        "name": "Under Armour Men's Charged Surge 4 Sneaker",
+        "name": "Under Armour Men's Charged Surge 4 Sneaker Shoes",
         "description": "Breathable, cushioned running sneakers for men",
-        "url": "https://www.shoesonwhite.com/2026/02/under-armour-mens-charged-surge-4.html",
+        "url": "https://www.shoesonwhite.com/2026/02/under-armour-mens-charged-surge-4-sneaker.html",
         "sku": "B0FCK8MX1X",
         "mpn": "B0FCK8MX1X",
         "brand": {
@@ -768,7 +768,7 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/under-armour-mens-charged-surge-4.html",
+          "url": "https://www.shoesonwhite.com/2026/02/under-armour-mens-charged-surge-4-sneaker.html",
           "priceCurrency": "USD",
           "price": 54.99,
           "priceValidUntil": "2027-02-15",
@@ -878,14 +878,14 @@
             {
               "@type": "ListItem",
               "position": 5,
-              "name": "Under Armour Men's Charged Surge 4 Sneaker",
-              "item": "https://www.shoesonwhite.com/2026/02/under-armour-mens-charged-surge-4.html"
+              "name": "Under Armour Men's Charged Surge 4 Sneaker Shoes",
+              "item": "https://www.shoesonwhite.com/2026/02/under-armour-mens-charged-surge-4-sneaker.html"
             }
           ]
         }
       },
-      "created_at": "2026-02-15T09:22:28.925Z",
-      "last_updated": "2026-02-15T09:22:28.925Z"
+      "created_at": "2026-02-15T18:02:04.389Z",
+      "last_updated": "2026-02-15T18:02:04.389Z"
     },
     {
       "product_id": "B08176RC33",
@@ -1061,13 +1061,13 @@
           ]
         }
       },
-      "created_at": "2026-02-15T09:22:28.925Z",
-      "last_updated": "2026-02-15T09:22:28.925Z"
+      "created_at": "2026-02-15T18:02:04.389Z",
+      "last_updated": "2026-02-15T18:02:04.389Z"
     },
     {
       "product_id": "B0FH7GZD1Y",
       "asin": "B0FH7GZD1Y",
-      "product_title": "Skechers Women's Uno Stand on Air Sneakers",
+      "product_title": "Skechers Women's Uno Stand on Air Sneakers Shoes",
       "brand": "Skechers",
       "category": "Shoes",
       "subcategory": "Sneakers",
@@ -1094,8 +1094,8 @@
       "short_description": "Fashion sneaker with visible air cushioning and a hidden wedge heel.",
       "about_this_item": "PREMIUM COMFORT TECHNOLOGY: Experience superior cushioning with Air-Cooled Memory Foam insole and visible air-cushioned midsole... STYLISH WEDGE DESIGN... SUPERIOR TRACTION... VERSATILE FASHION...",
       "primary_keyword": "memory foam shoes, fashion sneakers with wedge",
-      "slug": "skechers-womens-uno-stand-on-air",
-      "url": "https://www.shoesonwhite.com/2026/02/skechers-womens-uno-stand-on-air.html",
+      "slug": "skechers-womens-uno-stand-on-air-sneakers",
+      "url": "https://www.shoesonwhite.com/2026/02/skechers-womens-uno-stand-on-air-sneakers.html",
       "gender_url": "https://www.shoesonwhite.com/p/women.html",
       "brand_url": "https://www.shoesonwhite.com/p/skechers.html",
       "subcategory_url": "https://www.shoesonwhite.com/p/sneakers.html",
@@ -1112,9 +1112,9 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "@id": "https://www.shoesonwhite.com/#product-B0FH7GZD1Y",
-        "name": "Skechers Women's Uno Stand on Air Sneakers",
+        "name": "Skechers Women's Uno Stand on Air Sneakers Shoes",
         "description": "Fashion sneaker with visible air cushioning and a hidden wedge heel.",
-        "url": "https://www.shoesonwhite.com/2026/02/skechers-womens-uno-stand-on-air.html",
+        "url": "https://www.shoesonwhite.com/2026/02/skechers-womens-uno-stand-on-air-sneakers.html",
         "sku": "B0FH7GZD1Y",
         "mpn": "B0FH7GZD1Y",
         "brand": {
@@ -1124,7 +1124,7 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/skechers-womens-uno-stand-on-air.html",
+          "url": "https://www.shoesonwhite.com/2026/02/skechers-womens-uno-stand-on-air-sneakers.html",
           "priceCurrency": "USD",
           "price": 44.99,
           "priceValidUntil": "2027-02-15",
@@ -1236,14 +1236,14 @@
             {
               "@type": "ListItem",
               "position": 5,
-              "name": "Skechers Women's Uno Stand on Air Sneakers",
-              "item": "https://www.shoesonwhite.com/2026/02/skechers-womens-uno-stand-on-air.html"
+              "name": "Skechers Women's Uno Stand on Air Sneakers Shoes",
+              "item": "https://www.shoesonwhite.com/2026/02/skechers-womens-uno-stand-on-air-sneakers.html"
             }
           ]
         }
       },
-      "created_at": "2026-02-15T09:22:28.925Z",
-      "last_updated": "2026-02-15T09:22:28.925Z"
+      "created_at": "2026-02-15T18:02:04.389Z",
+      "last_updated": "2026-02-15T18:02:04.389Z"
     },
     {
       "product_id": "B0D7YTJBMF",
@@ -1420,13 +1420,13 @@
           ]
         }
       },
-      "created_at": "2026-02-15T09:22:28.926Z",
-      "last_updated": "2026-02-15T09:22:28.926Z"
+      "created_at": "2026-02-15T18:02:04.389Z",
+      "last_updated": "2026-02-15T18:02:04.389Z"
     },
     {
       "product_id": "B0F9294296",
       "asin": "B0F9294297",
-      "product_title": "Skechers Women's Go Walk Joy Cushioning Sneakers",
+      "product_title": "Skechers Women's Go Walk Joy Cushioning Sneakers Shoes",
       "brand": "Skechers",
       "category": "Shoes",
       "subcategory": "Athletic",
@@ -1453,8 +1453,8 @@
       "short_description": "Slip-on walking shoe with advanced cushioning and breathable mesh. Machine washable.",
       "about_this_item": "SUPERIOR COMFORT AND SUPPORT: Experience premium cushioning with 5GEN technology and Goga Max high rebound insole... BREATHABLE DESIGN... EASY SLIP-ON STYLE... VEGAN FRIENDLY CONSTRUCTION... EASY CARE...",
       "primary_keyword": "walking shoes, slip on athletic shoes",
-      "slug": "skechers-womens-go-walk-joy-cushioning",
-      "url": "https://www.shoesonwhite.com/2026/02/skechers-womens-go-walk-joy-cushioning.html",
+      "slug": "skechers-womens-go-walk-joy-cushioning-sneakers",
+      "url": "https://www.shoesonwhite.com/2026/02/skechers-womens-go-walk-joy-cushioning-sneakers.html",
       "gender_url": "https://www.shoesonwhite.com/p/women.html",
       "brand_url": "https://www.shoesonwhite.com/p/skechers.html",
       "subcategory_url": "https://www.shoesonwhite.com/p/athletic.html",
@@ -1471,9 +1471,9 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "@id": "https://www.shoesonwhite.com/#product-B0F9294296",
-        "name": "Skechers Women's Go Walk Joy Cushioning Sneakers",
+        "name": "Skechers Women's Go Walk Joy Cushioning Sneakers Shoes",
         "description": "Slip-on walking shoe with advanced cushioning and breathable mesh. Machine washable.",
-        "url": "https://www.shoesonwhite.com/2026/02/skechers-womens-go-walk-joy-cushioning.html",
+        "url": "https://www.shoesonwhite.com/2026/02/skechers-womens-go-walk-joy-cushioning-sneakers.html",
         "sku": "B0F9294296",
         "mpn": "B0F9294297",
         "brand": {
@@ -1483,7 +1483,7 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/skechers-womens-go-walk-joy-cushioning.html",
+          "url": "https://www.shoesonwhite.com/2026/02/skechers-womens-go-walk-joy-cushioning-sneakers.html",
           "priceCurrency": "USD",
           "price": 44.88,
           "priceValidUntil": "2027-02-15",
@@ -1595,14 +1595,14 @@
             {
               "@type": "ListItem",
               "position": 5,
-              "name": "Skechers Women's Go Walk Joy Cushioning Sneakers",
-              "item": "https://www.shoesonwhite.com/2026/02/skechers-womens-go-walk-joy-cushioning.html"
+              "name": "Skechers Women's Go Walk Joy Cushioning Sneakers Shoes",
+              "item": "https://www.shoesonwhite.com/2026/02/skechers-womens-go-walk-joy-cushioning-sneakers.html"
             }
           ]
         }
       },
-      "created_at": "2026-02-15T09:22:28.926Z",
-      "last_updated": "2026-02-15T09:22:28.926Z"
+      "created_at": "2026-02-15T18:02:04.389Z",
+      "last_updated": "2026-02-15T18:02:04.389Z"
     },
     {
       "product_id": "B014GNJWW7",
@@ -1782,8 +1782,8 @@
           ]
         }
       },
-      "created_at": "2026-02-15T09:22:28.926Z",
-      "last_updated": "2026-02-15T09:22:28.926Z"
+      "created_at": "2026-02-15T18:02:04.390Z",
+      "last_updated": "2026-02-15T18:02:04.390Z"
     },
     {
       "product_id": "B0FBSBXCMS",
@@ -1965,8 +1965,8 @@
           ]
         }
       },
-      "created_at": "2026-02-15T09:22:28.926Z",
-      "last_updated": "2026-02-15T09:22:28.926Z"
+      "created_at": "2026-02-15T18:02:04.390Z",
+      "last_updated": "2026-02-15T18:02:04.390Z"
     },
     {
       "product_id": "B0F8VJ3B5D",
@@ -2148,8 +2148,8 @@
           ]
         }
       },
-      "created_at": "2026-02-15T09:22:28.926Z",
-      "last_updated": "2026-02-15T09:22:28.926Z"
+      "created_at": "2026-02-15T18:02:04.390Z",
+      "last_updated": "2026-02-15T18:02:04.390Z"
     },
     {
       "product_id": "B0C57Z7R2N",
@@ -2323,8 +2323,8 @@
           ]
         }
       },
-      "created_at": "2026-02-15T09:22:28.926Z",
-      "last_updated": "2026-02-15T09:22:28.926Z"
+      "created_at": "2026-02-15T18:02:04.390Z",
+      "last_updated": "2026-02-15T18:02:04.390Z"
     },
     {
       "product_id": "B07XRNVJC1",
@@ -2502,13 +2502,13 @@
           ]
         }
       },
-      "created_at": "2026-02-15T09:22:28.926Z",
-      "last_updated": "2026-02-15T09:22:28.926Z"
+      "created_at": "2026-02-15T18:02:04.390Z",
+      "last_updated": "2026-02-15T18:02:04.390Z"
     },
     {
       "product_id": "B004C0592I",
       "asin": "B004C0592I",
-      "product_title": "Reebok Court Advance Sneakers for Men",
+      "product_title": "Reebok Court Advance Sneakers for Men Shoes",
       "brand": "Reebok",
       "category": "Shoes",
       "subcategory": "Sneakers",
@@ -2553,7 +2553,7 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "@id": "https://www.shoesonwhite.com/#product-B004C0592I",
-        "name": "Reebok Court Advance Sneakers for Men",
+        "name": "Reebok Court Advance Sneakers for Men Shoes",
         "description": "Classic Reebok men's tennis-inspired casual sneakers",
         "url": "https://www.shoesonwhite.com/2026/02/reebok-court-advance-sneakers-for-men.html",
         "sku": "B004C0592I",
@@ -2677,14 +2677,14 @@
             {
               "@type": "ListItem",
               "position": 5,
-              "name": "Reebok Court Advance Sneakers for Men",
+              "name": "Reebok Court Advance Sneakers for Men Shoes",
               "item": "https://www.shoesonwhite.com/2026/02/reebok-court-advance-sneakers-for-men.html"
             }
           ]
         }
       },
-      "created_at": "2026-02-15T09:22:28.926Z",
-      "last_updated": "2026-02-15T09:22:28.926Z"
+      "created_at": "2026-02-15T18:02:04.390Z",
+      "last_updated": "2026-02-15T18:02:04.390Z"
     },
     {
       "product_id": "B0BXTWMYWM",
@@ -2862,8 +2862,8 @@
           ]
         }
       },
-      "created_at": "2026-02-15T09:22:28.927Z",
-      "last_updated": "2026-02-15T09:22:28.927Z"
+      "created_at": "2026-02-15T18:02:04.390Z",
+      "last_updated": "2026-02-15T18:02:04.390Z"
     },
     {
       "product_id": "B0CNYJ28VG",
@@ -3043,8 +3043,8 @@
           ]
         }
       },
-      "created_at": "2026-02-15T09:22:28.927Z",
-      "last_updated": "2026-02-15T09:22:28.927Z"
+      "created_at": "2026-02-15T18:02:04.391Z",
+      "last_updated": "2026-02-15T18:02:04.391Z"
     },
     {
       "product_id": "B07HJLRXBT",
@@ -3224,8 +3224,8 @@
           ]
         }
       },
-      "created_at": "2026-02-15T09:22:28.927Z",
-      "last_updated": "2026-02-15T09:22:28.927Z"
+      "created_at": "2026-02-15T18:02:04.391Z",
+      "last_updated": "2026-02-15T18:02:04.391Z"
     },
     {
       "product_id": "B0BYZHQXHJ",
@@ -3400,8 +3400,8 @@
           ]
         }
       },
-      "created_at": "2026-02-15T09:22:28.927Z",
-      "last_updated": "2026-02-15T09:22:28.927Z"
+      "created_at": "2026-02-15T18:02:04.391Z",
+      "last_updated": "2026-02-15T18:02:04.391Z"
     },
     {
       "product_id": "B0F9MZ4KY6",
@@ -3574,8 +3574,8 @@
           ]
         }
       },
-      "created_at": "2026-02-15T09:22:28.927Z",
-      "last_updated": "2026-02-15T09:22:28.927Z"
+      "created_at": "2026-02-15T18:02:04.391Z",
+      "last_updated": "2026-02-15T18:02:04.391Z"
     },
     {
       "product_id": "B08C2DZ18Q",
@@ -3753,8 +3753,8 @@
           ]
         }
       },
-      "created_at": "2026-02-15T09:22:28.927Z",
-      "last_updated": "2026-02-15T09:22:28.927Z"
+      "created_at": "2026-02-15T18:02:04.391Z",
+      "last_updated": "2026-02-15T18:02:04.391Z"
     },
     {
       "product_id": "B0DCBT6146",
@@ -3929,8 +3929,8 @@
           ]
         }
       },
-      "created_at": "2026-02-15T09:22:28.927Z",
-      "last_updated": "2026-02-15T09:22:28.927Z"
+      "created_at": "2026-02-15T18:02:04.391Z",
+      "last_updated": "2026-02-15T18:02:04.391Z"
     },
     {
       "product_id": "B0BWTDFGBF",
@@ -4100,13 +4100,13 @@
           ]
         }
       },
-      "created_at": "2026-02-15T09:22:28.927Z",
-      "last_updated": "2026-02-15T09:22:28.927Z"
+      "created_at": "2026-02-15T18:02:04.391Z",
+      "last_updated": "2026-02-15T18:02:04.391Z"
     },
     {
       "product_id": "B0DG7W333S",
       "asin": "B0DG7W333S",
-      "product_title": "New Balance Women's Fresh Foam Roav V1 Sneaker",
+      "product_title": "New Balance Women's Fresh Foam Roav V1 Sneaker Shoes",
       "brand": "New Balance",
       "category": "Shoes",
       "subcategory": "Sneakers",
@@ -4133,8 +4133,8 @@
       "short_description": "Ultra Heel design hugs the back of the foot for a snug, supportive fit",
       "about_this_item": "Ultra Heel design, Synthetic/mesh upper, Full-length rubber outsole, Bootie upper construction",
       "primary_keyword": "Fresh Foam Roav V1 Sneaker",
-      "slug": "new-balance-womens-fresh-foam-roav-v1",
-      "url": "https://www.shoesonwhite.com/2026/02/new-balance-womens-fresh-foam-roav-v1.html",
+      "slug": "new-balance-womens-fresh-foam-roav-v1-sneaker",
+      "url": "https://www.shoesonwhite.com/2026/02/new-balance-womens-fresh-foam-roav-v1-sneaker.html",
       "gender_url": "https://www.shoesonwhite.com/p/women.html",
       "brand_url": "https://www.shoesonwhite.com/p/new-balance.html",
       "subcategory_url": "https://www.shoesonwhite.com/p/sneakers.html",
@@ -4151,9 +4151,9 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "@id": "https://www.shoesonwhite.com/#product-B0DG7W333S",
-        "name": "New Balance Women's Fresh Foam Roav V1 Sneaker",
+        "name": "New Balance Women's Fresh Foam Roav V1 Sneaker Shoes",
         "description": "Ultra Heel design hugs the back of the foot for a snug, supportive fit",
-        "url": "https://www.shoesonwhite.com/2026/02/new-balance-womens-fresh-foam-roav-v1.html",
+        "url": "https://www.shoesonwhite.com/2026/02/new-balance-womens-fresh-foam-roav-v1-sneaker.html",
         "sku": "B0DG7W333S",
         "mpn": "B0DG7W333S",
         "brand": {
@@ -4163,7 +4163,7 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/new-balance-womens-fresh-foam-roav-v1.html",
+          "url": "https://www.shoesonwhite.com/2026/02/new-balance-womens-fresh-foam-roav-v1-sneaker.html",
           "priceCurrency": "USD",
           "price": 80.36,
           "priceValidUntil": "2027-02-15",
@@ -4270,14 +4270,14 @@
             {
               "@type": "ListItem",
               "position": 5,
-              "name": "New Balance Women's Fresh Foam Roav V1 Sneaker",
-              "item": "https://www.shoesonwhite.com/2026/02/new-balance-womens-fresh-foam-roav-v1.html"
+              "name": "New Balance Women's Fresh Foam Roav V1 Sneaker Shoes",
+              "item": "https://www.shoesonwhite.com/2026/02/new-balance-womens-fresh-foam-roav-v1-sneaker.html"
             }
           ]
         }
       },
-      "created_at": "2026-02-15T09:22:28.927Z",
-      "last_updated": "2026-02-15T09:22:28.927Z"
+      "created_at": "2026-02-15T18:02:04.391Z",
+      "last_updated": "2026-02-15T18:02:04.391Z"
     },
     {
       "product_id": "B0BJ7W5WFV",
@@ -4457,8 +4457,8 @@
           ]
         }
       },
-      "created_at": "2026-02-15T09:22:28.927Z",
-      "last_updated": "2026-02-15T09:22:28.927Z"
+      "created_at": "2026-02-15T18:02:04.391Z",
+      "last_updated": "2026-02-15T18:02:04.391Z"
     },
     {
       "product_id": "B0G7GVNSJ6",
@@ -4638,8 +4638,8 @@
           ]
         }
       },
-      "created_at": "2026-02-15T09:22:28.927Z",
-      "last_updated": "2026-02-15T09:22:28.927Z"
+      "created_at": "2026-02-15T18:02:04.391Z",
+      "last_updated": "2026-02-15T18:02:04.391Z"
     },
     {
       "product_id": "B093XKL7WZ",
@@ -4817,8 +4817,8 @@
           ]
         }
       },
-      "created_at": "2026-02-15T09:22:28.927Z",
-      "last_updated": "2026-02-15T09:22:28.927Z"
+      "created_at": "2026-02-15T18:02:04.391Z",
+      "last_updated": "2026-02-15T18:02:04.391Z"
     },
     {
       "product_id": "B0DKTJSJVB",
@@ -5000,8 +5000,8 @@
           ]
         }
       },
-      "created_at": "2026-02-15T09:22:28.927Z",
-      "last_updated": "2026-02-15T09:22:28.927Z"
+      "created_at": "2026-02-15T18:02:04.391Z",
+      "last_updated": "2026-02-15T18:02:04.391Z"
     },
     {
       "product_id": "B0D8L25VM2",
@@ -5178,8 +5178,8 @@
           ]
         }
       },
-      "created_at": "2026-02-15T09:22:28.927Z",
-      "last_updated": "2026-02-15T09:22:28.927Z"
+      "created_at": "2026-02-15T18:02:04.391Z",
+      "last_updated": "2026-02-15T18:02:04.391Z"
     },
     {
       "product_id": "B0DB22DYWJ",
@@ -5359,8 +5359,8 @@
           ]
         }
       },
-      "created_at": "2026-02-15T09:22:28.927Z",
-      "last_updated": "2026-02-15T09:22:28.927Z"
+      "created_at": "2026-02-15T18:02:04.391Z",
+      "last_updated": "2026-02-15T18:02:04.391Z"
     },
     {
       "product_id": "B0922CS587",
@@ -5535,8 +5535,8 @@
           ]
         }
       },
-      "created_at": "2026-02-15T09:22:28.927Z",
-      "last_updated": "2026-02-15T09:22:28.927Z"
+      "created_at": "2026-02-15T18:02:04.391Z",
+      "last_updated": "2026-02-15T18:02:04.391Z"
     },
     {
       "product_id": "B004P7VMC3",
@@ -5712,8 +5712,8 @@
           ]
         }
       },
-      "created_at": "2026-02-15T09:22:28.927Z",
-      "last_updated": "2026-02-15T09:22:28.927Z"
+      "created_at": "2026-02-15T18:02:04.392Z",
+      "last_updated": "2026-02-15T18:02:04.392Z"
     },
     {
       "product_id": "B0D6KDH9CS",
@@ -5888,8 +5888,8 @@
           ]
         }
       },
-      "created_at": "2026-02-15T09:22:28.927Z",
-      "last_updated": "2026-02-15T09:22:28.927Z"
+      "created_at": "2026-02-15T18:02:04.392Z",
+      "last_updated": "2026-02-15T18:02:04.392Z"
     },
     {
       "product_id": "B0FBLYMLPC",
@@ -6064,8 +6064,8 @@
           ]
         }
       },
-      "created_at": "2026-02-15T09:22:28.928Z",
-      "last_updated": "2026-02-15T09:22:28.928Z"
+      "created_at": "2026-02-15T18:02:04.392Z",
+      "last_updated": "2026-02-15T18:02:04.392Z"
     },
     {
       "product_id": "B086PH6G4X",
@@ -6239,8 +6239,8 @@
           ]
         }
       },
-      "created_at": "2026-02-15T09:22:28.928Z",
-      "last_updated": "2026-02-15T09:22:28.928Z"
+      "created_at": "2026-02-15T18:02:04.392Z",
+      "last_updated": "2026-02-15T18:02:04.392Z"
     },
     {
       "product_id": "B000OLVQ6M",
@@ -6415,8 +6415,8 @@
           ]
         }
       },
-      "created_at": "2026-02-15T09:22:28.928Z",
-      "last_updated": "2026-02-15T09:22:28.928Z"
+      "created_at": "2026-02-15T18:02:04.392Z",
+      "last_updated": "2026-02-15T18:02:04.392Z"
     },
     {
       "product_id": "B00D2V7YZ8",
@@ -6591,8 +6591,8 @@
           ]
         }
       },
-      "created_at": "2026-02-15T09:22:28.928Z",
-      "last_updated": "2026-02-15T09:22:28.928Z"
+      "created_at": "2026-02-15T18:02:04.392Z",
+      "last_updated": "2026-02-15T18:02:04.392Z"
     },
     {
       "product_id": "B0BH5MJPGS",
@@ -6769,8 +6769,8 @@
           ]
         }
       },
-      "created_at": "2026-02-15T09:22:28.928Z",
-      "last_updated": "2026-02-15T09:22:28.928Z"
+      "created_at": "2026-02-15T18:02:04.392Z",
+      "last_updated": "2026-02-15T18:02:04.392Z"
     },
     {
       "product_id": "B0CH9HQ8QZ",
@@ -6950,8 +6950,8 @@
           ]
         }
       },
-      "created_at": "2026-02-15T09:22:28.928Z",
-      "last_updated": "2026-02-15T09:22:28.928Z"
+      "created_at": "2026-02-15T18:02:04.392Z",
+      "last_updated": "2026-02-15T18:02:04.392Z"
     },
     {
       "product_id": "B0DBM6HSYS",
@@ -7133,13 +7133,13 @@
           ]
         }
       },
-      "created_at": "2026-02-15T09:22:28.928Z",
-      "last_updated": "2026-02-15T09:22:28.928Z"
+      "created_at": "2026-02-15T18:02:04.392Z",
+      "last_updated": "2026-02-15T18:02:04.392Z"
     },
     {
       "product_id": "B0CKMHWRW6",
       "asin": "B0CKMHWRW7",
-      "product_title": "adidas Women's Run Falcon 5 Running Shoes",
+      "product_title": "Adidas Women's Run Falcon 5 Shoes",
       "brand": "adidas",
       "category": "Shoes",
       "subcategory": "Athletic",
@@ -7166,8 +7166,8 @@
       "short_description": "Lightweight running shoe with Cloudfoam midsole for cushioned comfort.",
       "about_this_item": "Lightweight and versatile, the Runfalcon 5 Running Shoes feature a Cloudfoam midsole for cushioned comfort... SNUG FIT... CUSHIONED MIDSOLE...",
       "primary_keyword": "running shoes for women, lightweight sneakers",
-      "slug": "adidas-womens-run-falcon-5-running",
-      "url": "https://www.shoesonwhite.com/2026/02/adidas-womens-run-falcon-5-running.html",
+      "slug": "adidas-womens-run-falcon-5",
+      "url": "https://www.shoesonwhite.com/2026/02/adidas-womens-run-falcon-5.html",
       "gender_url": "https://www.shoesonwhite.com/p/women.html",
       "brand_url": "https://www.shoesonwhite.com/p/adidas.html",
       "subcategory_url": "https://www.shoesonwhite.com/p/athletic.html",
@@ -7184,9 +7184,9 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "@id": "https://www.shoesonwhite.com/#product-B0CKMHWRW6",
-        "name": "adidas Women's Run Falcon 5 Running Shoes",
+        "name": "Adidas Women's Run Falcon 5 Shoes",
         "description": "Lightweight running shoe with Cloudfoam midsole for cushioned comfort.",
-        "url": "https://www.shoesonwhite.com/2026/02/adidas-womens-run-falcon-5-running.html",
+        "url": "https://www.shoesonwhite.com/2026/02/adidas-womens-run-falcon-5.html",
         "sku": "B0CKMHWRW6",
         "mpn": "B0CKMHWRW7",
         "brand": {
@@ -7196,7 +7196,7 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://www.shoesonwhite.com/2026/02/adidas-womens-run-falcon-5-running.html",
+          "url": "https://www.shoesonwhite.com/2026/02/adidas-womens-run-falcon-5.html",
           "priceCurrency": "USD",
           "price": 45.21,
           "priceValidUntil": "2027-02-15",
@@ -7303,14 +7303,14 @@
             {
               "@type": "ListItem",
               "position": 5,
-              "name": "adidas Women's Run Falcon 5 Running Shoes",
-              "item": "https://www.shoesonwhite.com/2026/02/adidas-womens-run-falcon-5-running.html"
+              "name": "Adidas Women's Run Falcon 5 Shoes",
+              "item": "https://www.shoesonwhite.com/2026/02/adidas-womens-run-falcon-5.html"
             }
           ]
         }
       },
-      "created_at": "2026-02-15T09:22:28.928Z",
-      "last_updated": "2026-02-15T09:22:28.928Z"
+      "created_at": "2026-02-15T18:02:04.392Z",
+      "last_updated": "2026-02-15T18:02:04.392Z"
     },
     {
       "product_id": "B09KMY3ZLD",
@@ -7490,8 +7490,8 @@
           ]
         }
       },
-      "created_at": "2026-02-15T09:22:28.928Z",
-      "last_updated": "2026-02-15T09:22:28.928Z"
+      "created_at": "2026-02-15T18:02:04.392Z",
+      "last_updated": "2026-02-15T18:02:04.392Z"
     },
     {
       "product_id": "B09Y2VHQ90",
@@ -7671,13 +7671,13 @@
           ]
         }
       },
-      "created_at": "2026-02-15T09:22:28.928Z",
-      "last_updated": "2026-02-15T09:22:28.928Z"
+      "created_at": "2026-02-15T18:02:04.392Z",
+      "last_updated": "2026-02-15T18:02:04.392Z"
     },
     {
       "product_id": "B08S8VR3L2",
       "asin": "B08S8VR3L3",
-      "product_title": "adidas Men's Advantage Sneaker",
+      "product_title": "Adidas Men's Advantage Sneaker",
       "brand": "adidas",
       "category": "Shoes",
       "subcategory": "Athletic",
@@ -7723,7 +7723,7 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "@id": "https://www.shoesonwhite.com/#product-B08S8VR3L2",
-        "name": "adidas Men's Advantage Sneaker",
+        "name": "Adidas Men's Advantage Sneaker",
         "description": "Men's lightweight tennis shoes for training or matches",
         "url": "https://www.shoesonwhite.com/2026/02/adidas-mens-advantage.html",
         "sku": "B08S8VR3L2",
@@ -7848,14 +7848,14 @@
             {
               "@type": "ListItem",
               "position": 5,
-              "name": "adidas Men's Advantage Sneaker",
+              "name": "Adidas Men's Advantage Sneaker",
               "item": "https://www.shoesonwhite.com/2026/02/adidas-mens-advantage.html"
             }
           ]
         }
       },
-      "created_at": "2026-02-15T09:22:28.928Z",
-      "last_updated": "2026-02-15T09:22:28.928Z"
+      "created_at": "2026-02-15T18:02:04.393Z",
+      "last_updated": "2026-02-15T18:02:04.393Z"
     }
   ]
 }
