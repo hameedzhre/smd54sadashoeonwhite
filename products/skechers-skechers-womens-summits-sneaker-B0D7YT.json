@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "product_id": "B0D7YTJBMF",
+    "slug": "skechers-skechers-womens-summits-sneaker-B0D7YT",
+    "generated_at": "2026-02-15T04:34:00.317Z",
+    "source": "google_sheets",
+    "version": "1.0",
+    "urls": {
+      "product": "https://www.shoesonwhite.com/sneakers+womens-summits-sneaker",
+      "gender": "https://www.shoesonwhite.com/p/women",
+      "brand": "https://www.shoesonwhite.com/p/skechers",
+      "subcategory": "https://www.shoesonwhite.com/p/sneakers"
+    }
+  },
+  "product": {
+    "product_id": "B0D7YTJBMF",
+    "asin": "B0D7YTJBMF",
+    "product_title": "Skechers Women's Summits Sneaker",
+    "brand": "Skechers",
+    "category": "Shoes",
+    "subcategory": "Sneakers",
+    "color": "White Shoes",
+    "gender": "Women",
+    "weight_lbs": "N/A",
+    "upper_material": "Mesh Knit ",
+    "sole_material": "Rubber",
+    "outer_material": "Canvas",
+    "lining": "N/A",
+    "closure_type": "Bungee Lacing (Slip-On)",
+    "cushioning": "Memory Foam insole, Lightweight shock-absorbing midsole",
+    "breathability": "Athletic Mesh",
+    "amazon_url": "https://amzn.to/3NYVVxQ",
+    "price_min": 40,
+    "price_max": 70,
+    "currency": "USD",
+    "rating": 4.5,
+    "review_count": 72051,
+    "comfort_score": 82,
+    "durability_score": 81,
+    "breathability_score": 78,
+    "overall_score": 80.33333333333333,
+    "short_description": "Slip-on athletic sneaker with memory foam and mesh upper. Machine washable.",
+    "about_this_item": "ATHLETIC COMFORT DESIGN: Soft mesh knit upper with bungee lacing system... PREMIUM CUSHIONING: Memory Foam cushioned insole... VERSATILE PERFORMANCE... EASY MAINTENANCE... RELIABLE TRACTION...",
+    "primary_keyword": "slip on sneakers for women, memory foam shoes",
+    "slug": "skechers-skechers-womens-summits-sneaker-B0D7YT",
+    "url": "https://www.shoesonwhite.com/sneakers+womens-summits-sneaker",
+    "gender_url": "https://www.shoesonwhite.com/p/women",
+    "brand_url": "https://www.shoesonwhite.com/p/skechers",
+    "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
+    "image_urls": [
+      "https://m.media-amazon.com/images/I/61SVqFHUMVL._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/61hO2pAJrDL._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/61lh7hRL3jL._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/71F6tIL-LAL._AC_SX500_.jpg",
+      "https://m.media-amazon.com/images/I/61WUYEGhXJL._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/61YV1Jgu0rL._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/51Nh8SnYZbL._AC_SY500_.jpg"
+    ],
+    "main_image": "https://m.media-amazon.com/images/I/61SVqFHUMVL._AC_SY500_.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://www.shoesonwhite.com/#product-B0D7YTJBMF",
+      "name": "Skechers Women's Summits Sneaker",
+      "description": "Slip-on athletic sneaker with memory foam and mesh upper. Machine washable.",
+      "url": "https://www.shoesonwhite.com/sneakers+womens-summits-sneaker",
+      "sku": "B0D7YTJBMF",
+      "mpn": "B0D7YTJBMF",
+      "brand": {
+        "@type": "Brand",
+        "name": "Skechers",
+        "url": "https://www.shoesonwhite.com/p/skechers"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.shoesonwhite.com/sneakers+womens-summits-sneaker",
+        "priceCurrency": "USD",
+        "price": 40,
+        "priceValidUntil": "2027-02-15",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "reviewCount": 72051,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Sneakers"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Color",
+          "value": "White Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Mesh Knit "
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Closure Type",
+          "value": "Bungee Lacing (Slip-On)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Comfort Score",
+          "value": "82"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Durability Score",
+          "value": "81"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Breathability Score",
+          "value": "78"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Overall Score",
+          "value": "80.33333333333333"
+        }
+      ],
+      "image": [
+        "https://m.media-amazon.com/images/I/61SVqFHUMVL._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/61hO2pAJrDL._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/61lh7hRL3jL._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/71F6tIL-LAL._AC_SX500_.jpg",
+        "https://m.media-amazon.com/images/I/61WUYEGhXJL._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/61YV1Jgu0rL._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/51Nh8SnYZbL._AC_SY500_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.shoesonwhite.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Women",
+            "item": "https://www.shoesonwhite.com/p/women"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Skechers",
+            "item": "https://www.shoesonwhite.com/p/skechers"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Sneakers",
+            "item": "https://www.shoesonwhite.com/p/sneakers"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Skechers Women's Summits Sneaker",
+            "item": "https://www.shoesonwhite.com/sneakers+womens-summits-sneaker"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-02-15T04:33:55.517Z",
+    "last_updated": "2026-02-15T04:33:55.517Z"
+  }
+}
