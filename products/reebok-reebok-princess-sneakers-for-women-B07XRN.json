@@ -2,11 +2,11 @@
   "metadata": {
     "product_id": "B07XRNVJC1",
     "slug": "reebok-reebok-princess-sneakers-for-women-B07XRN",
-    "generated_at": "2026-02-14T03:55:30.736Z",
+    "generated_at": "2026-02-15T04:27:12.227Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
-      "product": "https://www.shoesonwhite.com/2026/02/reebok-reebok-princess-sneakers-for-women-B07XRN.html",
+      "product": "https://www.shoesonwhite.com/sneakers+princess-sneakers-for",
       "gender": "https://www.shoesonwhite.com/p/women",
       "brand": "https://www.shoesonwhite.com/p/reebok",
       "subcategory": "https://www.shoesonwhite.com/p/sneakers"
@@ -43,7 +43,7 @@
     "about_this_item": "LIGHTWEIGHT & DURABLE synthetic leather upper; CLASSIC Reebok minimalist design; LOW-CUT ankle for mobility; REMOVABLE foam sockliner for cushioning; HIGH-ABRASION rubber outsole for durability.",
     "primary_keyword": "Reebok Princess women white sneakers",
     "slug": "reebok-reebok-princess-sneakers-for-women-B07XRN",
-    "url": "https://www.shoesonwhite.com/2026/02/reebok-reebok-princess-sneakers-for-women-B07XRN.html",
+    "url": "https://www.shoesonwhite.com/sneakers+princess-sneakers-for",
     "gender_url": "https://www.shoesonwhite.com/p/women",
     "brand_url": "https://www.shoesonwhite.com/p/reebok",
     "subcategory_url": "https://www.shoesonwhite.com/p/sneakers",
@@ -61,7 +61,7 @@
       "@id": "https://www.shoesonwhite.com/#product-B07XRNVJC1",
       "name": "Reebok Princess Sneakers for Women",
       "description": "Classic lightweight white sneakers for women designed for all-day comfort, walking, gym, and casual wear.",
-      "url": "https://www.shoesonwhite.com/2026/02/reebok-reebok-princess-sneakers-for-women-B07XRN.html",
+      "url": "https://www.shoesonwhite.com/sneakers+princess-sneakers-for",
       "sku": "B07XRNVJC1",
       "mpn": "B07XRNVJC2",
       "brand": {
@@ -71,10 +71,10 @@
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://www.shoesonwhite.com/2026/02/reebok-reebok-princess-sneakers-for-women-B07XRN.html",
+        "url": "https://www.shoesonwhite.com/sneakers+princess-sneakers-for",
         "priceCurrency": "USD",
         "price": 49.8,
-        "priceValidUntil": "2027-02-14",
+        "priceValidUntil": "2027-02-15",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -183,12 +183,12 @@
             "@type": "ListItem",
             "position": 5,
             "name": "Reebok Princess Sneakers for Women",
-            "item": "https://www.shoesonwhite.com/2026/02/reebok-reebok-princess-sneakers-for-women-B07XRN.html"
+            "item": "https://www.shoesonwhite.com/sneakers+princess-sneakers-for"
           }
         ]
       }
     },
-    "created_at": "2026-02-14T03:55:21.100Z",
-    "last_updated": "2026-02-14T03:55:21.100Z"
+    "created_at": "2026-02-15T04:27:03.593Z",
+    "last_updated": "2026-02-15T04:27:03.593Z"
   }
 }
