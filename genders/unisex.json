@@ -3,8 +3,8 @@
     "name": "Unisex",
     "slug": "unisex",
     "url": "https://www.shoesonwhite.com/p/unisex.html",
-    "generated_at": "2026-02-15T18:02:54.967Z",
-    "total_products": 2,
+    "generated_at": "2026-02-19T04:15:47.944Z",
+    "total_products": 10,
     "site_url": "https://www.shoesonwhite.com"
   },
   "gender": {
@@ -15,14 +15,84 @@
   },
   "products": [
     {
-      "product_id": "B000OLVQ6M",
-      "title": "Converse Unisex Adult Chuck Taylor All Star Low Top Sneaker",
-      "slug": "converse-unisex-adult-chuck-taylor-all-star-low-top",
-      "url": "https://www.shoesonwhite.com/2026/02/converse-unisex-adult-chuck-taylor-all-star-low-top.html",
-      "brand": "Converse",
-      "price_min": 59.99,
-      "image": "https://m.media-amazon.com/images/I/41+2Cz+9MFL._AC_SY741_.jpg",
-      "overall_score": 77
+      "product_id": "B0F8JF6VQW",
+      "title": "Skechers Girls Uno Gen1 - Shimmer Away Sneaker, White, 6.5 Big Kid",
+      "slug": "skechers-girls-uno-gen1-shimmer-away-sneaker-white-65-big-kid",
+      "url": "https://www.shoesonwhite.com/2026/02/skechers-girls-uno-gen1-shimmer-away-sneaker-white-65-big-kid.html",
+      "brand": "Skechers",
+      "price_min": 62,
+      "image": "https://m.media-amazon.com/images/I/71wez6Xh0BL._AC_UY575_.png",
+      "overall_score": 73
+    },
+    {
+      "product_id": "B0CP5KVDW6",
+      "title": "Walking Shoes Women Slip On Sock Sneakers Mesh Non Slip Shoes Air Cushion Platform Loafers, White, 8",
+      "slug": "walking-shoes-women-slip-on-sock-sneakers-mesh-non-slip-shoes-air-cushion",
+      "url": "https://www.shoesonwhite.com/2026/02/walking-shoes-women-slip-on-sock-sneakers-mesh-non-slip-shoes-air-cushion.html",
+      "brand": "Slow Man",
+      "price_min": 29.99,
+      "image": "https://m.media-amazon.com/images/I/61ejdFPPaML._AC_UY575_.png",
+      "overall_score": 78
+    },
+    {
+      "product_id": "B0CKMRBH96",
+      "title": "adidas Unisex Adult Samba Indoor Shoe, White/Black/Vivid Red, 6 Women/5 Men",
+      "slug": "adidas-unisex-adult-samba-indoor-shoe-whiteblackvivid-red-6-women5-men",
+      "url": "https://www.shoesonwhite.com/2026/02/adidas-unisex-adult-samba-indoor-shoe-whiteblackvivid-red-6-women5-men.html",
+      "brand": "Adidas",
+      "price_min": 90,
+      "image": "https://m.media-amazon.com/images/I/71jI8iSK-pL._AC_UY575_.png",
+      "overall_score": 76
+    },
+    {
+      "product_id": "B0C9DLBPFQ",
+      "title": "Yageyan Mens Slip on Sneakers Loafers Shoes Canvas Black Shoes Canvas Blue Casual Fashion Shoes, White, 11",
+      "slug": "yageyan-mens-slip-on-sneakers-loafers-shoes-canvas-black-shoes-canvas-blue",
+      "url": "https://www.shoesonwhite.com/2026/02/yageyan-mens-slip-on-sneakers-loafers-shoes-canvas-black-shoes-canvas-blue.html",
+      "brand": "Yageyan",
+      "price_min": 22.09,
+      "image": "https://m.media-amazon.com/images/I/71PT55lC8gL._AC_UY575_.png",
+      "overall_score": 70
+    },
+    {
+      "product_id": "B0C2JGXSKJ",
+      "title": "Reebok Unisex-Adult Zig Dynamica Str",
+      "slug": "reebok-unisex-adult-zig-dynamica-str",
+      "url": "https://www.shoesonwhite.com/2026/02/reebok-unisex-adult-zig-dynamica-str.html",
+      "brand": "Reebok",
+      "price_min": 49.99,
+      "image": "https://m.media-amazon.com/images/I/51tPJ38XrML._AC_SY625_.jpg",
+      "overall_score": 78.66666666666667
+    },
+    {
+      "product_id": "B0BGC3XHR3",
+      "title": "Reebok Unisex-Adult Sneaker",
+      "slug": "reebok-unisex-adult",
+      "url": "https://www.shoesonwhite.com/2026/02/reebok-unisex-adult.html",
+      "brand": "Reebok",
+      "price_min": 38.08,
+      "image": "https://m.media-amazon.com/images/I/61oKLgV0SEL._AC_SY625_.jpg",
+      "overall_score": 76.66666666666667
+    },
+    {
+      "product_id": "B07ZQWLXTL",
+      "title": "Skechers Go Run Consistent - 220102, Women's Fashion Sneakers, White/Silver, 8.5",
+      "slug": "skechers-go-run-consistent-220102-womens-fashion-sneakers-whitesilver-85",
+      "url": "https://www.shoesonwhite.com/2026/02/skechers-go-run-consistent-220102-womens-fashion-sneakers-whitesilver-85.html",
+      "brand": "Skechers",
+      "price_min": 40,
+      "image": "https://m.media-amazon.com/images/I/61xHpZrxEeL._AC_UY575_.png",
+      "overall_score": 76.66666666666667
+    },
+    {
+      "product_id": "B07JPYSNDP",
+      "title": "VIFUUR Water Sports Shoes Barefoot Quick-Dry Aqua Yoga Socks Slip-on for Men Women, White, 9-10 Women/7.5-8.5 Men",
+      "slug": "vifuur-water-sports-shoes-barefoot-quick-dry-aqua-yoga-socks-slip-on-for-men-wom",
+      "url": "https://www.shoesonwhite.com/2026/02/vifuur-water-sports-shoes-barefoot-quick-dry-aqua-yoga-socks-slip-on-for-men-wom.html",
+      "brand": "VIFUUR",
+      "price_min": 9.99,
+      "image": "https://m.media-amazon.com/images/I/71aO75Tv+2L._AC_UY575_.png",
+      "overall_score": 80
     },
     {
       "product_id": "B00D2V7YZ8",
@@ -32,7 +102,17 @@
       "brand": "Converse",
       "price_min": 31.81,
       "image": "https://m.media-amazon.com/images/I/61zi2SuCRpL._AC_SX679_.jpg",
-      "overall_score": 73
+      "overall_score": 75
+    },
+    {
+      "product_id": "B000OLVQ6M",
+      "title": "Converse Unisex Adult Chuck Taylor All Star Low Top Sneaker",
+      "slug": "converse-unisex-adult-chuck-taylor-all-star-low-top",
+      "url": "https://www.shoesonwhite.com/2026/02/converse-unisex-adult-chuck-taylor-all-star-low-top.html",
+      "brand": "Converse",
+      "price_min": 59.99,
+      "image": "https://m.media-amazon.com/images/I/41+2Cz+9MFL._AC_SY741_.jpg",
+      "overall_score": 75
     }
   ]
 }
