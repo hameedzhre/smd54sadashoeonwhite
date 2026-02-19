@@ -2,7 +2,7 @@
   "metadata": {
     "product_id": "B0C9DLBPFQ",
     "slug": "yageyan-mens-slip-on-sneakers-loafers-shoes-canvas-black-shoes-canvas-blue",
-    "generated_at": "2026-02-19T04:15:09.727Z",
+    "generated_at": "2026-02-19T09:57:57.453Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
@@ -47,7 +47,6 @@
     "brand_url": "https://www.shoesonwhite.com/p/yageyan.html",
     "subcategory_url": "https://www.shoesonwhite.com/p/sneakers.html",
     "image_urls": [
-      "https://m.media-amazon.com/images/I/71PT55lC8gL._AC_UY575_.png",
       "https://m.media-amazon.com/images/I/61BgbQdsLML._AC_SY695_.jpg",
       "https://m.media-amazon.com/images/I/81pu-aHng8L._AC_SY695_.jpg",
       "https://m.media-amazon.com/images/I/71drHmB0z2L._AC_SY695_.jpg",
@@ -55,7 +54,7 @@
       "https://m.media-amazon.com/images/I/61wHydgvDOL._AC_SY695_.jpg",
       "https://m.media-amazon.com/images/I/61Mvc5vu-SL._AC_SY695_.jpg"
     ],
-    "main_image": "https://m.media-amazon.com/images/I/71PT55lC8gL._AC_UY575_.png",
+    "main_image": "https://m.media-amazon.com/images/I/61BgbQdsLML._AC_SY695_.jpg",
     "schema": {
       "@context": "https://schema.org",
       "@type": "Product",
@@ -142,7 +141,6 @@
         }
       ],
       "image": [
-        "https://m.media-amazon.com/images/I/71PT55lC8gL._AC_UY575_.png",
         "https://m.media-amazon.com/images/I/61BgbQdsLML._AC_SY695_.jpg",
         "https://m.media-amazon.com/images/I/81pu-aHng8L._AC_SY695_.jpg",
         "https://m.media-amazon.com/images/I/71drHmB0z2L._AC_SY695_.jpg",
@@ -186,7 +184,7 @@
         ]
       }
     },
-    "created_at": "2026-02-19T04:12:20.296Z",
-    "last_updated": "2026-02-19T04:12:20.296Z"
+    "created_at": "2026-02-19T09:57:28.935Z",
+    "last_updated": "2026-02-19T09:57:28.935Z"
   }
 }
