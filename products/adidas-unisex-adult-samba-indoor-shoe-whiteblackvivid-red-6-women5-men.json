@@ -1,0 +1,194 @@
+{
+  "metadata": {
+    "product_id": "B0CKMRBH96",
+    "slug": "adidas-unisex-adult-samba-indoor-shoe-whiteblackvivid-red-6-women5-men",
+    "generated_at": "2026-02-19T04:13:03.649Z",
+    "source": "google_sheets",
+    "version": "1.0",
+    "urls": {
+      "product": "https://www.shoesonwhite.com/2026/02/adidas-unisex-adult-samba-indoor-shoe-whiteblackvivid-red-6-women5-men.html",
+      "gender": "https://www.shoesonwhite.com/p/unisex.html",
+      "brand": "https://www.shoesonwhite.com/p/adidas.html",
+      "subcategory": "https://www.shoesonwhite.com/p/athletic.html"
+    }
+  },
+  "product": {
+    "product_id": "B0CKMRBH96",
+    "asin": "B0CKMRBH97",
+    "product_title": "adidas Unisex Adult Samba Indoor Shoe, White/Black/Vivid Red, 6 Women/5 Men",
+    "brand": "Adidas",
+    "category": "Shoes",
+    "subcategory": "Athletic",
+    "color": "White",
+    "gender": "Unisex",
+    "weight_lbs": 1.95,
+    "upper_material": "Leather",
+    "sole_material": "Rubber",
+    "outer_material": "Rubber",
+    "lining": "Synthetic",
+    "closure_type": "Lace-Up",
+    "cushioning": "Lightweight EVA insole for basic cushioning and comfort.",
+    "breathability": "Medium, due to the leather upper which is typically less breathable than mesh.",
+    "amazon_url": "https://amzn.to/46fyFlu",
+    "price_min": 90,
+    "price_max": 90,
+    "currency": "USD",
+    "rating": 4.5,
+    "review_count": 3368,
+    "comfort_score": 78,
+    "durability_score": 90,
+    "breathability_score": 60,
+    "overall_score": 76,
+    "short_description": "Step into a piece of football history with the iconic adidas Unisex Adult Samba Indoor Shoe. First introduced in 1950, the Samba has transcended its origins as a premier indoor soccer shoe to become a timeless streetwear staple. This classic version features the legendary silhouette in a clean and versatile White/Black/Vivid Red colorway. The upper is crafted from soft, premium leather, providing durability and a sleek, sophisticated look that only gets better with age. The signature gum rubber outsole ensures exceptional grip and traction on indoor surfaces, staying true to its performance roots. Finished with the iconic 3-Stripes and a gold foil Samba logo, this shoe is a testament to authentic adidas heritage. Available in a unisex sizing (6 Women / 5 Men), it's a versatile addition to any wardrobe, perfect for those who appreciate timeless design, quality craftsmanship, and a shoe that tells a story. Whether on the street or at a game, the adidas Samba is a true icon.",
+    "about_this_item": "Performance soccer shoes for playing on indoor surfaces. SOCCER SIZING: Unisex product is men's sizing. Women should size down 1 to 1.5 sizes. LEATHER UPPER: Leather upper with suede overlays for comfort and soft feel. SYNTHETIC LINING: Synthetic lining provides a soft, comfortable feel. INDOOR SOCCER OUTSOLE: The grippy rubber outsole is specially designed for flat indoor surfaces.",
+    "primary_keyword": "white shoes for nurses",
+    "slug": "adidas-unisex-adult-samba-indoor-shoe-whiteblackvivid-red-6-women5-men",
+    "url": "https://www.shoesonwhite.com/2026/02/adidas-unisex-adult-samba-indoor-shoe-whiteblackvivid-red-6-women5-men.html",
+    "gender_url": "https://www.shoesonwhite.com/p/unisex.html",
+    "brand_url": "https://www.shoesonwhite.com/p/adidas.html",
+    "subcategory_url": "https://www.shoesonwhite.com/p/athletic.html",
+    "image_urls": [
+      "https://m.media-amazon.com/images/I/71jI8iSK-pL._AC_UY575_.png",
+      "https://m.media-amazon.com/images/I/51kgW-3LB8L._AC_SX695_.jpg",
+      "https://m.media-amazon.com/images/I/51wWpT0YL8L._AC_SX695_.jpg",
+      "https://m.media-amazon.com/images/I/51TQMCezGrL._AC_SX695_.jpg",
+      "https://m.media-amazon.com/images/I/51PLiFXkrcL._AC_SY695_.jpg"
+    ],
+    "main_image": "https://m.media-amazon.com/images/I/71jI8iSK-pL._AC_UY575_.png",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://www.shoesonwhite.com/#product-B0CKMRBH96",
+      "name": "adidas Unisex Adult Samba Indoor Shoe, White/Black/Vivid Red, 6 Women/5 Men",
+      "description": "Step into a piece of football history with the iconic adidas Unisex Adult Samba Indoor Shoe. First introduced in 1950, the Samba has transcended its origins as a premier indoor soccer shoe to become a timeless streetwear staple. This classic version features the legendary silhouette in a clean and versatile White/Black/Vivid Red colorway. The upper is crafted from soft, premium leather, providing durability and a sleek, sophisticated look that only gets better with age. The signature gum rubber outsole ensures exceptional grip and traction on indoor surfaces, staying true to its performance roots. Finished with the iconic 3-Stripes and a gold foil Samba logo, this shoe is a testament to authentic adidas heritage. Available in a unisex sizing (6 Women / 5 Men), it's a versatile addition to any wardrobe, perfect for those who appreciate timeless design, quality craftsmanship, and a shoe that tells a story. Whether on the street or at a game, the adidas Samba is a true icon.",
+      "url": "https://www.shoesonwhite.com/2026/02/adidas-unisex-adult-samba-indoor-shoe-whiteblackvivid-red-6-women5-men.html",
+      "sku": "B0CKMRBH96",
+      "mpn": "B0CKMRBH97",
+      "brand": {
+        "@type": "Brand",
+        "name": "Adidas",
+        "url": "https://www.shoesonwhite.com/p/adidas.html"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.shoesonwhite.com/2026/02/adidas-unisex-adult-samba-indoor-shoe-whiteblackvivid-red-6-women5-men.html",
+        "priceCurrency": "USD",
+        "price": 90,
+        "priceValidUntil": "2027-02-19",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "reviewCount": 3368,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Athletic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Unisex"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Color",
+          "value": "White"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Leather"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Closure Type",
+          "value": "Lace-Up"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Weight",
+          "value": "1.95"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Comfort Score",
+          "value": "78"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Durability Score",
+          "value": "90"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Breathability Score",
+          "value": "60"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Overall Score",
+          "value": "76"
+        }
+      ],
+      "image": [
+        "https://m.media-amazon.com/images/I/71jI8iSK-pL._AC_UY575_.png",
+        "https://m.media-amazon.com/images/I/51kgW-3LB8L._AC_SX695_.jpg",
+        "https://m.media-amazon.com/images/I/51wWpT0YL8L._AC_SX695_.jpg",
+        "https://m.media-amazon.com/images/I/51TQMCezGrL._AC_SX695_.jpg",
+        "https://m.media-amazon.com/images/I/51PLiFXkrcL._AC_SY695_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.shoesonwhite.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Unisex",
+            "item": "https://www.shoesonwhite.com/p/unisex.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Adidas",
+            "item": "https://www.shoesonwhite.com/p/adidas.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Athletic",
+            "item": "https://www.shoesonwhite.com/p/athletic.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "adidas Unisex Adult Samba Indoor Shoe, White/Black/Vivid Red, 6 Women/5 Men",
+            "item": "https://www.shoesonwhite.com/2026/02/adidas-unisex-adult-samba-indoor-shoe-whiteblackvivid-red-6-women5-men.html"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-02-19T04:12:20.296Z",
+    "last_updated": "2026-02-19T04:12:20.296Z"
+  }
+}
