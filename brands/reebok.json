@@ -3,8 +3,8 @@
     "name": "Reebok",
     "slug": "reebok",
     "url": "https://www.shoesonwhite.com/p/reebok.html",
-    "generated_at": "2026-02-15T18:03:03.654Z",
-    "total_products": 2,
+    "generated_at": "2026-02-19T04:16:03.519Z",
+    "total_products": 4,
     "site_url": "https://www.shoesonwhite.com"
   },
   "brand": {
@@ -14,6 +14,28 @@
   },
   "products": [
     {
+      "product_id": "B0C2JGXSKJ",
+      "title": "Reebok Unisex-Adult Zig Dynamica Str",
+      "slug": "reebok-unisex-adult-zig-dynamica-str",
+      "url": "https://www.shoesonwhite.com/2026/02/reebok-unisex-adult-zig-dynamica-str.html",
+      "gender": "Unisex",
+      "subcategory": "Athletic",
+      "price_min": 49.99,
+      "image": "https://m.media-amazon.com/images/I/51tPJ38XrML._AC_SY625_.jpg",
+      "overall_score": 78.66666666666667
+    },
+    {
+      "product_id": "B0BGC3XHR3",
+      "title": "Reebok Unisex-Adult Sneaker",
+      "slug": "reebok-unisex-adult",
+      "url": "https://www.shoesonwhite.com/2026/02/reebok-unisex-adult.html",
+      "gender": "Unisex",
+      "subcategory": "Sneakers",
+      "price_min": 38.08,
+      "image": "https://m.media-amazon.com/images/I/61oKLgV0SEL._AC_SY625_.jpg",
+      "overall_score": 76.66666666666667
+    },
+    {
       "product_id": "B07XRNVJC1",
       "title": "Reebok Princess Sneakers for Women",
       "slug": "reebok-princess-sneakers-for",
@@ -22,7 +44,7 @@
       "subcategory": "Sneakers",
       "price_min": 49.8,
       "image": "https://m.media-amazon.com/images/I/617uxkYXyWL._AC_SY500_.jpg",
-      "overall_score": 76
+      "overall_score": 79
     },
     {
       "product_id": "B004C0592I",
@@ -33,7 +55,7 @@
       "subcategory": "Sneakers",
       "price_min": 49.99,
       "image": "https://m.media-amazon.com/images/I/61UkNHUu8jL._AC_SY500_.jpg",
-      "overall_score": 75.33333333333333
+      "overall_score": 78
     }
   ]
 }
