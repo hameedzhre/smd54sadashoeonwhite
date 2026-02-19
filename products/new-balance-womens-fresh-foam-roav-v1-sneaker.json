@@ -2,7 +2,7 @@
   "metadata": {
     "product_id": "B0DG7W333S",
     "slug": "new-balance-womens-fresh-foam-roav-v1-sneaker",
-    "generated_at": "2026-02-15T18:02:32.223Z",
+    "generated_at": "2026-02-19T04:12:45.425Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
@@ -19,27 +19,26 @@
     "brand": "New Balance",
     "category": "Shoes",
     "subcategory": "Sneakers",
-    "color": "White Shoes",
+    "color": "White",
     "gender": "Women",
-    "weight_lbs": "N/A",
     "upper_material": "Synthetic/mesh",
     "sole_material": "Rubber",
     "outer_material": "Mesh",
     "lining": "N/A",
     "closure_type": "Lace-up",
-    "cushioning": "Fresh Foam midsole cushioning",
-    "breathability": "Breathable",
+    "cushioning": "Precision-engineered Fresh Foam midsole delivers a plush, cloud-like, and highly responsive ride.",
+    "breathability": "Breathable mesh upper with no-sew overlays allows for good airflow.",
     "amazon_url": "https://amzn.to/4agDfkB",
     "price_min": 80.36,
     "price_max": 89.99,
     "currency": "USD",
     "rating": 4.4,
     "review_count": 23725,
-    "comfort_score": 91,
-    "durability_score": 88,
-    "breathability_score": 84,
-    "overall_score": 87.66666666666667,
-    "short_description": "Ultra Heel design hugs the back of the foot for a snug, supportive fit",
+    "comfort_score": 94,
+    "durability_score": 82,
+    "breathability_score": 75,
+    "overall_score": 83.66666666666667,
+    "short_description": "Experience the ultimate in plush comfort and modern style with the New Balance Women's Fresh Foam Roav V1 Sneaker Shoes. Designed for the woman who refuses to compromise on comfort, the Roav V1 features innovative Fresh Foam technology for a truly luxurious underfoot experience. The midsole is precision-engineered with New Balance's data-driven Fresh Foam, delivering a plush, cloud-like feel that provides exceptional cushioning and shock absorption with every step. The innovative Ultra Heel design features a contoured shape that hugs the back of your foot for a snug, supportive, and secure fit. The upper is crafted from a combination of breathable mesh and no-sew material applications for a sleek, modern look and a comfortable, flexible feel. A durable outsole with ground-contact EVA ensures reliable traction and adds to the shoe's lightweight profile. Whether you're on your feet all day or just running errands, the New Balance Fresh Foam Roav V1 delivers unbeatable, all-day comfort.",
     "about_this_item": "Ultra Heel design, Synthetic/mesh upper, Full-length rubber outsole, Bootie upper construction",
     "primary_keyword": "Fresh Foam Roav V1 Sneaker",
     "slug": "new-balance-womens-fresh-foam-roav-v1-sneaker",
@@ -61,7 +60,7 @@
       "@type": "Product",
       "@id": "https://www.shoesonwhite.com/#product-B0DG7W333S",
       "name": "New Balance Women's Fresh Foam Roav V1 Sneaker Shoes",
-      "description": "Ultra Heel design hugs the back of the foot for a snug, supportive fit",
+      "description": "Experience the ultimate in plush comfort and modern style with the New Balance Women's Fresh Foam Roav V1 Sneaker Shoes. Designed for the woman who refuses to compromise on comfort, the Roav V1 features innovative Fresh Foam technology for a truly luxurious underfoot experience. The midsole is precision-engineered with New Balance's data-driven Fresh Foam, delivering a plush, cloud-like feel that provides exceptional cushioning and shock absorption with every step. The innovative Ultra Heel design features a contoured shape that hugs the back of your foot for a snug, supportive, and secure fit. The upper is crafted from a combination of breathable mesh and no-sew material applications for a sleek, modern look and a comfortable, flexible feel. A durable outsole with ground-contact EVA ensures reliable traction and adds to the shoe's lightweight profile. Whether you're on your feet all day or just running errands, the New Balance Fresh Foam Roav V1 delivers unbeatable, all-day comfort.",
       "url": "https://www.shoesonwhite.com/2026/02/new-balance-womens-fresh-foam-roav-v1-sneaker.html",
       "sku": "B0DG7W333S",
       "mpn": "B0DG7W333S",
@@ -75,7 +74,7 @@
         "url": "https://www.shoesonwhite.com/2026/02/new-balance-womens-fresh-foam-roav-v1-sneaker.html",
         "priceCurrency": "USD",
         "price": 80.36,
-        "priceValidUntil": "2027-02-15",
+        "priceValidUntil": "2027-02-19",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -108,7 +107,7 @@
         {
           "@type": "PropertyValue",
           "name": "Color",
-          "value": "White Shoes"
+          "value": "White"
         },
         {
           "@type": "PropertyValue",
@@ -123,22 +122,22 @@
         {
           "@type": "PropertyValue",
           "name": "Comfort Score",
-          "value": "91"
+          "value": "94"
         },
         {
           "@type": "PropertyValue",
           "name": "Durability Score",
-          "value": "88"
+          "value": "82"
         },
         {
           "@type": "PropertyValue",
           "name": "Breathability Score",
-          "value": "84"
+          "value": "75"
         },
         {
           "@type": "PropertyValue",
           "name": "Overall Score",
-          "value": "87.66666666666667"
+          "value": "83.66666666666667"
         }
       ],
       "image": [
@@ -185,7 +184,7 @@
         ]
       }
     },
-    "created_at": "2026-02-15T18:02:04.391Z",
-    "last_updated": "2026-02-15T18:02:04.391Z"
+    "created_at": "2026-02-19T04:12:20.295Z",
+    "last_updated": "2026-02-19T04:12:20.295Z"
   }
 }
