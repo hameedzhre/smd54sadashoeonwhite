@@ -1,0 +1,192 @@
+{
+  "metadata": {
+    "product_id": "B0CSR8YXBP",
+    "slug": "on-mens-running-shoe",
+    "generated_at": "2026-02-19T04:12:59.695Z",
+    "source": "google_sheets",
+    "version": "1.0",
+    "urls": {
+      "product": "https://www.shoesonwhite.com/2026/02/on-mens-running-shoe.html",
+      "gender": "https://www.shoesonwhite.com/p/men.html",
+      "brand": "https://www.shoesonwhite.com/p/on-cloud.html",
+      "subcategory": "https://www.shoesonwhite.com/p/athletic.html"
+    }
+  },
+  "product": {
+    "product_id": "B0CSR8YXBP",
+    "asin": "B0CSR8YXBP",
+    "product_title": "ON mens Running Shoe",
+    "brand": "On Cloud",
+    "category": "Shoes",
+    "subcategory": "Athletic",
+    "color": "White",
+    "gender": "Men",
+    "upper_material": "Mesh",
+    "sole_material": "EVA",
+    "outer_material": "Mesh",
+    "lining": "Textile",
+    "closure_type": "Lace-up",
+    "cushioning": "Moderate cushioning for a balanced and comfortable run.",
+    "breathability": "Standard breathable mesh for everyday running.",
+    "amazon_url": "https://amzn.to/4rXijWU",
+    "price_min": 164,
+    "price_max": 189,
+    "currency": "USD",
+    "rating": 4.5,
+    "review_count": 432,
+    "comfort_score": 86,
+    "durability_score": 81,
+    "breathability_score": 83,
+    "overall_score": 83.33333333333333,
+    "short_description": "Experience the unique sensation of running on clouds with this ON mens Running Shoe. Designed for the everyday runner, this shoe incorporates ON's revolutionary technology to provide a soft, responsive, and lightweight ride that will transform your training. The hallmark of the shoe is the patented CloudTec? sole, featuring individual hollow pods that compress upon impact to deliver a cushioned, joint-friendly landing. As you transition to toe-off, these same pods lock together to form a firm, stable surface for a powerful and explosive push-off. This ingenious system ensures you get the best of both worlds: maximum comfort and efficient propulsion. The upper is constructed from a breathable, engineered mesh that keeps your feet cool and dry, while providing a secure, adaptive fit. Whether you're a seasoned marathoner or just starting your running journey, this ON running shoe offers the perfect balance of innovation, comfort, and Swiss-engineered quality to help you achieve your goals and feel great every step of the way.",
+    "about_this_item": "Sole Thickness: 0.8 inches (2 cm)",
+    "primary_keyword": "Men's Road Running Shoes",
+    "slug": "on-mens-running-shoe",
+    "url": "https://www.shoesonwhite.com/2026/02/on-mens-running-shoe.html",
+    "gender_url": "https://www.shoesonwhite.com/p/men.html",
+    "brand_url": "https://www.shoesonwhite.com/p/on-cloud.html",
+    "subcategory_url": "https://www.shoesonwhite.com/p/athletic.html",
+    "image_urls": [
+      "https://m.media-amazon.com/images/I/41Vx9o7QiUL._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/411cBIUX7QL._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/51gPMRZj-XL._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/41ZfIBwcT0L._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/4187HaMy-BL._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/51ZMljoYAjL._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/41UtmszfrQL._AC_SY500_.jpg"
+    ],
+    "main_image": "https://m.media-amazon.com/images/I/41Vx9o7QiUL._AC_SY500_.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://www.shoesonwhite.com/#product-B0CSR8YXBP",
+      "name": "ON mens Running Shoe",
+      "description": "Experience the unique sensation of running on clouds with this ON mens Running Shoe. Designed for the everyday runner, this shoe incorporates ON's revolutionary technology to provide a soft, responsive, and lightweight ride that will transform your training. The hallmark of the shoe is the patented CloudTec? sole, featuring individual hollow pods that compress upon impact to deliver a cushioned, joint-friendly landing. As you transition to toe-off, these same pods lock together to form a firm, stable surface for a powerful and explosive push-off. This ingenious system ensures you get the best of both worlds: maximum comfort and efficient propulsion. The upper is constructed from a breathable, engineered mesh that keeps your feet cool and dry, while providing a secure, adaptive fit. Whether you're a seasoned marathoner or just starting your running journey, this ON running shoe offers the perfect balance of innovation, comfort, and Swiss-engineered quality to help you achieve your goals and feel great every step of the way.",
+      "url": "https://www.shoesonwhite.com/2026/02/on-mens-running-shoe.html",
+      "sku": "B0CSR8YXBP",
+      "mpn": "B0CSR8YXBP",
+      "brand": {
+        "@type": "Brand",
+        "name": "On Cloud",
+        "url": "https://www.shoesonwhite.com/p/on-cloud.html"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.shoesonwhite.com/2026/02/on-mens-running-shoe.html",
+        "priceCurrency": "USD",
+        "price": 164,
+        "priceValidUntil": "2027-02-19",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "reviewCount": 432,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Athletic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Color",
+          "value": "White"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Mesh"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Closure Type",
+          "value": "Lace-up"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Comfort Score",
+          "value": "86"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Durability Score",
+          "value": "81"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Breathability Score",
+          "value": "83"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Overall Score",
+          "value": "83.33333333333333"
+        }
+      ],
+      "image": [
+        "https://m.media-amazon.com/images/I/41Vx9o7QiUL._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/411cBIUX7QL._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/51gPMRZj-XL._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/41ZfIBwcT0L._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/4187HaMy-BL._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/51ZMljoYAjL._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/41UtmszfrQL._AC_SY500_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.shoesonwhite.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Men",
+            "item": "https://www.shoesonwhite.com/p/men.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "On Cloud",
+            "item": "https://www.shoesonwhite.com/p/on-cloud.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Athletic",
+            "item": "https://www.shoesonwhite.com/p/athletic.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "ON mens Running Shoe",
+            "item": "https://www.shoesonwhite.com/2026/02/on-mens-running-shoe.html"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-02-19T04:12:20.296Z",
+    "last_updated": "2026-02-19T04:12:20.296Z"
+  }
+}
