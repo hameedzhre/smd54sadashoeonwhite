@@ -1,0 +1,188 @@
+{
+  "metadata": {
+    "product_id": "B0CHHQD5QP",
+    "slug": "on",
+    "generated_at": "2026-02-19T04:15:06.480Z",
+    "source": "google_sheets",
+    "version": "1.0",
+    "urls": {
+      "product": "https://www.shoesonwhite.com/2026/02/on.html",
+      "gender": "https://www.shoesonwhite.com/p/men.html",
+      "brand": "https://www.shoesonwhite.com/p/on-cloud.html",
+      "subcategory": "https://www.shoesonwhite.com/p/athletic.html"
+    }
+  },
+  "product": {
+    "product_id": "B0CHHQD5QP",
+    "asin": "B0CHHQD5QP",
+    "product_title": "ON Running",
+    "brand": "On Cloud",
+    "category": "Shoes",
+    "subcategory": "Athletic",
+    "color": "White",
+    "gender": "Men",
+    "upper_material": "Mesh",
+    "sole_material": "Rubber",
+    "outer_material": "Mesh",
+    "lining": "Foam",
+    "closure_type": "Lace-up",
+    "cushioning": "Standard cushioning typical of a running shoe, suitable for everyday training.",
+    "breathability": "Breathable mesh construction for general running use.",
+    "amazon_url": "https://amzn.to/4ro8RMh",
+    "price_min": 218.99,
+    "price_max": 240,
+    "currency": "USD",
+    "rating": 4.5,
+    "review_count": 4194,
+    "comfort_score": 85,
+    "durability_score": 80,
+    "breathability_score": 80,
+    "overall_score": 81.66666666666667,
+    "short_description": "Experience the sensation of running on clouds with ON Running shoes, the Swiss-engineered footwear that has revolutionized the industry. Founded with a revolutionary idea?to create the perfect running shoe?ON has quickly become a favorite among professional athletes and casual runners alike. The secret to their success is the patented CloudTec? technology, a system of hollow pods on the outsole that compress upon impact to provide a soft, cushioned landing, then lock together to create a rigid surface for a powerful and explosive take-off. This innovation, combined with a mission to design products that feel as light as air, has resulted in a range of shoes that deliver an unparalleled running experience. From the versatile Cloud series for everyday training to the performance-focused Cloudflow and the maximum-cushioned Cloudmonster, there's an ON shoe for every runner and every distance. Beyond performance, ON is committed to a unique, modern aesthetic and a dedication to quality that is synonymous with Swiss design. Join the movement and discover why runners around the world are switching to ON for a softer, more responsive, and undeniably unique ride.",
+    "about_this_item": "Brand New, 100% Authentic, Original Packaging",
+    "primary_keyword": "Men's Road Running Shoes",
+    "slug": "on",
+    "url": "https://www.shoesonwhite.com/2026/02/on.html",
+    "gender_url": "https://www.shoesonwhite.com/p/men.html",
+    "brand_url": "https://www.shoesonwhite.com/p/on-cloud.html",
+    "subcategory_url": "https://www.shoesonwhite.com/p/athletic.html",
+    "image_urls": [
+      "https://m.media-amazon.com/images/I/51QFUdAipqL._AC_SY695_.jpg",
+      "https://m.media-amazon.com/images/I/61xEJZmusZL._AC_SY695_.jpg",
+      "https://m.media-amazon.com/images/I/61pjgEZpQ8L._AC_SY695_.jpg",
+      "https://m.media-amazon.com/images/I/61HbUaXXkFL._AC_SY695_.jpg",
+      "https://m.media-amazon.com/images/I/51AADdZrPjL._AC_SY695_.jpg"
+    ],
+    "main_image": "https://m.media-amazon.com/images/I/51QFUdAipqL._AC_SY695_.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://www.shoesonwhite.com/#product-B0CHHQD5QP",
+      "name": "ON Running",
+      "description": "Experience the sensation of running on clouds with ON Running shoes, the Swiss-engineered footwear that has revolutionized the industry. Founded with a revolutionary idea?to create the perfect running shoe?ON has quickly become a favorite among professional athletes and casual runners alike. The secret to their success is the patented CloudTec? technology, a system of hollow pods on the outsole that compress upon impact to provide a soft, cushioned landing, then lock together to create a rigid surface for a powerful and explosive take-off. This innovation, combined with a mission to design products that feel as light as air, has resulted in a range of shoes that deliver an unparalleled running experience. From the versatile Cloud series for everyday training to the performance-focused Cloudflow and the maximum-cushioned Cloudmonster, there's an ON shoe for every runner and every distance. Beyond performance, ON is committed to a unique, modern aesthetic and a dedication to quality that is synonymous with Swiss design. Join the movement and discover why runners around the world are switching to ON for a softer, more responsive, and undeniably unique ride.",
+      "url": "https://www.shoesonwhite.com/2026/02/on.html",
+      "sku": "B0CHHQD5QP",
+      "mpn": "B0CHHQD5QP",
+      "brand": {
+        "@type": "Brand",
+        "name": "On Cloud",
+        "url": "https://www.shoesonwhite.com/p/on-cloud.html"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.shoesonwhite.com/2026/02/on.html",
+        "priceCurrency": "USD",
+        "price": 218.99,
+        "priceValidUntil": "2027-02-19",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "reviewCount": 4194,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Athletic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Color",
+          "value": "White"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Mesh"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Closure Type",
+          "value": "Lace-up"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Comfort Score",
+          "value": "85"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Durability Score",
+          "value": "80"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Breathability Score",
+          "value": "80"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Overall Score",
+          "value": "81.66666666666667"
+        }
+      ],
+      "image": [
+        "https://m.media-amazon.com/images/I/51QFUdAipqL._AC_SY695_.jpg",
+        "https://m.media-amazon.com/images/I/61xEJZmusZL._AC_SY695_.jpg",
+        "https://m.media-amazon.com/images/I/61pjgEZpQ8L._AC_SY695_.jpg",
+        "https://m.media-amazon.com/images/I/61HbUaXXkFL._AC_SY695_.jpg",
+        "https://m.media-amazon.com/images/I/51AADdZrPjL._AC_SY695_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.shoesonwhite.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Men",
+            "item": "https://www.shoesonwhite.com/p/men.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "On Cloud",
+            "item": "https://www.shoesonwhite.com/p/on-cloud.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Athletic",
+            "item": "https://www.shoesonwhite.com/p/athletic.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "ON Running",
+            "item": "https://www.shoesonwhite.com/2026/02/on.html"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-02-19T04:12:20.296Z",
+    "last_updated": "2026-02-19T04:12:20.296Z"
+  }
+}
