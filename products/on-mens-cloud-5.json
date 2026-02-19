@@ -1,70 +1,71 @@
 {
   "metadata": {
-    "product_id": "B0G2H7TS6S",
+    "product_id": "B09Z36P13X",
     "slug": "on-mens-cloud-5",
-    "generated_at": "2026-02-19T04:12:25.127Z",
+    "generated_at": "2026-02-19T04:15:20.850Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
       "product": "https://www.shoesonwhite.com/2026/02/on-mens-cloud-5.html",
       "gender": "https://www.shoesonwhite.com/p/men.html",
       "brand": "https://www.shoesonwhite.com/p/on-cloud.html",
-      "subcategory": "https://www.shoesonwhite.com/p/sneakers.html"
+      "subcategory": "https://www.shoesonwhite.com/p/athletic.html"
     }
   },
   "product": {
-    "product_id": "B0G2H7TS6S",
-    "asin": "B0G2H7TS6S",
+    "product_id": "B09Z36P13X",
+    "asin": "B09Z36P13X",
     "product_title": "On Men's Cloud 5 Sneakers",
     "brand": "On Cloud",
     "category": "Shoes",
-    "subcategory": "Sneakers",
+    "subcategory": "Athletic",
     "color": "White",
     "gender": "Men",
-    "weight_lbs": 1,
-    "upper_material": "Polyester",
+    "weight_lbs": 1.81,
+    "upper_material": "Mesh",
     "sole_material": "Rubber",
-    "outer_material": "Polyester",
-    "lining": "Zero-Gravity foam",
+    "outer_material": "Synthetic",
+    "lining": "-",
     "closure_type": "Lace-up (speed-lacing)",
     "cushioning": "Signature CloudTec pods and a zero-gravity foam for a lightweight, soft, and bouncy ride.",
     "breathability": "Breathable mesh construction designed to keep feet cool.",
-    "amazon_url": "https://amzn.to/4rQk5ZO",
-    "price_min": 177,
-    "price_max": 220,
+    "amazon_url": "https://amzn.to/4c3gJhM",
+    "price_min": 218.99,
+    "price_max": 230.88,
     "currency": "USD",
-    "rating": 4.6,
-    "review_count": 559,
+    "rating": 4.4,
+    "review_count": 1385,
     "comfort_score": 94,
     "durability_score": 86,
     "breathability_score": 88,
     "overall_score": 89.33333333333333,
     "short_description": "Discover the award-winning comfort that started a movement with the On Men's Cloud 5 Sneakers. Instantly recognizable for its iconic perforated sole, the Cloud 5 has become a global phenomenon by perfecting the formula for lightweight, all-day cushioning. At its core are the revolutionary CloudTec? pods, engineered to soften impact and provide a gentle, bouncy sensation with every step. These pods work in tandem with a Zero-Gravity foam midsole, creating a shoe that feels incredibly light and responsive, making it feel like you're walking on clouds. The upper is crafted from a breathable, engineered mesh that adapts to the shape of your foot, while the innovative speed-lacing system ensures a secure, customized fit in an instant. Designed for versatility, the Cloud 5 is the perfect travel companion, a reliable partner for your daily commute, or simply the most comfortable shoe for a day on your feet. With a focus on sustainability, a significant portion of the model uses recycled materials. Experience the effortless, cloud-like feel that has captivated millions and cemented the On Men's Cloud 5 as a true icon in modern footwear.",
-    "about_this_item": "Lightweight and breathable, Signature speed-lacing with elastic laces, Updated Speedboard, Round toe",
-    "primary_keyword": "Men's Road Running Shoes",
+    "about_this_item": "Fabric: Mesh, Rubber sole, Cushioned collar and footbed, Reflective accents, Designed for everyday wear, Round toe",
+    "primary_keyword": "Men's Fashion Sneakers",
     "slug": "on-mens-cloud-5",
     "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloud-5.html",
     "gender_url": "https://www.shoesonwhite.com/p/men.html",
     "brand_url": "https://www.shoesonwhite.com/p/on-cloud.html",
-    "subcategory_url": "https://www.shoesonwhite.com/p/sneakers.html",
+    "subcategory_url": "https://www.shoesonwhite.com/p/athletic.html",
     "image_urls": [
-      "https://m.media-amazon.com/images/I/61PoUb5z51L._AC_SX625_.jpg",
-      "https://m.media-amazon.com/images/I/61LBo0Ay3qL._AC_SX625_.jpg",
-      "https://m.media-amazon.com/images/I/61jxLnT6KDL._AC_SX625_.jpg",
-      "https://m.media-amazon.com/images/I/61b8QkihDuL._AC_SX625_.jpg",
-      "https://m.media-amazon.com/images/I/61b8QkihDuL._AC_SX625_.jpg",
-      "https://m.media-amazon.com/images/I/51xHsx5LAmL._AC_SX625_.jpg"
+      "https://m.media-amazon.com/images/I/61CXzjAR9tL._AC_SX625_.jpg",
+      "https://m.media-amazon.com/images/I/81KyTLE9jAL._AC_SY625_.jpg",
+      "https://m.media-amazon.com/images/I/51G-dOZYsxL._AC_SY695_.jpg",
+      "https://m.media-amazon.com/images/I/51GM6wVpN3L._AC_SY695_.jpg",
+      "https://m.media-amazon.com/images/I/614j-aRNOaL._AC_SX625_.jpg",
+      "https://m.media-amazon.com/images/I/614j-aRNOaL._AC_SX625_.jpg",
+      "https://m.media-amazon.com/images/I/61aiMaxZ0KL._AC_SX625_.jpg"
     ],
-    "main_image": "https://m.media-amazon.com/images/I/61PoUb5z51L._AC_SX625_.jpg",
+    "main_image": "https://m.media-amazon.com/images/I/61CXzjAR9tL._AC_SX625_.jpg",
     "schema": {
       "@context": "https://schema.org",
       "@type": "Product",
-      "@id": "https://www.shoesonwhite.com/#product-B0G2H7TS6S",
+      "@id": "https://www.shoesonwhite.com/#product-B09Z36P13X",
       "name": "On Men's Cloud 5 Sneakers",
       "description": "Discover the award-winning comfort that started a movement with the On Men's Cloud 5 Sneakers. Instantly recognizable for its iconic perforated sole, the Cloud 5 has become a global phenomenon by perfecting the formula for lightweight, all-day cushioning. At its core are the revolutionary CloudTec? pods, engineered to soften impact and provide a gentle, bouncy sensation with every step. These pods work in tandem with a Zero-Gravity foam midsole, creating a shoe that feels incredibly light and responsive, making it feel like you're walking on clouds. The upper is crafted from a breathable, engineered mesh that adapts to the shape of your foot, while the innovative speed-lacing system ensures a secure, customized fit in an instant. Designed for versatility, the Cloud 5 is the perfect travel companion, a reliable partner for your daily commute, or simply the most comfortable shoe for a day on your feet. With a focus on sustainability, a significant portion of the model uses recycled materials. Experience the effortless, cloud-like feel that has captivated millions and cemented the On Men's Cloud 5 as a true icon in modern footwear.",
       "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloud-5.html",
-      "sku": "B0G2H7TS6S",
-      "mpn": "B0G2H7TS6S",
+      "sku": "B09Z36P13X",
+      "mpn": "B09Z36P13X",
       "brand": {
         "@type": "Brand",
         "name": "On Cloud",
@@ -74,7 +75,7 @@
         "@type": "Offer",
         "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloud-5.html",
         "priceCurrency": "USD",
-        "price": 177,
+        "price": 218.99,
         "priceValidUntil": "2027-02-19",
         "availability": "https://schema.org/InStock",
         "seller": {
@@ -84,8 +85,8 @@
       },
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": 4.6,
-        "reviewCount": 559,
+        "ratingValue": 4.4,
+        "reviewCount": 1385,
         "bestRating": "5",
         "worstRating": "1"
       },
@@ -98,7 +99,7 @@
         {
           "@type": "PropertyValue",
           "name": "Subcategory",
-          "value": "Sneakers"
+          "value": "Athletic"
         },
         {
           "@type": "PropertyValue",
@@ -113,7 +114,7 @@
         {
           "@type": "PropertyValue",
           "name": "Material",
-          "value": "Polyester"
+          "value": "Mesh"
         },
         {
           "@type": "PropertyValue",
@@ -123,7 +124,7 @@
         {
           "@type": "PropertyValue",
           "name": "Weight",
-          "value": "1"
+          "value": "1.81"
         },
         {
           "@type": "PropertyValue",
@@ -147,12 +148,13 @@
         }
       ],
       "image": [
-        "https://m.media-amazon.com/images/I/61PoUb5z51L._AC_SX625_.jpg",
-        "https://m.media-amazon.com/images/I/61LBo0Ay3qL._AC_SX625_.jpg",
-        "https://m.media-amazon.com/images/I/61jxLnT6KDL._AC_SX625_.jpg",
-        "https://m.media-amazon.com/images/I/61b8QkihDuL._AC_SX625_.jpg",
-        "https://m.media-amazon.com/images/I/61b8QkihDuL._AC_SX625_.jpg",
-        "https://m.media-amazon.com/images/I/51xHsx5LAmL._AC_SX625_.jpg"
+        "https://m.media-amazon.com/images/I/61CXzjAR9tL._AC_SX625_.jpg",
+        "https://m.media-amazon.com/images/I/81KyTLE9jAL._AC_SY625_.jpg",
+        "https://m.media-amazon.com/images/I/51G-dOZYsxL._AC_SY695_.jpg",
+        "https://m.media-amazon.com/images/I/51GM6wVpN3L._AC_SY695_.jpg",
+        "https://m.media-amazon.com/images/I/614j-aRNOaL._AC_SX625_.jpg",
+        "https://m.media-amazon.com/images/I/614j-aRNOaL._AC_SX625_.jpg",
+        "https://m.media-amazon.com/images/I/61aiMaxZ0KL._AC_SX625_.jpg"
       ],
       "breadcrumb": {
         "@type": "BreadcrumbList",
@@ -178,8 +180,8 @@
           {
             "@type": "ListItem",
             "position": 4,
-            "name": "Sneakers",
-            "item": "https://www.shoesonwhite.com/p/sneakers.html"
+            "name": "Athletic",
+            "item": "https://www.shoesonwhite.com/p/athletic.html"
           },
           {
             "@type": "ListItem",
@@ -190,7 +192,7 @@
         ]
       }
     },
-    "created_at": "2026-02-19T04:12:20.294Z",
-    "last_updated": "2026-02-19T04:12:20.294Z"
+    "created_at": "2026-02-19T04:12:20.297Z",
+    "last_updated": "2026-02-19T04:12:20.297Z"
   }
 }
