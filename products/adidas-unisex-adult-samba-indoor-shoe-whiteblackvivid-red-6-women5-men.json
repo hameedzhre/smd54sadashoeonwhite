@@ -2,7 +2,7 @@
   "metadata": {
     "product_id": "B0CKMRBH96",
     "slug": "adidas-unisex-adult-samba-indoor-shoe-whiteblackvivid-red-6-women5-men",
-    "generated_at": "2026-02-19T04:13:03.649Z",
+    "generated_at": "2026-02-19T09:58:04.272Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
@@ -48,13 +48,11 @@
     "brand_url": "https://www.shoesonwhite.com/p/adidas.html",
     "subcategory_url": "https://www.shoesonwhite.com/p/athletic.html",
     "image_urls": [
-      "https://m.media-amazon.com/images/I/71jI8iSK-pL._AC_UY575_.png",
-      "https://m.media-amazon.com/images/I/51kgW-3LB8L._AC_SX695_.jpg",
       "https://m.media-amazon.com/images/I/51wWpT0YL8L._AC_SX695_.jpg",
       "https://m.media-amazon.com/images/I/51TQMCezGrL._AC_SX695_.jpg",
       "https://m.media-amazon.com/images/I/51PLiFXkrcL._AC_SY695_.jpg"
     ],
-    "main_image": "https://m.media-amazon.com/images/I/71jI8iSK-pL._AC_UY575_.png",
+    "main_image": "https://m.media-amazon.com/images/I/51wWpT0YL8L._AC_SX695_.jpg",
     "schema": {
       "@context": "https://schema.org",
       "@type": "Product",
@@ -146,8 +144,6 @@
         }
       ],
       "image": [
-        "https://m.media-amazon.com/images/I/71jI8iSK-pL._AC_UY575_.png",
-        "https://m.media-amazon.com/images/I/51kgW-3LB8L._AC_SX695_.jpg",
         "https://m.media-amazon.com/images/I/51wWpT0YL8L._AC_SX695_.jpg",
         "https://m.media-amazon.com/images/I/51TQMCezGrL._AC_SX695_.jpg",
         "https://m.media-amazon.com/images/I/51PLiFXkrcL._AC_SY695_.jpg"
@@ -188,7 +184,7 @@
         ]
       }
     },
-    "created_at": "2026-02-19T04:12:20.296Z",
-    "last_updated": "2026-02-19T04:12:20.296Z"
+    "created_at": "2026-02-19T09:57:28.936Z",
+    "last_updated": "2026-02-19T09:57:28.936Z"
   }
 }
