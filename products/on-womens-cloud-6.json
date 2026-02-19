@@ -2,13 +2,13 @@
   "metadata": {
     "product_id": "B0F9MZ4KY6",
     "slug": "on-womens-cloud-6",
-    "generated_at": "2026-02-15T18:02:28.217Z",
+    "generated_at": "2026-02-19T04:12:33.571Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
       "product": "https://www.shoesonwhite.com/2026/02/on-womens-cloud-6.html",
       "gender": "https://www.shoesonwhite.com/p/women.html",
-      "brand": "https://www.shoesonwhite.com/p/on.html",
+      "brand": "https://www.shoesonwhite.com/p/on-cloud.html",
       "subcategory": "https://www.shoesonwhite.com/p/sneakers.html"
     }
   },
@@ -16,36 +16,35 @@
     "product_id": "B0F9MZ4KY6",
     "asin": "B0F9MZ4KY7",
     "product_title": "On Womens Cloud 6",
-    "brand": "On",
+    "brand": "On Cloud",
     "category": "Shoes",
     "subcategory": "Sneakers",
-    "color": "White Shoes",
+    "color": "White",
     "gender": "Women",
-    "weight_lbs": "N/A",
     "upper_material": "Performance Mesh",
     "sole_material": "Rubber",
     "outer_material": "Performance Mesh",
     "lining": "Fabric",
     "closure_type": "Speed-lace system",
-    "cushioning": "Plush tongue, cushioned collar, removable insole",
-    "breathability": "Ultra lightweight and breathable",
+    "cushioning": "Plush and responsive CloudTec cushioning with Zero-Gravity foam for a soft, bouncy, lightweight feel.",
+    "breathability": "Engineered mesh upper, partly made from recycled polyester, promotes excellent airflow.",
     "amazon_url": "https://amzn.to/4ku7nOc",
     "price_min": 147.99,
     "price_max": 160,
     "currency": "USD",
     "rating": 4.5,
     "review_count": 1429,
-    "comfort_score": 67,
-    "durability_score": 84,
-    "breathability_score": 83,
-    "overall_score": 78,
-    "short_description": "Lightweight running-inspired sneaker with CloudTec cushioning.",
+    "comfort_score": 92,
+    "durability_score": 88,
+    "breathability_score": 85,
+    "overall_score": 88.33333333333333,
+    "short_description": "Experience the next evolution of premium comfort with the On Womens Cloud 6 Sneakers. Purpose-built for the modern woman's lifestyle, the Cloud 6 refines the perfect balance of plush cushioning and lightweight performance. Engineered with a redesigned upper crafted from 100% recycled polyester, this shoe offers a sock-like fit that adapts seamlessly to the contours of your foot, providing enhanced flexibility and all-day wearability. The iconic CloudTec? pods in the midsole deliver that signature soft landing with every step, while the updated Zero-Gravity foam ensures a bouncy, responsive feel without any excess weight. Whether you're navigating a busy workday, exploring a new city, or simply enjoying a casual weekend, the Cloud 6 provides unparalleled underfoot comfort. The speed-lacing system allows for a quick, secure fit, while the reflective details add a layer of safety for low-light adventures. More than just a sneaker, the On Womens Cloud 6 is a statement of Swiss-engineered design, merging sustainable materials with cutting-edge technology.",
     "about_this_item": "Elastic speed-lace system, Reflective accents, Cushioned collar and removable insole, Designed for training , Ultra lightweight and breathable design",
     "primary_keyword": "cloud sneakers, running style shoes",
     "slug": "on-womens-cloud-6",
     "url": "https://www.shoesonwhite.com/2026/02/on-womens-cloud-6.html",
     "gender_url": "https://www.shoesonwhite.com/p/women.html",
-    "brand_url": "https://www.shoesonwhite.com/p/on.html",
+    "brand_url": "https://www.shoesonwhite.com/p/on-cloud.html",
     "subcategory_url": "https://www.shoesonwhite.com/p/sneakers.html",
     "image_urls": [
       "https://m.media-amazon.com/images/I/51Y-v706JqL._AC_SY695_.jpg",
@@ -60,21 +59,21 @@
       "@type": "Product",
       "@id": "https://www.shoesonwhite.com/#product-B0F9MZ4KY6",
       "name": "On Womens Cloud 6",
-      "description": "Lightweight running-inspired sneaker with CloudTec cushioning.",
+      "description": "Experience the next evolution of premium comfort with the On Womens Cloud 6 Sneakers. Purpose-built for the modern woman's lifestyle, the Cloud 6 refines the perfect balance of plush cushioning and lightweight performance. Engineered with a redesigned upper crafted from 100% recycled polyester, this shoe offers a sock-like fit that adapts seamlessly to the contours of your foot, providing enhanced flexibility and all-day wearability. The iconic CloudTec? pods in the midsole deliver that signature soft landing with every step, while the updated Zero-Gravity foam ensures a bouncy, responsive feel without any excess weight. Whether you're navigating a busy workday, exploring a new city, or simply enjoying a casual weekend, the Cloud 6 provides unparalleled underfoot comfort. The speed-lacing system allows for a quick, secure fit, while the reflective details add a layer of safety for low-light adventures. More than just a sneaker, the On Womens Cloud 6 is a statement of Swiss-engineered design, merging sustainable materials with cutting-edge technology.",
       "url": "https://www.shoesonwhite.com/2026/02/on-womens-cloud-6.html",
       "sku": "B0F9MZ4KY6",
       "mpn": "B0F9MZ4KY7",
       "brand": {
         "@type": "Brand",
-        "name": "On",
-        "url": "https://www.shoesonwhite.com/p/on.html"
+        "name": "On Cloud",
+        "url": "https://www.shoesonwhite.com/p/on-cloud.html"
       },
       "offers": {
         "@type": "Offer",
         "url": "https://www.shoesonwhite.com/2026/02/on-womens-cloud-6.html",
         "priceCurrency": "USD",
         "price": 147.99,
-        "priceValidUntil": "2027-02-15",
+        "priceValidUntil": "2027-02-19",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -107,7 +106,7 @@
         {
           "@type": "PropertyValue",
           "name": "Color",
-          "value": "White Shoes"
+          "value": "White"
         },
         {
           "@type": "PropertyValue",
@@ -122,22 +121,22 @@
         {
           "@type": "PropertyValue",
           "name": "Comfort Score",
-          "value": "67"
+          "value": "92"
         },
         {
           "@type": "PropertyValue",
           "name": "Durability Score",
-          "value": "84"
+          "value": "88"
         },
         {
           "@type": "PropertyValue",
           "name": "Breathability Score",
-          "value": "83"
+          "value": "85"
         },
         {
           "@type": "PropertyValue",
           "name": "Overall Score",
-          "value": "78"
+          "value": "88.33333333333333"
         }
       ],
       "image": [
@@ -165,8 +164,8 @@
           {
             "@type": "ListItem",
             "position": 3,
-            "name": "On",
-            "item": "https://www.shoesonwhite.com/p/on.html"
+            "name": "On Cloud",
+            "item": "https://www.shoesonwhite.com/p/on-cloud.html"
           },
           {
             "@type": "ListItem",
@@ -183,7 +182,7 @@
         ]
       }
     },
-    "created_at": "2026-02-15T18:02:04.391Z",
-    "last_updated": "2026-02-15T18:02:04.391Z"
+    "created_at": "2026-02-19T04:12:20.295Z",
+    "last_updated": "2026-02-19T04:12:20.295Z"
   }
 }
