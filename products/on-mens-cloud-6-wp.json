@@ -1,0 +1,196 @@
+{
+  "metadata": {
+    "product_id": "B0D54RRYTL",
+    "slug": "on-mens-cloud-6-wp",
+    "generated_at": "2026-02-19T04:12:56.936Z",
+    "source": "google_sheets",
+    "version": "1.0",
+    "urls": {
+      "product": "https://www.shoesonwhite.com/2026/02/on-mens-cloud-6-wp.html",
+      "gender": "https://www.shoesonwhite.com/p/men.html",
+      "brand": "https://www.shoesonwhite.com/p/on-cloud.html",
+      "subcategory": "https://www.shoesonwhite.com/p/athletic.html"
+    }
+  },
+  "product": {
+    "product_id": "B0D54RRYTL",
+    "asin": "B0D54RRYTL",
+    "product_title": "On Men's Cloud 6 WP Sneakers",
+    "brand": "On Cloud",
+    "category": "Shoes",
+    "subcategory": "Athletic",
+    "color": "White",
+    "gender": "Men",
+    "weight_lbs": 2.19,
+    "upper_material": "Performance mesh",
+    "sole_material": "Rubber",
+    "outer_material": "Performance mesh",
+    "lining": "Polyester",
+    "closure_type": "Lace-up (speed-lacing)",
+    "cushioning": "Plush and responsive CloudTec cushioning for a soft, bouncy feel, protected by a weatherproof membrane.",
+    "breathability": "The weatherproof membrane significantly reduces airflow compared to non-WP versions.",
+    "amazon_url": "https://amzn.to/46KqUEe",
+    "price_min": 159.99,
+    "price_max": 195.19,
+    "currency": "USD",
+    "rating": 4.4,
+    "review_count": 422,
+    "comfort_score": 90,
+    "durability_score": 92,
+    "breathability_score": 60,
+    "overall_score": 80.66666666666667,
+    "short_description": "Conquer the elements in uncompromising comfort with the On Men's Cloud 6 WP Sneakers. Building on the beloved Cloud 6 platform, this weatherproof (WP) version is engineered to keep your feet dry and comfortable without sacrificing the signature cloud-like feel. It retains all the core features that make the Cloud 6 a global icon, including the plush CloudTec? pods for soft, bouncy cushioning and the lightweight Zero-Gravity foam for a responsive, airy ride. The key upgrade is the integration of a advanced, waterproof membrane within the breathable upper. This innovative material creates a barrier against rain and puddles, ensuring your feet stay dry in wet conditions, while still allowing for a degree of breathability to prevent overheating. The speed-lacing system provides a quick, secure fit, and reflective details enhance visibility in low light. Whether you're navigating a drizzly commute, exploring a city on a damp day, or simply want a shoe that's ready for unpredictable weather, the On Men's Cloud 6 WP delivers all-weather protection with the premium comfort and style you expect from On.",
+    "about_this_item": "Rubber sole, Speed-laces, Reflective logo details, Round toe",
+    "primary_keyword": "Men's Walking Shoes",
+    "slug": "on-mens-cloud-6-wp",
+    "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloud-6-wp.html",
+    "gender_url": "https://www.shoesonwhite.com/p/men.html",
+    "brand_url": "https://www.shoesonwhite.com/p/on-cloud.html",
+    "subcategory_url": "https://www.shoesonwhite.com/p/athletic.html",
+    "image_urls": [
+      "https://m.media-amazon.com/images/I/61wyhJI8FtL._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/61Y4uzryngL._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/616XwyBZW4L._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/617zv3M2c8L._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/61UL6Bt6CmL._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/619v1rinPnL._AC_SY500_.jpg"
+    ],
+    "main_image": "https://m.media-amazon.com/images/I/61wyhJI8FtL._AC_SY500_.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://www.shoesonwhite.com/#product-B0D54RRYTL",
+      "name": "On Men's Cloud 6 WP Sneakers",
+      "description": "Conquer the elements in uncompromising comfort with the On Men's Cloud 6 WP Sneakers. Building on the beloved Cloud 6 platform, this weatherproof (WP) version is engineered to keep your feet dry and comfortable without sacrificing the signature cloud-like feel. It retains all the core features that make the Cloud 6 a global icon, including the plush CloudTec? pods for soft, bouncy cushioning and the lightweight Zero-Gravity foam for a responsive, airy ride. The key upgrade is the integration of a advanced, waterproof membrane within the breathable upper. This innovative material creates a barrier against rain and puddles, ensuring your feet stay dry in wet conditions, while still allowing for a degree of breathability to prevent overheating. The speed-lacing system provides a quick, secure fit, and reflective details enhance visibility in low light. Whether you're navigating a drizzly commute, exploring a city on a damp day, or simply want a shoe that's ready for unpredictable weather, the On Men's Cloud 6 WP delivers all-weather protection with the premium comfort and style you expect from On.",
+      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloud-6-wp.html",
+      "sku": "B0D54RRYTL",
+      "mpn": "B0D54RRYTL",
+      "brand": {
+        "@type": "Brand",
+        "name": "On Cloud",
+        "url": "https://www.shoesonwhite.com/p/on-cloud.html"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloud-6-wp.html",
+        "priceCurrency": "USD",
+        "price": 159.99,
+        "priceValidUntil": "2027-02-19",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.4,
+        "reviewCount": 422,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Athletic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Color",
+          "value": "White"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Performance mesh"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Closure Type",
+          "value": "Lace-up (speed-lacing)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Weight",
+          "value": "2.19"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Comfort Score",
+          "value": "90"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Durability Score",
+          "value": "92"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Breathability Score",
+          "value": "60"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Overall Score",
+          "value": "80.66666666666667"
+        }
+      ],
+      "image": [
+        "https://m.media-amazon.com/images/I/61wyhJI8FtL._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/61Y4uzryngL._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/616XwyBZW4L._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/617zv3M2c8L._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/61UL6Bt6CmL._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/619v1rinPnL._AC_SY500_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.shoesonwhite.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Men",
+            "item": "https://www.shoesonwhite.com/p/men.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "On Cloud",
+            "item": "https://www.shoesonwhite.com/p/on-cloud.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Athletic",
+            "item": "https://www.shoesonwhite.com/p/athletic.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "On Men's Cloud 6 WP Sneakers",
+            "item": "https://www.shoesonwhite.com/2026/02/on-mens-cloud-6-wp.html"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-02-19T04:12:20.296Z",
+    "last_updated": "2026-02-19T04:12:20.296Z"
+  }
+}
