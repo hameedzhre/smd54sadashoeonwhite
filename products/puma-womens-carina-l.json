@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "product_id": "B07HJLRXBT",
+    "product_id": "B0CNYJ28VG",
     "slug": "puma-womens-carina-l",
-    "generated_at": "2026-02-19T04:15:37.629Z",
+    "generated_at": "2026-02-19T09:58:15.063Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
@@ -13,23 +13,23 @@
     }
   },
   "product": {
-    "product_id": "B07HJLRXBT",
-    "asin": "B07HJLRXBT",
-    "product_title": "PUMA Womens Carina L Sneaker",
+    "product_id": "B0CNYJ28VG",
+    "asin": "B0CNYJ28VG",
+    "product_title": "Puma Womens Carina L Sneaker",
     "brand": "PUMA",
     "category": "Shoes",
     "subcategory": "Sneakers",
     "color": "White",
     "gender": "Women",
     "weight_lbs": 2.1,
-    "upper_material": "Leather and Synthetic",
+    "upper_material": "Leather & Synthetic",
     "sole_material": "Rubber",
     "outer_material": "Leather",
     "lining": "Textile",
-    "closure_type": "Lace-up",
+    "closure_type": "Lace-Up",
     "cushioning": "Padded collar and a soft, cushioned insole provide comfortable step-in feel for everyday wear.",
     "breathability": "Premium leather upper is dense and offers minimal breathability.",
-    "amazon_url": "https://amzn.to/4ruQu8c",
+    "amazon_url": "https://amzn.to/4rz5VMA",
     "price_min": 41.95,
     "price_max": 70,
     "currency": "USD",
@@ -39,9 +39,9 @@
     "durability_score": 83,
     "breathability_score": 60,
     "overall_score": 76,
-    "short_description": "Embrace breezy, retro-inspired style with the PUMA Womens Carina L Sneaker. Drawing influence from the carefree beach culture of the 1980s, the Carina L brings a fresh, fashion-forward look to your everyday footwear rotation. This sleek sneaker features a premium leather upper in a clean, crisp white, accented with subtle perforations and PUMA's iconic formstrip for a touch of classic branding. The design is elevated by a stylish platform sole, adding a subtle lift that enhances the silhouette without compromising on comfort. The low-cut padded collar provides a comfortable fit around the ankle, while the soft, breathable lining keeps your feet feeling fresh. The durable rubber outsole ensures reliable traction. Whether you're pairing them with jeans, a sundress, or your favorite joggers, the PUMA Carina L sneakers deliver a perfect blend of vintage charm and modern, laid-back style for the woman on the go.",
-    "about_this_item": "RETRO AND TRENDY: 80's inspired, adapted to fit today's laid-back sneaker look of Californian beach towns. ENHANCED PLATFORM: New tooling with an elevated platform sole. HIGH-QUALITY CONSTRUCTION: This shoe contains a premium leather upper. MINIMAL AND TIMELESS: Subtle PUMA branding. SIZE UP FOR BETTER FIT: Tight fit. One size up recommended.",
-    "primary_keyword": "white sneakers",
+    "short_description": "Embrace breezy, retro-inspired style with the Puma Womens Carina L Sneaker. Drawing influence from the carefree beach culture of the 1980s, the Carina L brings a fresh, fashion-forward look to your everyday footwear rotation. This sleek sneaker features a premium leather upper in a clean, crisp white, accented with subtle perforations and Puma's iconic formstrip for a touch of classic branding. The design is elevated by a stylish platform sole, adding a subtle lift that enhances the silhouette without compromising on comfort. The low-cut padded collar provides a comfortable fit around the ankle, while the soft, breathable lining keeps your feet feeling fresh. The durable rubber outsole ensures reliable traction. Whether you're pairing them with jeans, a sundress, or your favorite joggers, the Puma Carina L sneakers deliver a perfect blend of vintage charm and modern, laid-back style for the woman on the go.",
+    "about_this_item": "80s-inspired design, premium leather upper, elevated platform sole, SoftFoam+ cushioning, lace closure, minimal PUMA branding",
+    "primary_keyword": "Puma Womens Carina L Sneaker",
     "slug": "puma-womens-carina-l",
     "url": "https://www.shoesonwhite.com/2026/02/puma-womens-carina-l.html",
     "gender_url": "https://www.shoesonwhite.com/p/women.html",
@@ -59,12 +59,12 @@
     "schema": {
       "@context": "https://schema.org",
       "@type": "Product",
-      "@id": "https://www.shoesonwhite.com/#product-B07HJLRXBT",
-      "name": "PUMA Womens Carina L Sneaker",
-      "description": "Embrace breezy, retro-inspired style with the PUMA Womens Carina L Sneaker. Drawing influence from the carefree beach culture of the 1980s, the Carina L brings a fresh, fashion-forward look to your everyday footwear rotation. This sleek sneaker features a premium leather upper in a clean, crisp white, accented with subtle perforations and PUMA's iconic formstrip for a touch of classic branding. The design is elevated by a stylish platform sole, adding a subtle lift that enhances the silhouette without compromising on comfort. The low-cut padded collar provides a comfortable fit around the ankle, while the soft, breathable lining keeps your feet feeling fresh. The durable rubber outsole ensures reliable traction. Whether you're pairing them with jeans, a sundress, or your favorite joggers, the PUMA Carina L sneakers deliver a perfect blend of vintage charm and modern, laid-back style for the woman on the go.",
+      "@id": "https://www.shoesonwhite.com/#product-B0CNYJ28VG",
+      "name": "Puma Womens Carina L Sneaker",
+      "description": "Embrace breezy, retro-inspired style with the Puma Womens Carina L Sneaker. Drawing influence from the carefree beach culture of the 1980s, the Carina L brings a fresh, fashion-forward look to your everyday footwear rotation. This sleek sneaker features a premium leather upper in a clean, crisp white, accented with subtle perforations and Puma's iconic formstrip for a touch of classic branding. The design is elevated by a stylish platform sole, adding a subtle lift that enhances the silhouette without compromising on comfort. The low-cut padded collar provides a comfortable fit around the ankle, while the soft, breathable lining keeps your feet feeling fresh. The durable rubber outsole ensures reliable traction. Whether you're pairing them with jeans, a sundress, or your favorite joggers, the Puma Carina L sneakers deliver a perfect blend of vintage charm and modern, laid-back style for the woman on the go.",
       "url": "https://www.shoesonwhite.com/2026/02/puma-womens-carina-l.html",
-      "sku": "B07HJLRXBT",
-      "mpn": "B07HJLRXBT",
+      "sku": "B0CNYJ28VG",
+      "mpn": "B0CNYJ28VG",
       "brand": {
         "@type": "Brand",
         "name": "PUMA",
@@ -113,12 +113,12 @@
         {
           "@type": "PropertyValue",
           "name": "Material",
-          "value": "Leather and Synthetic"
+          "value": "Leather & Synthetic"
         },
         {
           "@type": "PropertyValue",
           "name": "Closure Type",
-          "value": "Lace-up"
+          "value": "Lace-Up"
         },
         {
           "@type": "PropertyValue",
@@ -184,13 +184,13 @@
           {
             "@type": "ListItem",
             "position": 5,
-            "name": "PUMA Womens Carina L Sneaker",
+            "name": "Puma Womens Carina L Sneaker",
             "item": "https://www.shoesonwhite.com/2026/02/puma-womens-carina-l.html"
           }
         ]
       }
     },
-    "created_at": "2026-02-19T04:12:20.300Z",
-    "last_updated": "2026-02-19T04:12:20.300Z"
+    "created_at": "2026-02-19T09:57:28.937Z",
+    "last_updated": "2026-02-19T09:57:28.937Z"
   }
 }
