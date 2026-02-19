@@ -2,7 +2,7 @@
   "metadata": {
     "product_id": "B0DBM6HSYS",
     "slug": "adidas-womens-x_plr-path-running",
-    "generated_at": "2026-02-15T18:02:48.426Z",
+    "generated_at": "2026-02-19T04:12:50.189Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
@@ -16,10 +16,10 @@
     "product_id": "B0DBM6HSYS",
     "asin": "B0DBM6HSYS",
     "product_title": "adidas Women's X_PLR Path Running Shoes",
-    "brand": "adidas",
+    "brand": "Adidas",
     "category": "Shoes",
     "subcategory": "Athletic",
-    "color": "White Shoes",
+    "color": "White",
     "gender": "Women",
     "weight_lbs": 2.13,
     "upper_material": "Textile & Synthetic Mesh",
@@ -27,19 +27,19 @@
     "outer_material": "Rubber",
     "lining": "Textile",
     "closure_type": "Lace-Up",
-    "cushioning": "Cloudfoam cushioned midsole",
-    "breathability": "High",
+    "cushioning": "Cushioned midsole provides soft, responsive impact absorption for running and casual wear.",
+    "breathability": "Lightweight, breathable mesh upper keeps feet cool and dry during activities.",
     "amazon_url": "https://amzn.to/4koZpFY",
     "price_min": 33.4,
     "price_max": 39,
     "currency": "USD",
     "rating": 4.5,
     "review_count": 1647,
-    "comfort_score": 73,
-    "durability_score": 79,
-    "breathability_score": 78,
-    "overall_score": 76.66666666666667,
-    "short_description": "Lightweight running-inspired sneakers designed for everyday comfort and casual wear.",
+    "comfort_score": 84,
+    "durability_score": 82,
+    "breathability_score": 80,
+    "overall_score": 82,
+    "short_description": "Discover the perfect blend of running performance and everyday style with the adidas Women's X_PLR Path Running Shoes. Designed for the active woman who needs a versatile shoe for both light workouts and casual wear, the X_PLR Path delivers reliable comfort and a sleek, modern aesthetic. The upper features a lightweight, breathable mesh material that keeps your feet cool and dry, while synthetic overlays provide durable structure and support. A padded collar and tongue enhance overall comfort. Underfoot, a cushioned midsole offers soft, responsive impact absorption, making every step feel comfortable whether you're on a jog or walking around town. The durable rubber outsole provides reliable traction on various surfaces. With its clean, streamlined design and signature adidas branding, the X_PLR Path is a versatile and stylish choice for the woman who values both function and fashion in her footwear. Lace up and hit the path in comfort and style.",
     "about_this_item": "Women's lightweight running-inspired sneakers for everyday wear; breathable mesh upper; soft textile lining; Cloudfoam cushioned midsole for step-in comfort; durable rubber outsole with excellent grip.",
     "primary_keyword": "white sneakers women",
     "slug": "adidas-womens-x_plr-path-running",
@@ -62,13 +62,13 @@
       "@type": "Product",
       "@id": "https://www.shoesonwhite.com/#product-B0DBM6HSYS",
       "name": "adidas Women's X_PLR Path Running Shoes",
-      "description": "Lightweight running-inspired sneakers designed for everyday comfort and casual wear.",
+      "description": "Discover the perfect blend of running performance and everyday style with the adidas Women's X_PLR Path Running Shoes. Designed for the active woman who needs a versatile shoe for both light workouts and casual wear, the X_PLR Path delivers reliable comfort and a sleek, modern aesthetic. The upper features a lightweight, breathable mesh material that keeps your feet cool and dry, while synthetic overlays provide durable structure and support. A padded collar and tongue enhance overall comfort. Underfoot, a cushioned midsole offers soft, responsive impact absorption, making every step feel comfortable whether you're on a jog or walking around town. The durable rubber outsole provides reliable traction on various surfaces. With its clean, streamlined design and signature adidas branding, the X_PLR Path is a versatile and stylish choice for the woman who values both function and fashion in her footwear. Lace up and hit the path in comfort and style.",
       "url": "https://www.shoesonwhite.com/2026/02/adidas-womens-x_plr-path-running.html",
       "sku": "B0DBM6HSYS",
       "mpn": "B0DBM6HSYS",
       "brand": {
         "@type": "Brand",
-        "name": "adidas",
+        "name": "Adidas",
         "url": "https://www.shoesonwhite.com/p/adidas.html"
       },
       "offers": {
@@ -76,7 +76,7 @@
         "url": "https://www.shoesonwhite.com/2026/02/adidas-womens-x_plr-path-running.html",
         "priceCurrency": "USD",
         "price": 33.4,
-        "priceValidUntil": "2027-02-15",
+        "priceValidUntil": "2027-02-19",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -109,7 +109,7 @@
         {
           "@type": "PropertyValue",
           "name": "Color",
-          "value": "White Shoes"
+          "value": "White"
         },
         {
           "@type": "PropertyValue",
@@ -129,22 +129,22 @@
         {
           "@type": "PropertyValue",
           "name": "Comfort Score",
-          "value": "73"
+          "value": "84"
         },
         {
           "@type": "PropertyValue",
           "name": "Durability Score",
-          "value": "79"
+          "value": "82"
         },
         {
           "@type": "PropertyValue",
           "name": "Breathability Score",
-          "value": "78"
+          "value": "80"
         },
         {
           "@type": "PropertyValue",
           "name": "Overall Score",
-          "value": "76.66666666666667"
+          "value": "82"
         }
       ],
       "image": [
@@ -174,7 +174,7 @@
           {
             "@type": "ListItem",
             "position": 3,
-            "name": "adidas",
+            "name": "Adidas",
             "item": "https://www.shoesonwhite.com/p/adidas.html"
           },
           {
@@ -192,7 +192,7 @@
         ]
       }
     },
-    "created_at": "2026-02-15T18:02:04.392Z",
-    "last_updated": "2026-02-15T18:02:04.392Z"
+    "created_at": "2026-02-19T04:12:20.295Z",
+    "last_updated": "2026-02-19T04:12:20.295Z"
   }
 }
