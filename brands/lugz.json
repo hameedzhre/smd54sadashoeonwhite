@@ -3,7 +3,7 @@
     "name": "Lugz",
     "slug": "lugz",
     "url": "https://www.shoesonwhite.com/p/lugz.html",
-    "generated_at": "2026-02-19T04:15:53.809Z",
+    "generated_at": "2026-02-19T09:58:44.305Z",
     "total_products": 3,
     "site_url": "https://www.shoesonwhite.com"
   },
@@ -14,15 +14,15 @@
   },
   "products": [
     {
-      "product_id": "B0DKTJSJVB",
-      "title": "Lugz Women's Clipper Shoe",
-      "slug": "lugz-womens-clipper-shoe",
-      "url": "https://www.shoesonwhite.com/2026/02/lugz-womens-clipper-shoe.html",
-      "gender": "Women",
+      "product_id": "B0D8L25VM2",
+      "title": "Lugz Mens Flip Classic Canvas Sneaker",
+      "slug": "lugz-mens-flip-classic-canvas",
+      "url": "https://www.shoesonwhite.com/2026/02/lugz-mens-flip-classic-canvas.html",
+      "gender": "Men",
       "subcategory": "Sneakers",
-      "price_min": 35,
-      "image": "https://m.media-amazon.com/images/I/41HnpwHgZyL._AC_SX500_.jpg",
-      "overall_score": 76.66666666666667
+      "price_min": 29.97,
+      "image": "https://m.media-amazon.com/images/I/41umvcrLRqL._AC_SX500_.jpg",
+      "overall_score": 77.33333333333333
     },
     {
       "product_id": "B0DB22DYWJ",
@@ -36,15 +36,15 @@
       "overall_score": 76.66666666666667
     },
     {
-      "product_id": "B0D8L25VM2",
-      "title": "Lugz Mens Flip Classic Canvas Sneaker",
-      "slug": "lugz-mens-flip-classic-canvas",
-      "url": "https://www.shoesonwhite.com/2026/02/lugz-mens-flip-classic-canvas.html",
-      "gender": "Men",
+      "product_id": "B0DKTJSJVB",
+      "title": "Lugz Women's Clipper Shoe",
+      "slug": "lugz-womens-clipper-shoe",
+      "url": "https://www.shoesonwhite.com/2026/02/lugz-womens-clipper-shoe.html",
+      "gender": "Women",
       "subcategory": "Sneakers",
-      "price_min": 29.97,
-      "image": "https://m.media-amazon.com/images/I/41umvcrLRqL._AC_SX500_.jpg",
-      "overall_score": 77.33333333333333
+      "price_min": 35,
+      "image": "https://m.media-amazon.com/images/I/41HnpwHgZyL._AC_SX500_.jpg",
+      "overall_score": 76.66666666666667
     }
   ]
 }
