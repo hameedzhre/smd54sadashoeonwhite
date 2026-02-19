@@ -1,0 +1,196 @@
+{
+  "metadata": {
+    "product_id": "B09NDXZLJN",
+    "slug": "on-womens-low-top-running-shoes-glaciercreek",
+    "generated_at": "2026-02-19T04:15:23.215Z",
+    "source": "google_sheets",
+    "version": "1.0",
+    "urls": {
+      "product": "https://www.shoesonwhite.com/2026/02/on-womens-low-top-running-shoes-glaciercreek.html",
+      "gender": "https://www.shoesonwhite.com/p/women.html",
+      "brand": "https://www.shoesonwhite.com/p/on-cloud.html",
+      "subcategory": "https://www.shoesonwhite.com/p/athletic.html"
+    }
+  },
+  "product": {
+    "product_id": "B09NDXZLJN",
+    "asin": "B09NDXZLJN",
+    "product_title": "ON Womens Low-top Running Shoes Glacier/Creek",
+    "brand": "On Cloud",
+    "category": "Shoes",
+    "subcategory": "Athletic",
+    "color": "White",
+    "gender": "Women",
+    "weight_lbs": 1,
+    "upper_material": "Synthetic",
+    "sole_material": "Synthetic Rubber",
+    "outer_material": "Synthetic Resin",
+    "lining": "Not Specified",
+    "closure_type": "Lace-Up",
+    "cushioning": "CloudTec Cushioning for a soft landing and responsive toe-off.",
+    "breathability": "Moderate breathability, suitable for various conditions.",
+    "amazon_url": "https://amzn.to/40fNjFN",
+    "price_min": 168.08,
+    "price_max": 179,
+    "currency": "USD",
+    "rating": 4.5,
+    "review_count": 925,
+    "comfort_score": 87,
+    "durability_score": 82,
+    "breathability_score": 84,
+    "overall_score": 84.33333333333333,
+    "short_description": "Experience a refreshing run with the ON Womens Low-top Running Shoes in Glacier/Creek. Inspired by the natural flow of water, these shoes are designed to provide a smooth, adaptive, and incredibly comfortable ride for the everyday runner. Featuring ON's patented CloudTec? cushioning, the sole is comprised of hollow pods that compress upon impact for a soft, joint-friendly landing and lock together for a powerful toe-off. This innovative system ensures you get the perfect balance of cushioning and propulsion with every stride. The upper is constructed from a lightweight, breathable engineered mesh in a serene Glacier and Creek colorway, keeping your feet cool and dry while providing a secure, adaptive fit. Whether you're hitting the pavement for a morning jog or logging miles on a weekend long run, these ON running shoes offer the perfect combination of Swiss-engineered performance and modern, nature-inspired style. Discover the sensation of running on clouds and let the Glacier/Creek be your go-to shoe for a fresh, energized feel.",
+    "about_this_item": "On; Womens Shoes; Running Shoes; Glacier/Creek; Synthetic & Rubber; Lightweight; Road Running; Lace-Up Closure",
+    "primary_keyword": "ON Womens Low-top Running Shoes",
+    "slug": "on-womens-low-top-running-shoes-glaciercreek",
+    "url": "https://www.shoesonwhite.com/2026/02/on-womens-low-top-running-shoes-glaciercreek.html",
+    "gender_url": "https://www.shoesonwhite.com/p/women.html",
+    "brand_url": "https://www.shoesonwhite.com/p/on-cloud.html",
+    "subcategory_url": "https://www.shoesonwhite.com/p/athletic.html",
+    "image_urls": [
+      "https://m.media-amazon.com/images/I/716UftRIatL._AC_SX500_.jpg",
+      "https://m.media-amazon.com/images/I/61d5N86KyjL._AC_SY625_.jpg",
+      "https://m.media-amazon.com/images/I/61ogoOm0GgL._AC_SX500_.jpg",
+      "https://m.media-amazon.com/images/I/61v3GD+8ncL._AC_SX500_.jpg",
+      "https://m.media-amazon.com/images/I/71pjdKxhX0L._AC_SX500_.jpg",
+      "https://m.media-amazon.com/images/I/71ogLyKdK4L._AC_SX500_.jpg"
+    ],
+    "main_image": "https://m.media-amazon.com/images/I/716UftRIatL._AC_SX500_.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://www.shoesonwhite.com/#product-B09NDXZLJN",
+      "name": "ON Womens Low-top Running Shoes Glacier/Creek",
+      "description": "Experience a refreshing run with the ON Womens Low-top Running Shoes in Glacier/Creek. Inspired by the natural flow of water, these shoes are designed to provide a smooth, adaptive, and incredibly comfortable ride for the everyday runner. Featuring ON's patented CloudTec? cushioning, the sole is comprised of hollow pods that compress upon impact for a soft, joint-friendly landing and lock together for a powerful toe-off. This innovative system ensures you get the perfect balance of cushioning and propulsion with every stride. The upper is constructed from a lightweight, breathable engineered mesh in a serene Glacier and Creek colorway, keeping your feet cool and dry while providing a secure, adaptive fit. Whether you're hitting the pavement for a morning jog or logging miles on a weekend long run, these ON running shoes offer the perfect combination of Swiss-engineered performance and modern, nature-inspired style. Discover the sensation of running on clouds and let the Glacier/Creek be your go-to shoe for a fresh, energized feel.",
+      "url": "https://www.shoesonwhite.com/2026/02/on-womens-low-top-running-shoes-glaciercreek.html",
+      "sku": "B09NDXZLJN",
+      "mpn": "B09NDXZLJN",
+      "brand": {
+        "@type": "Brand",
+        "name": "On Cloud",
+        "url": "https://www.shoesonwhite.com/p/on-cloud.html"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.shoesonwhite.com/2026/02/on-womens-low-top-running-shoes-glaciercreek.html",
+        "priceCurrency": "USD",
+        "price": 168.08,
+        "priceValidUntil": "2027-02-19",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "reviewCount": 925,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Athletic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Color",
+          "value": "White"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Synthetic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Closure Type",
+          "value": "Lace-Up"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Weight",
+          "value": "1"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Comfort Score",
+          "value": "87"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Durability Score",
+          "value": "82"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Breathability Score",
+          "value": "84"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Overall Score",
+          "value": "84.33333333333333"
+        }
+      ],
+      "image": [
+        "https://m.media-amazon.com/images/I/716UftRIatL._AC_SX500_.jpg",
+        "https://m.media-amazon.com/images/I/61d5N86KyjL._AC_SY625_.jpg",
+        "https://m.media-amazon.com/images/I/61ogoOm0GgL._AC_SX500_.jpg",
+        "https://m.media-amazon.com/images/I/61v3GD+8ncL._AC_SX500_.jpg",
+        "https://m.media-amazon.com/images/I/71pjdKxhX0L._AC_SX500_.jpg",
+        "https://m.media-amazon.com/images/I/71ogLyKdK4L._AC_SX500_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.shoesonwhite.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Women",
+            "item": "https://www.shoesonwhite.com/p/women.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "On Cloud",
+            "item": "https://www.shoesonwhite.com/p/on-cloud.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Athletic",
+            "item": "https://www.shoesonwhite.com/p/athletic.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "ON Womens Low-top Running Shoes Glacier/Creek",
+            "item": "https://www.shoesonwhite.com/2026/02/on-womens-low-top-running-shoes-glaciercreek.html"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-02-19T04:12:20.297Z",
+    "last_updated": "2026-02-19T04:12:20.297Z"
+  }
+}
