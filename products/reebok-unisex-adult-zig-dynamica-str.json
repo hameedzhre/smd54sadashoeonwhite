@@ -1,0 +1,184 @@
+{
+  "metadata": {
+    "product_id": "B0C2JGXSKJ",
+    "slug": "reebok-unisex-adult-zig-dynamica-str",
+    "generated_at": "2026-02-19T04:15:11.422Z",
+    "source": "google_sheets",
+    "version": "1.0",
+    "urls": {
+      "product": "https://www.shoesonwhite.com/2026/02/reebok-unisex-adult-zig-dynamica-str.html",
+      "gender": "https://www.shoesonwhite.com/p/unisex.html",
+      "brand": "https://www.shoesonwhite.com/p/reebok.html",
+      "subcategory": "https://www.shoesonwhite.com/p/athletic.html"
+    }
+  },
+  "product": {
+    "product_id": "B0C2JGXSKJ",
+    "asin": "B0C2JGXSKJ",
+    "product_title": "Reebok Unisex-Adult Zig Dynamica Str",
+    "brand": "Reebok",
+    "category": "Shoes",
+    "subcategory": "Athletic",
+    "color": "White",
+    "gender": "Unisex",
+    "upper_material": "Leather",
+    "sole_material": "Rubber",
+    "outer_material": "Leather",
+    "lining": "-",
+    "closure_type": "Lace-Up",
+    "cushioning": "Responsive rebound with shock absorption for a dynamic, cushioned feel.",
+    "breathability": "High, designed with breathable materials for running.",
+    "amazon_url": "https://amzn.to/4aUafR7",
+    "price_min": 49.99,
+    "price_max": 75,
+    "currency": "USD",
+    "rating": 4.7,
+    "review_count": 471,
+    "comfort_score": 83,
+    "durability_score": 78,
+    "breathability_score": 75,
+    "overall_score": 78.66666666666667,
+    "short_description": "Energize your run with the Reebok Unisex-Adult Zig Dynamica Str, a shoe designed to deliver a dynamic and responsive ride. The standout feature of the Zig Dynamica is its namesake Zig Tech sole, an innovative, zigzag-shaped midsole engineered to provide responsive rebound with every step. This unique design absorbs shock upon impact and returns energy to your stride, creating a propulsive, springy sensation that helps keep you moving forward with less fatigue. The upper is constructed from a breathable mesh material that promotes airflow to keep your feet cool and comfortable during your workout. A supportive midfoot cage ensures a secure, locked-in fit, while the durable outsole provides reliable traction on various surfaces. Whether you're hitting the pavement for a daily run or logging miles on the treadmill, the Reebok Zig Dynamica Str offers a unique and effective combination of cushioning, energy return, and breathable comfort for a truly energized run.",
+    "about_this_item": "Enhance your running performance with superior comfort and support. Designed for trail and road running with durable traction, shock absorption, sleek design, and all-day comfort protection.",
+    "primary_keyword": "reebok white unisex trail running shoes",
+    "slug": "reebok-unisex-adult-zig-dynamica-str",
+    "url": "https://www.shoesonwhite.com/2026/02/reebok-unisex-adult-zig-dynamica-str.html",
+    "gender_url": "https://www.shoesonwhite.com/p/unisex.html",
+    "brand_url": "https://www.shoesonwhite.com/p/reebok.html",
+    "subcategory_url": "https://www.shoesonwhite.com/p/athletic.html",
+    "image_urls": [
+      "https://m.media-amazon.com/images/I/51tPJ38XrML._AC_SY625_.jpg",
+      "https://m.media-amazon.com/images/I/51kCF143AoL._AC_SY625_.jpg",
+      "https://m.media-amazon.com/images/I/41Y+MBnKkdL._AC_.jpg"
+    ],
+    "main_image": "https://m.media-amazon.com/images/I/51tPJ38XrML._AC_SY625_.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://www.shoesonwhite.com/#product-B0C2JGXSKJ",
+      "name": "Reebok Unisex-Adult Zig Dynamica Str",
+      "description": "Energize your run with the Reebok Unisex-Adult Zig Dynamica Str, a shoe designed to deliver a dynamic and responsive ride. The standout feature of the Zig Dynamica is its namesake Zig Tech sole, an innovative, zigzag-shaped midsole engineered to provide responsive rebound with every step. This unique design absorbs shock upon impact and returns energy to your stride, creating a propulsive, springy sensation that helps keep you moving forward with less fatigue. The upper is constructed from a breathable mesh material that promotes airflow to keep your feet cool and comfortable during your workout. A supportive midfoot cage ensures a secure, locked-in fit, while the durable outsole provides reliable traction on various surfaces. Whether you're hitting the pavement for a daily run or logging miles on the treadmill, the Reebok Zig Dynamica Str offers a unique and effective combination of cushioning, energy return, and breathable comfort for a truly energized run.",
+      "url": "https://www.shoesonwhite.com/2026/02/reebok-unisex-adult-zig-dynamica-str.html",
+      "sku": "B0C2JGXSKJ",
+      "mpn": "B0C2JGXSKJ",
+      "brand": {
+        "@type": "Brand",
+        "name": "Reebok",
+        "url": "https://www.shoesonwhite.com/p/reebok.html"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.shoesonwhite.com/2026/02/reebok-unisex-adult-zig-dynamica-str.html",
+        "priceCurrency": "USD",
+        "price": 49.99,
+        "priceValidUntil": "2027-02-19",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.7,
+        "reviewCount": 471,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Athletic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Unisex"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Color",
+          "value": "White"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Leather"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Closure Type",
+          "value": "Lace-Up"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Comfort Score",
+          "value": "83"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Durability Score",
+          "value": "78"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Breathability Score",
+          "value": "75"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Overall Score",
+          "value": "78.66666666666667"
+        }
+      ],
+      "image": [
+        "https://m.media-amazon.com/images/I/51tPJ38XrML._AC_SY625_.jpg",
+        "https://m.media-amazon.com/images/I/51kCF143AoL._AC_SY625_.jpg",
+        "https://m.media-amazon.com/images/I/41Y+MBnKkdL._AC_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.shoesonwhite.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Unisex",
+            "item": "https://www.shoesonwhite.com/p/unisex.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Reebok",
+            "item": "https://www.shoesonwhite.com/p/reebok.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Athletic",
+            "item": "https://www.shoesonwhite.com/p/athletic.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Reebok Unisex-Adult Zig Dynamica Str",
+            "item": "https://www.shoesonwhite.com/2026/02/reebok-unisex-adult-zig-dynamica-str.html"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-02-19T04:12:20.297Z",
+    "last_updated": "2026-02-19T04:12:20.297Z"
+  }
+}
