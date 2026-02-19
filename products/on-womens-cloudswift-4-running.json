@@ -1,0 +1,192 @@
+{
+  "metadata": {
+    "product_id": "B0D54S429Y",
+    "slug": "on-womens-cloudswift-4-running",
+    "generated_at": "2026-02-19T04:12:56.127Z",
+    "source": "google_sheets",
+    "version": "1.0",
+    "urls": {
+      "product": "https://www.shoesonwhite.com/2026/02/on-womens-cloudswift-4-running.html",
+      "gender": "https://www.shoesonwhite.com/p/women.html",
+      "brand": "https://www.shoesonwhite.com/p/on-cloud.html",
+      "subcategory": "https://www.shoesonwhite.com/p/athletic.html"
+    }
+  },
+  "product": {
+    "product_id": "B0D54S429Y",
+    "asin": "B0D54S429Y",
+    "product_title": "On Women's Cloudswift 4 Running Shoes",
+    "brand": "On Cloud",
+    "category": "Shoes",
+    "subcategory": "Athletic",
+    "color": "White",
+    "gender": "Women",
+    "weight_lbs": 1.69,
+    "upper_material": "Breathable flat-knit",
+    "sole_material": "Rubber",
+    "outer_material": "Performance mesh",
+    "lining": "Breathable fabric",
+    "closure_type": "Lace-up / Slip-on (padded collar & removable footbed)",
+    "cushioning": "Dual-density midsole with Helion superfoam for plush, urban-specific cushioning.",
+    "breathability": "High, thanks to a focus on ventilation in the upper design.",
+    "amazon_url": "https://amzn.to/3OPSj1l",
+    "price_min": 153.41,
+    "price_max": 170,
+    "currency": "USD",
+    "rating": 4.6,
+    "review_count": 134,
+    "comfort_score": 91,
+    "durability_score": 87,
+    "breathability_score": 81,
+    "overall_score": 86.33333333333333,
+    "short_description": "Dominate the pavement with the On Women's Cloudswift 4 Running Shoes, the latest evolution in urban running technology. Specifically engineered to tackle the hard, unpredictable surfaces of the city, the Cloudswift 4 takes comfort and agility to a new level for women runners. At its core is a reimagined CloudTec? configuration, utilizing dual-density Helion? superfoam. This advanced cushioning system features a softer compound in the heel to absorb the high impact of city streets, while a firmer, more responsive compound in the forefoot ensures a powerful and efficient toe-off. The midsole's unique \"star-shaped\" design cradles the foot, providing enhanced stability and support on uneven sidewalks and curbs. The upper has been updated with a more breathable and adaptable engineered mesh, ensuring a secure, sock-like fit that moves with your foot. Reflective elements throughout enhance visibility for safe running in low-light conditions. Whether you're weaving through pedestrian traffic or logging miles on a long urban route, the On Women's Cloudswift 4 delivers a supremely cushioned, stable, and responsive ride, making it the definitive shoe for the city runner.",
+    "about_this_item": "Rubber sole, Padded collar, Removable footbed, Reflective logo, Round toe, Breathable flat-knit upper",
+    "primary_keyword": "On Women's Cloudswift 4",
+    "slug": "on-womens-cloudswift-4-running",
+    "url": "https://www.shoesonwhite.com/2026/02/on-womens-cloudswift-4-running.html",
+    "gender_url": "https://www.shoesonwhite.com/p/women.html",
+    "brand_url": "https://www.shoesonwhite.com/p/on-cloud.html",
+    "subcategory_url": "https://www.shoesonwhite.com/p/athletic.html",
+    "image_urls": [
+      "https://m.media-amazon.com/images/I/513xZaf++dL._AC_SY695_.jpg",
+      "https://m.media-amazon.com/images/I/51+uXpkjNlL._AC_SY695_.jpg",
+      "https://m.media-amazon.com/images/I/51GiZk7LMpL._AC_SY695_.jpg",
+      "https://m.media-amazon.com/images/I/51EkySrBqRL._AC_SY695_.jpg"
+    ],
+    "main_image": "https://m.media-amazon.com/images/I/513xZaf++dL._AC_SY695_.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://www.shoesonwhite.com/#product-B0D54S429Y",
+      "name": "On Women's Cloudswift 4 Running Shoes",
+      "description": "Dominate the pavement with the On Women's Cloudswift 4 Running Shoes, the latest evolution in urban running technology. Specifically engineered to tackle the hard, unpredictable surfaces of the city, the Cloudswift 4 takes comfort and agility to a new level for women runners. At its core is a reimagined CloudTec? configuration, utilizing dual-density Helion? superfoam. This advanced cushioning system features a softer compound in the heel to absorb the high impact of city streets, while a firmer, more responsive compound in the forefoot ensures a powerful and efficient toe-off. The midsole's unique \"star-shaped\" design cradles the foot, providing enhanced stability and support on uneven sidewalks and curbs. The upper has been updated with a more breathable and adaptable engineered mesh, ensuring a secure, sock-like fit that moves with your foot. Reflective elements throughout enhance visibility for safe running in low-light conditions. Whether you're weaving through pedestrian traffic or logging miles on a long urban route, the On Women's Cloudswift 4 delivers a supremely cushioned, stable, and responsive ride, making it the definitive shoe for the city runner.",
+      "url": "https://www.shoesonwhite.com/2026/02/on-womens-cloudswift-4-running.html",
+      "sku": "B0D54S429Y",
+      "mpn": "B0D54S429Y",
+      "brand": {
+        "@type": "Brand",
+        "name": "On Cloud",
+        "url": "https://www.shoesonwhite.com/p/on-cloud.html"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.shoesonwhite.com/2026/02/on-womens-cloudswift-4-running.html",
+        "priceCurrency": "USD",
+        "price": 153.41,
+        "priceValidUntil": "2027-02-19",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.6,
+        "reviewCount": 134,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Athletic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Color",
+          "value": "White"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Breathable flat-knit"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Closure Type",
+          "value": "Lace-up / Slip-on (padded collar & removable footbed)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Weight",
+          "value": "1.69"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Comfort Score",
+          "value": "91"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Durability Score",
+          "value": "87"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Breathability Score",
+          "value": "81"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Overall Score",
+          "value": "86.33333333333333"
+        }
+      ],
+      "image": [
+        "https://m.media-amazon.com/images/I/513xZaf++dL._AC_SY695_.jpg",
+        "https://m.media-amazon.com/images/I/51+uXpkjNlL._AC_SY695_.jpg",
+        "https://m.media-amazon.com/images/I/51GiZk7LMpL._AC_SY695_.jpg",
+        "https://m.media-amazon.com/images/I/51EkySrBqRL._AC_SY695_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.shoesonwhite.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Women",
+            "item": "https://www.shoesonwhite.com/p/women.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "On Cloud",
+            "item": "https://www.shoesonwhite.com/p/on-cloud.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Athletic",
+            "item": "https://www.shoesonwhite.com/p/athletic.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "On Women's Cloudswift 4 Running Shoes",
+            "item": "https://www.shoesonwhite.com/2026/02/on-womens-cloudswift-4-running.html"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-02-19T04:12:20.296Z",
+    "last_updated": "2026-02-19T04:12:20.296Z"
+  }
+}
