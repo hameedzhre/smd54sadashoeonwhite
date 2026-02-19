@@ -2,7 +2,7 @@
   "metadata": {
     "product_id": "B004P7VMC3",
     "slug": "keds-womens-champion-seasonal-lace-up-fashion",
-    "generated_at": "2026-02-15T18:02:40.456Z",
+    "generated_at": "2026-02-19T04:15:42.448Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
@@ -19,7 +19,7 @@
     "brand": "Keds",
     "category": "Shoes",
     "subcategory": "Sneakers",
-    "color": "White Shoes",
+    "color": "White",
     "gender": "Women",
     "weight_lbs": 1.1,
     "upper_material": "Canvas",
@@ -27,19 +27,19 @@
     "outer_material": "Canvas",
     "lining": "Twill",
     "closure_type": "Lace Up",
-    "cushioning": "Cushioned Ortholite insole, 10% recycled PU foam Softerra footbed",
-    "breathability": "Breathable",
+    "cushioning": "Cushioned insole provides soft, flexible comfort for all-day wear.",
+    "breathability": "Classic canvas upper is breathable, keeping feet cool and comfortable.",
     "amazon_url": "https://amzn.to/4qh4SzR",
     "price_min": 44,
     "price_max": 55,
     "currency": "USD",
     "rating": 4.4,
     "review_count": 30275,
-    "comfort_score": 70,
-    "durability_score": 68,
-    "breathability_score": 60,
-    "overall_score": 66,
-    "short_description": "Timeless, classic canvas sneaker with all-day comfort and versatile style.",
+    "comfort_score": 79,
+    "durability_score": 75,
+    "breathability_score": 75,
+    "overall_score": 76.33333333333333,
+    "short_description": "Step into a piece of American heritage with the Keds Women's Champion Seasonal Lace-Up Fashion Sneaker. For nearly a century, the Champion has been a beloved classic, celebrated for its timeless simplicity, versatile style, and wholesome appeal. This iconic lace-up sneaker features a clean, minimalist silhouette with a durable canvas upper, available in a variety of seasonal colors and patterns to add a fresh touch to your wardrobe. The design is effortlessly versatile, pairing perfectly with everything from dresses and skirts to jeans and shorts, making it a true foundation piece for any casual look. Inside, the shoe features a cushioned insole that provides soft, flexible comfort for all-day wear. The classic blue Keds logo on the heel tab and the signature side stripe add a touch of authentic heritage. For a shoe that embodies timeless style and enduring comfort, the Keds Women's Champion is the original American sneaker, as relevant today as it was decades ago.",
     "about_this_item": "Classic women's canvas lace-up sneaker with breathable lining, cushioned insole, durable rubber outsole, versatile for everyday wear.",
     "primary_keyword": "Champion Canvas Sneakers",
     "slug": "keds-womens-champion-seasonal-lace-up-fashion",
@@ -59,7 +59,7 @@
       "@type": "Product",
       "@id": "https://www.shoesonwhite.com/#product-B004P7VMC3",
       "name": "Keds Women's Champion Seasonal Lace-Up Fashion Sneaker",
-      "description": "Timeless, classic canvas sneaker with all-day comfort and versatile style.",
+      "description": "Step into a piece of American heritage with the Keds Women's Champion Seasonal Lace-Up Fashion Sneaker. For nearly a century, the Champion has been a beloved classic, celebrated for its timeless simplicity, versatile style, and wholesome appeal. This iconic lace-up sneaker features a clean, minimalist silhouette with a durable canvas upper, available in a variety of seasonal colors and patterns to add a fresh touch to your wardrobe. The design is effortlessly versatile, pairing perfectly with everything from dresses and skirts to jeans and shorts, making it a true foundation piece for any casual look. Inside, the shoe features a cushioned insole that provides soft, flexible comfort for all-day wear. The classic blue Keds logo on the heel tab and the signature side stripe add a touch of authentic heritage. For a shoe that embodies timeless style and enduring comfort, the Keds Women's Champion is the original American sneaker, as relevant today as it was decades ago.",
       "url": "https://www.shoesonwhite.com/2026/02/keds-womens-champion-seasonal-lace-up-fashion.html",
       "sku": "B004P7VMC3",
       "mpn": "B004P7VMC4",
@@ -73,7 +73,7 @@
         "url": "https://www.shoesonwhite.com/2026/02/keds-womens-champion-seasonal-lace-up-fashion.html",
         "priceCurrency": "USD",
         "price": 44,
-        "priceValidUntil": "2027-02-15",
+        "priceValidUntil": "2027-02-19",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -106,7 +106,7 @@
         {
           "@type": "PropertyValue",
           "name": "Color",
-          "value": "White Shoes"
+          "value": "White"
         },
         {
           "@type": "PropertyValue",
@@ -126,22 +126,22 @@
         {
           "@type": "PropertyValue",
           "name": "Comfort Score",
-          "value": "70"
+          "value": "79"
         },
         {
           "@type": "PropertyValue",
           "name": "Durability Score",
-          "value": "68"
+          "value": "75"
         },
         {
           "@type": "PropertyValue",
           "name": "Breathability Score",
-          "value": "60"
+          "value": "75"
         },
         {
           "@type": "PropertyValue",
           "name": "Overall Score",
-          "value": "66"
+          "value": "76.33333333333333"
         }
       ],
       "image": [
@@ -186,7 +186,7 @@
         ]
       }
     },
-    "created_at": "2026-02-15T18:02:04.392Z",
-    "last_updated": "2026-02-15T18:02:04.392Z"
+    "created_at": "2026-02-19T04:12:20.300Z",
+    "last_updated": "2026-02-19T04:12:20.300Z"
   }
 }
