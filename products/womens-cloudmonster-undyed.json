@@ -1,0 +1,190 @@
+{
+  "metadata": {
+    "product_id": "B0G5XC73TW",
+    "slug": "womens-cloudmonster-undyed",
+    "generated_at": "2026-02-19T04:12:24.340Z",
+    "source": "google_sheets",
+    "version": "1.0",
+    "urls": {
+      "product": "https://www.shoesonwhite.com/2026/02/womens-cloudmonster-undyed.html",
+      "gender": "https://www.shoesonwhite.com/p/women.html",
+      "brand": "https://www.shoesonwhite.com/p/on-cloud.html",
+      "subcategory": "https://www.shoesonwhite.com/p/athletic.html"
+    }
+  },
+  "product": {
+    "product_id": "B0G5XC73TW",
+    "asin": "B0G5XC73TW",
+    "product_title": "Women's Cloudmonster (Undyed White/Flame)",
+    "brand": "On Cloud",
+    "category": "Shoes",
+    "subcategory": "Athletic",
+    "color": "White",
+    "gender": "Women",
+    "upper_material": "Mesh (Synthetic-and-Fabric)",
+    "sole_material": "Rubber",
+    "outer_material": "Mesh",
+    "lining": "Synthetic",
+    "closure_type": "Lace-Up",
+    "cushioning": "Helion Superfoam with CloudTec Cushioning for a soft, powerful, and responsive feel.",
+    "breathability": "High, with a focus on airflow through the upper.",
+    "amazon_url": "https://amzn.to/3Mj2DhP",
+    "price_min": 159.95,
+    "price_max": 209.99,
+    "currency": "USD",
+    "rating": 4.5,
+    "review_count": 1232,
+    "comfort_score": 88,
+    "durability_score": 85,
+    "breathability_score": 87,
+    "overall_score": 86.66666666666667,
+    "short_description": "Make a bold statement with the Women's Cloudmonster (Undyed White/Flame) , a sneaker that delivers a truly unique and powerful ride with a striking, eco-conscious design. This shoe is for the woman who craves maximum cushioning with an explosive, bouncy feel, all wrapped in a clean Undyed White upper with vibrant Flame accents. The Cloudmonster gets its character from the largest CloudTec? pods ever fitted to an On shoe. These massive pods are engineered to provide an unprecedented level of impact absorption, making every landing feel incredibly soft. But the real magic happens on toe-off. The pods, combined with a specially tuned Speedboard?, work together to create a powerful, propulsive sensation, launching you forward with a unique, energetic bounce. This \"monster\" ride is both incredibly cushioned and surprisingly responsive. The upper is crafted from a lightweight, highly breathable mesh that offers a comfortable, secure fit. The Undyed White upper highlights On's commitment to reducing water and chemical use, making this a choice you can feel good about. For those seeking the ultimate in cushioned, energetic comfort with a conscience, the Women's Cloudmonster (Undyed White/Flame) delivers.",
+    "about_this_item": "Rubber sole; Reflective logo at sides; Removable insole; Cushioned collar; Designed for road running; Round toe construction.",
+    "primary_keyword": "women's road running shoes",
+    "slug": "womens-cloudmonster-undyed",
+    "url": "https://www.shoesonwhite.com/2026/02/womens-cloudmonster-undyed.html",
+    "gender_url": "https://www.shoesonwhite.com/p/women.html",
+    "brand_url": "https://www.shoesonwhite.com/p/on-cloud.html",
+    "subcategory_url": "https://www.shoesonwhite.com/p/athletic.html",
+    "image_urls": [
+      "https://m.media-amazon.com/images/I/61mNG4d3ulL._AC_SY695_.jpg",
+      "https://m.media-amazon.com/images/I/610kVCgK1JL._AC_SY695_.jpg",
+      "https://m.media-amazon.com/images/I/61auxAGHYCL._AC_SY695_.jpg",
+      "https://m.media-amazon.com/images/I/61dnyykDVYL._AC_SY695_.jpg",
+      "https://m.media-amazon.com/images/I/611U2jUXGkL._AC_SY695_.jpg",
+      "https://m.media-amazon.com/images/I/61J8zU386+L._AC_SY695_.jpg"
+    ],
+    "main_image": "https://m.media-amazon.com/images/I/61mNG4d3ulL._AC_SY695_.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://www.shoesonwhite.com/#product-B0G5XC73TW",
+      "name": "Women's Cloudmonster (Undyed White/Flame)",
+      "description": "Make a bold statement with the Women's Cloudmonster (Undyed White/Flame) , a sneaker that delivers a truly unique and powerful ride with a striking, eco-conscious design. This shoe is for the woman who craves maximum cushioning with an explosive, bouncy feel, all wrapped in a clean Undyed White upper with vibrant Flame accents. The Cloudmonster gets its character from the largest CloudTec? pods ever fitted to an On shoe. These massive pods are engineered to provide an unprecedented level of impact absorption, making every landing feel incredibly soft. But the real magic happens on toe-off. The pods, combined with a specially tuned Speedboard?, work together to create a powerful, propulsive sensation, launching you forward with a unique, energetic bounce. This \"monster\" ride is both incredibly cushioned and surprisingly responsive. The upper is crafted from a lightweight, highly breathable mesh that offers a comfortable, secure fit. The Undyed White upper highlights On's commitment to reducing water and chemical use, making this a choice you can feel good about. For those seeking the ultimate in cushioned, energetic comfort with a conscience, the Women's Cloudmonster (Undyed White/Flame) delivers.",
+      "url": "https://www.shoesonwhite.com/2026/02/womens-cloudmonster-undyed.html",
+      "sku": "B0G5XC73TW",
+      "mpn": "B0G5XC73TW",
+      "brand": {
+        "@type": "Brand",
+        "name": "On Cloud",
+        "url": "https://www.shoesonwhite.com/p/on-cloud.html"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.shoesonwhite.com/2026/02/womens-cloudmonster-undyed.html",
+        "priceCurrency": "USD",
+        "price": 159.95,
+        "priceValidUntil": "2027-02-19",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "reviewCount": 1232,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Athletic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Women"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Color",
+          "value": "White"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Mesh (Synthetic-and-Fabric)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Closure Type",
+          "value": "Lace-Up"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Comfort Score",
+          "value": "88"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Durability Score",
+          "value": "85"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Breathability Score",
+          "value": "87"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Overall Score",
+          "value": "86.66666666666667"
+        }
+      ],
+      "image": [
+        "https://m.media-amazon.com/images/I/61mNG4d3ulL._AC_SY695_.jpg",
+        "https://m.media-amazon.com/images/I/610kVCgK1JL._AC_SY695_.jpg",
+        "https://m.media-amazon.com/images/I/61auxAGHYCL._AC_SY695_.jpg",
+        "https://m.media-amazon.com/images/I/61dnyykDVYL._AC_SY695_.jpg",
+        "https://m.media-amazon.com/images/I/611U2jUXGkL._AC_SY695_.jpg",
+        "https://m.media-amazon.com/images/I/61J8zU386+L._AC_SY695_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.shoesonwhite.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Women",
+            "item": "https://www.shoesonwhite.com/p/women.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "On Cloud",
+            "item": "https://www.shoesonwhite.com/p/on-cloud.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Athletic",
+            "item": "https://www.shoesonwhite.com/p/athletic.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Women's Cloudmonster (Undyed White/Flame)",
+            "item": "https://www.shoesonwhite.com/2026/02/womens-cloudmonster-undyed.html"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-02-19T04:12:20.293Z",
+    "last_updated": "2026-02-19T04:12:20.293Z"
+  }
+}
