@@ -2,7 +2,7 @@
   "metadata": {
     "product_id": "B0D7YTJBMF",
     "slug": "skechers-womens-summits",
-    "generated_at": "2026-02-15T18:02:14.579Z",
+    "generated_at": "2026-02-19T04:12:53.750Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
@@ -19,27 +19,26 @@
     "brand": "Skechers",
     "category": "Shoes",
     "subcategory": "Sneakers",
-    "color": "White Shoes",
+    "color": "White",
     "gender": "Women",
-    "weight_lbs": "N/A",
     "upper_material": "Mesh Knit ",
     "sole_material": "Rubber",
     "outer_material": "Canvas",
     "lining": "N/A",
     "closure_type": "Bungee Lacing (Slip-On)",
-    "cushioning": "Memory Foam insole, Lightweight shock-absorbing midsole",
-    "breathability": "Athletic Mesh",
+    "cushioning": "Luxurious Memory Foam insole molds to the foot for plush, customized, all-day comfort.",
+    "breathability": "Breathable mesh upper promotes good airflow, enhanced by the sock-like fit.",
     "amazon_url": "https://amzn.to/3NYVVxQ",
     "price_min": 40,
     "price_max": 70,
     "currency": "USD",
     "rating": 4.5,
     "review_count": 72051,
-    "comfort_score": 82,
-    "durability_score": 81,
-    "breathability_score": 78,
-    "overall_score": 80.33333333333333,
-    "short_description": "Slip-on athletic sneaker with memory foam and mesh upper. Machine washable.",
+    "comfort_score": 90,
+    "durability_score": 78,
+    "breathability_score": 82,
+    "overall_score": 83.33333333333333,
+    "short_description": "Experience the ultimate in easy-wearing comfort with the Skechers Women's Summits Sneaker. Designed for the active woman who values convenience and all-day cushioning, these slip-on athletic sneakers are a game-changer for your daily routine. The shoe features a breathable mesh upper that flexes with your foot, providing a comfortable, sock-like fit that's perfect for wearing with or without socks. The innovative slip-on design with a stretch-lace front allows for effortless on-and-off access while ensuring a secure, personalized fit. Inside, the luxurious Memory Foam insole molds to the unique contours of your foot, delivering plush cushioning and support with every step. A durable, flexible outsole provides reliable traction. One of the standout features is that the Skechers Summits are machine washable, making them incredibly easy to keep fresh and clean. For a shoe that combines slip-on convenience, memory foam comfort, and easy-care practicality, the Skechers Summits are the perfect choice for your busy lifestyle.",
     "about_this_item": "ATHLETIC COMFORT DESIGN: Soft mesh knit upper with bungee lacing system... PREMIUM CUSHIONING: Memory Foam cushioned insole... VERSATILE PERFORMANCE... EASY MAINTENANCE... RELIABLE TRACTION...",
     "primary_keyword": "slip on sneakers for women, memory foam shoes",
     "slug": "skechers-womens-summits",
@@ -62,7 +61,7 @@
       "@type": "Product",
       "@id": "https://www.shoesonwhite.com/#product-B0D7YTJBMF",
       "name": "Skechers Women's Summits Sneaker",
-      "description": "Slip-on athletic sneaker with memory foam and mesh upper. Machine washable.",
+      "description": "Experience the ultimate in easy-wearing comfort with the Skechers Women's Summits Sneaker. Designed for the active woman who values convenience and all-day cushioning, these slip-on athletic sneakers are a game-changer for your daily routine. The shoe features a breathable mesh upper that flexes with your foot, providing a comfortable, sock-like fit that's perfect for wearing with or without socks. The innovative slip-on design with a stretch-lace front allows for effortless on-and-off access while ensuring a secure, personalized fit. Inside, the luxurious Memory Foam insole molds to the unique contours of your foot, delivering plush cushioning and support with every step. A durable, flexible outsole provides reliable traction. One of the standout features is that the Skechers Summits are machine washable, making them incredibly easy to keep fresh and clean. For a shoe that combines slip-on convenience, memory foam comfort, and easy-care practicality, the Skechers Summits are the perfect choice for your busy lifestyle.",
       "url": "https://www.shoesonwhite.com/2026/02/skechers-womens-summits.html",
       "sku": "B0D7YTJBMF",
       "mpn": "B0D7YTJBMF",
@@ -76,7 +75,7 @@
         "url": "https://www.shoesonwhite.com/2026/02/skechers-womens-summits.html",
         "priceCurrency": "USD",
         "price": 40,
-        "priceValidUntil": "2027-02-15",
+        "priceValidUntil": "2027-02-19",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -109,7 +108,7 @@
         {
           "@type": "PropertyValue",
           "name": "Color",
-          "value": "White Shoes"
+          "value": "White"
         },
         {
           "@type": "PropertyValue",
@@ -124,22 +123,22 @@
         {
           "@type": "PropertyValue",
           "name": "Comfort Score",
-          "value": "82"
+          "value": "90"
         },
         {
           "@type": "PropertyValue",
           "name": "Durability Score",
-          "value": "81"
-        },
-        {
-          "@type": "PropertyValue",
-          "name": "Breathability Score",
           "value": "78"
         },
         {
           "@type": "PropertyValue",
+          "name": "Breathability Score",
+          "value": "82"
+        },
+        {
+          "@type": "PropertyValue",
           "name": "Overall Score",
-          "value": "80.33333333333333"
+          "value": "83.33333333333333"
         }
       ],
       "image": [
@@ -187,7 +186,7 @@
         ]
       }
     },
-    "created_at": "2026-02-15T18:02:04.389Z",
-    "last_updated": "2026-02-15T18:02:04.389Z"
+    "created_at": "2026-02-19T04:12:20.296Z",
+    "last_updated": "2026-02-19T04:12:20.296Z"
   }
 }
