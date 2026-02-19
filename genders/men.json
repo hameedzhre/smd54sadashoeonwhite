@@ -3,8 +3,8 @@
     "name": "Men",
     "slug": "men",
     "url": "https://www.shoesonwhite.com/p/men.html",
-    "generated_at": "2026-02-15T18:02:52.984Z",
-    "total_products": 10,
+    "generated_at": "2026-02-19T04:15:45.856Z",
+    "total_products": 30,
     "site_url": "https://www.shoesonwhite.com"
   },
   "gender": {
@@ -15,14 +15,24 @@
   },
   "products": [
     {
-      "product_id": "B0DCV7BV1F",
-      "title": "VAMJAM Men's Running Shoes Fashion Sneakers - Lightweight Breathable Flying Knitting Lace Up Mesh Walking Shoes Workout Casual Sports Shoes",
-      "slug": "vamjam-mens-running-shoes-fashion-sneakers-lightweight-breathable-flying",
-      "url": "https://www.shoesonwhite.com/2026/02/vamjam-mens-running-shoes-fashion-sneakers-lightweight-breathable-flying.html",
-      "brand": "VAMJAM",
-      "price_min": 32.99,
-      "image": "https://m.media-amazon.com/images/I/619BpI3vxQL._AC_SY500_.jpg",
-      "overall_score": 80.66666666666667
+      "product_id": "B0G2H7TS6S",
+      "title": "On Men's Cloud 5 Sneakers",
+      "slug": "on-mens-cloud-5",
+      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloud-5.html",
+      "brand": "On Cloud",
+      "price_min": 177,
+      "image": "https://m.media-amazon.com/images/I/61PoUb5z51L._AC_SX625_.jpg",
+      "overall_score": 89.33333333333333
+    },
+    {
+      "product_id": "B0FXPZLNS2",
+      "title": "On Men's Cloudmonster Sneakers",
+      "slug": "on-mens-cloudmonster",
+      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloudmonster.html",
+      "brand": "On Cloud",
+      "price_min": 125,
+      "image": "https://m.media-amazon.com/images/I/51V8egvLcuL._AC_SY695_.jpg",
+      "overall_score": 86.66666666666667
     },
     {
       "product_id": "B0FCK8MX1X",
@@ -32,47 +42,97 @@
       "brand": "Under Armour",
       "price_min": 54.99,
       "image": "https://m.media-amazon.com/images/I/71hvGJOasWL._AC_SY500_.jpg",
-      "overall_score": 83.66666666666667
+      "overall_score": 84
     },
     {
-      "product_id": "B08176RC33",
-      "title": "Tommy Hilfiger Men's Pandora Sneaker",
-      "slug": "tommy-hilfiger-mens-pandora",
-      "url": "https://www.shoesonwhite.com/2026/02/tommy-hilfiger-mens-pandora.html",
-      "brand": "Tommy Hilfiger",
-      "price_min": 32.36,
-      "image": "https://m.media-amazon.com/images/I/61xSQzVrrhL._AC_SY500_.jpg",
-      "overall_score": 72
+      "product_id": "B0FCG939QG",
+      "title": "On Mens The Roger Advantage 1",
+      "slug": "on-mens-the-roger-advantage-1",
+      "url": "https://www.shoesonwhite.com/2026/02/on-mens-the-roger-advantage-1.html",
+      "brand": "On Cloud",
+      "price_min": 119,
+      "image": "https://m.media-amazon.com/images/I/418JZrlXrOL._AC_SX625_.jpg",
+      "overall_score": 83.33333333333333
     },
     {
-      "product_id": "B004C0592I",
-      "title": "Reebok Court Advance Sneakers for Men Shoes",
-      "slug": "reebok-court-advance-sneakers-for-men",
-      "url": "https://www.shoesonwhite.com/2026/02/reebok-court-advance-sneakers-for-men.html",
-      "brand": "Reebok",
-      "price_min": 49.99,
-      "image": "https://m.media-amazon.com/images/I/61UkNHUu8jL._AC_SY500_.jpg",
-      "overall_score": 75.33333333333333
+      "product_id": "B0F9HFCJYT",
+      "title": "On Men's Cloud X 4 Sneakers",
+      "slug": "on-mens-cloud-x-4",
+      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloud-x-4.html",
+      "brand": "On Cloud",
+      "price_min": 141.9,
+      "image": "https://m.media-amazon.com/images/I/71WZtdjMfSL._AC_SX500_.jpg",
+      "overall_score": 88
     },
     {
-      "product_id": "B093XKL7WZ",
-      "title": "New Balance Men's 608 V5 Casual Comfort Cross Trainer",
-      "slug": "new-balance-mens-608-v5-casual-comfort-cross",
-      "url": "https://www.shoesonwhite.com/2026/02/new-balance-mens-608-v5-casual-comfort-cross.html",
-      "brand": "New Balance",
-      "price_min": 42.43,
-      "image": "https://m.media-amazon.com/images/I/61p6oqRqYQL._AC_SX500_.jpg",
-      "overall_score": 76.33333333333333
+      "product_id": "B0F9HBH393",
+      "title": "On Men's Cloudnova 2 Sneakers",
+      "slug": "on-mens-cloudnova-2",
+      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloudnova-2.html",
+      "brand": "On Cloud",
+      "price_min": 165,
+      "image": "https://m.media-amazon.com/images/I/51dugKySO9L._AC_SY625_.jpg",
+      "overall_score": 88
     },
     {
-      "product_id": "B0D8L25VM2",
-      "title": "Lugz Mens Flip Classic Canvas Sneaker",
-      "slug": "lugz-mens-flip-classic-canvas",
-      "url": "https://www.shoesonwhite.com/2026/02/lugz-mens-flip-classic-canvas.html",
-      "brand": "Lugz",
-      "price_min": 29.97,
-      "image": "https://m.media-amazon.com/images/I/41umvcrLRqL._AC_SX500_.jpg",
-      "overall_score": 74
+      "product_id": "B0DMYCF9V0",
+      "title": "On Mens Cloudmonster 2",
+      "slug": "on-mens-cloudmonster-2",
+      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloudmonster-2.html",
+      "brand": "On Cloud",
+      "price_min": 251,
+      "image": "https://m.media-amazon.com/images/I/71BIO86CufL._AC_SX500_.jpg",
+      "overall_score": 87.66666666666667
+    },
+    {
+      "product_id": "B0DJHC6VCN",
+      "title": "On Mens Cloudeclipse",
+      "slug": "on-mens-cloudeclipse",
+      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloudeclipse.html",
+      "brand": "On Cloud",
+      "price_min": 114.6,
+      "image": "https://m.media-amazon.com/images/I/61C69EcUnpL._AC_SY500_.jpg",
+      "overall_score": 84.66666666666667
+    },
+    {
+      "product_id": "B0DGQC9JD0",
+      "title": "On Mens Cloudflow 4",
+      "slug": "on-mens-cloudflow-4",
+      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloudflow-4.html",
+      "brand": "On Cloud",
+      "price_min": 94.99,
+      "image": "https://m.media-amazon.com/images/I/61s-1NDKPnL._AC_SX625_.jpg",
+      "overall_score": 86.33333333333333
+    },
+    {
+      "product_id": "B0DF6BPXM8",
+      "title": "On Men's Cloud 6 Sneakers",
+      "slug": "on-mens-cloud-6",
+      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloud-6.html",
+      "brand": "On Cloud",
+      "price_min": 157.04,
+      "image": "https://m.media-amazon.com/images/I/615Sy7Z9+lL._AC_SY625_.jpg",
+      "overall_score": 88.33333333333333
+    },
+    {
+      "product_id": "B0DCV7BV1F",
+      "title": "VAMJAM Men's Running Shoes Fashion Sneakers - Lightweight Breathable Flying Knitting Lace Up Mesh Walking Shoes Workout Casual Sports Shoes",
+      "slug": "vamjam-mens-running-shoes-fashion-sneakers-lightweight-breathable-flying",
+      "url": "https://www.shoesonwhite.com/2026/02/vamjam-mens-running-shoes-fashion-sneakers-lightweight-breathable-flying.html",
+      "brand": "VAMJAM",
+      "price_min": 32.99,
+      "image": "https://m.media-amazon.com/images/I/619BpI3vxQL._AC_SY500_.jpg",
+      "overall_score": 84.33333333333333
+    },
+    {
+      "product_id": "B0DCT1PDCY",
+      "title": "On Men's Cloudrunner 2 Sneakers",
+      "slug": "on-mens-cloudrunner-2",
+      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloudrunner-2.html",
+      "brand": "On Cloud",
+      "price_min": 142.7,
+      "image": "https://m.media-amazon.com/images/I/51rTZmmva-L._AC_SY695_.jpg",
+      "overall_score": 88.66666666666667
     },
     {
       "product_id": "B0DB22DYWJ",
@@ -82,7 +142,117 @@
       "brand": "Lugz",
       "price_min": 29.97,
       "image": "https://m.media-amazon.com/images/I/41dzGp40fSL._AC_SX500_.jpg",
-      "overall_score": 66.33333333333333
+      "overall_score": 76.66666666666667
+    },
+    {
+      "product_id": "B0D8L25VM2",
+      "title": "Lugz Mens Flip Classic Canvas Sneaker",
+      "slug": "lugz-mens-flip-classic-canvas",
+      "url": "https://www.shoesonwhite.com/2026/02/lugz-mens-flip-classic-canvas.html",
+      "brand": "Lugz",
+      "price_min": 29.97,
+      "image": "https://m.media-amazon.com/images/I/41umvcrLRqL._AC_SX500_.jpg",
+      "overall_score": 77.33333333333333
+    },
+    {
+      "product_id": "B0D54RRYTL",
+      "title": "On Men's Cloud 6 WP Sneakers",
+      "slug": "on-mens-cloud-6-wp",
+      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloud-6-wp.html",
+      "brand": "On Cloud",
+      "price_min": 159.99,
+      "image": "https://m.media-amazon.com/images/I/61wyhJI8FtL._AC_SY500_.jpg",
+      "overall_score": 80.66666666666667
+    },
+    {
+      "product_id": "B0D54RD36Q",
+      "title": "On Men's Cloudswift 4 Sneakers",
+      "slug": "on-mens-cloudswift-4",
+      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloudswift-4.html",
+      "brand": "On Cloud",
+      "price_min": 135,
+      "image": "https://m.media-amazon.com/images/I/61sYMdRVpPL._AC_SY500_.jpg",
+      "overall_score": 86.33333333333333
+    },
+    {
+      "product_id": "B0CSR8YXBP",
+      "title": "ON mens Running Shoe",
+      "slug": "on-mens-running-shoe",
+      "url": "https://www.shoesonwhite.com/2026/02/on-mens-running-shoe.html",
+      "brand": "On Cloud",
+      "price_min": 164,
+      "image": "https://m.media-amazon.com/images/I/41Vx9o7QiUL._AC_SY500_.jpg",
+      "overall_score": 83.33333333333333
+    },
+    {
+      "product_id": "B0CLYXM9H1",
+      "title": "On Men's Cloudswift Sneakers",
+      "slug": "on-mens-cloudswift",
+      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloudswift.html",
+      "brand": "On Cloud",
+      "price_min": 158.6,
+      "image": "https://m.media-amazon.com/images/I/61d3LHOODTL._AC_SX625_.jpg",
+      "overall_score": 85
+    },
+    {
+      "product_id": "B0CHHQD5QP",
+      "title": "ON Running",
+      "slug": "on",
+      "url": "https://www.shoesonwhite.com/2026/02/on.html",
+      "brand": "On Cloud",
+      "price_min": 218.99,
+      "image": "https://m.media-amazon.com/images/I/51QFUdAipqL._AC_SY695_.jpg",
+      "overall_score": 81.66666666666667
+    },
+    {
+      "product_id": "B0BH5MJPGS",
+      "title": "Bruno Marc Men's KnitFlex Breeze Mesh Sneakers Oxford Lace-up Lightweight Casual Walking Shoes",
+      "slug": "bruno-marc-mens-knitflex-breeze-mesh-sneakers-oxford-lace-up-lightweight-casual-",
+      "url": "https://www.shoesonwhite.com/2026/02/bruno-marc-mens-knitflex-breeze-mesh-sneakers-oxford-lace-up-lightweight-casual-.html",
+      "brand": "Bruno Marc",
+      "price_min": 38.99,
+      "image": "https://m.media-amazon.com/images/I/71O8T-D-fpL._AC_SY500_.jpg",
+      "overall_score": 84.33333333333333
+    },
+    {
+      "product_id": "B0B2B1SG98",
+      "title": "On Men's Cloud 5 Coast Sneakers",
+      "slug": "on-mens-cloud-5-coast",
+      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloud-5-coast.html",
+      "brand": "On Cloud",
+      "price_min": 188,
+      "image": "https://m.media-amazon.com/images/I/41m8id5rrnL._AC_SY500_.jpg",
+      "overall_score": 85
+    },
+    {
+      "product_id": "B0B29M2ZHY",
+      "title": "On Men's Cloudgo Sneakers",
+      "slug": "on-mens-cloudgo",
+      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloudgo.html",
+      "brand": "On Cloud",
+      "price_min": 150,
+      "image": "https://m.media-amazon.com/images/I/71PRyDZreSL._AC_SY500_.jpg",
+      "overall_score": 81.66666666666667
+    },
+    {
+      "product_id": "B09Z36P13X",
+      "title": "On Men's Cloud 5 Sneakers",
+      "slug": "on-mens-cloud-5",
+      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloud-5.html",
+      "brand": "On Cloud",
+      "price_min": 218.99,
+      "image": "https://m.media-amazon.com/images/I/61CXzjAR9tL._AC_SX625_.jpg",
+      "overall_score": 89.33333333333333
+    },
+    {
+      "product_id": "B093XKL7WZ",
+      "title": "New Balance Men's 608 V5 Casual Comfort Cross Trainer",
+      "slug": "new-balance-mens-608-v5-casual-comfort-cross",
+      "url": "https://www.shoesonwhite.com/2026/02/new-balance-mens-608-v5-casual-comfort-cross.html",
+      "brand": "New Balance",
+      "price_min": 42.43,
+      "image": "https://m.media-amazon.com/images/I/61p6oqRqYQL._AC_SX500_.jpg",
+      "overall_score": 77
     },
     {
       "product_id": "B0922CS587",
@@ -95,24 +265,54 @@
       "overall_score": 75.33333333333333
     },
     {
-      "product_id": "B0BH5MJPGS",
-      "title": "Bruno Marc Men's KnitFlex Breeze Mesh Sneakers Oxford Lace-up Lightweight Casual Walking Shoes",
-      "slug": "bruno-marc-mens-knitflex-breeze-mesh-sneakers-oxford-lace-up-lightweight-casual-",
-      "url": "https://www.shoesonwhite.com/2026/02/bruno-marc-mens-knitflex-breeze-mesh-sneakers-oxford-lace-up-lightweight-casual-.html",
-      "brand": "Bruno Marc",
-      "price_min": 38.99,
-      "image": "https://m.media-amazon.com/images/I/71O8T-D-fpL._AC_SY500_.jpg",
-      "overall_score": 84
-    },
-    {
       "product_id": "B08S8VR3L2",
       "title": "Adidas Men's Advantage Sneaker",
       "slug": "adidas-mens-advantage",
       "url": "https://www.shoesonwhite.com/2026/02/adidas-mens-advantage.html",
-      "brand": "adidas",
+      "brand": "Adidas",
       "price_min": 36.42,
       "image": "https://m.media-amazon.com/images/I/61FhVYvcQjL._AC_SX500_.jpg",
-      "overall_score": 78.66666666666667
+      "overall_score": 75
+    },
+    {
+      "product_id": "B08176RC33",
+      "title": "Tommy Hilfiger Men's Pandora Sneaker",
+      "slug": "tommy-hilfiger-mens-pandora",
+      "url": "https://www.shoesonwhite.com/2026/02/tommy-hilfiger-mens-pandora.html",
+      "brand": "Tommy Hilfiger",
+      "price_min": 32.36,
+      "image": "https://m.media-amazon.com/images/I/61xSQzVrrhL._AC_SY500_.jpg",
+      "overall_score": 74.33333333333333
+    },
+    {
+      "product_id": "B06Y5LCWSV",
+      "title": "On Men's Cloud X Sneakers",
+      "slug": "on-mens-cloud-x",
+      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloud-x.html",
+      "brand": "On Cloud",
+      "price_min": 190,
+      "image": "https://m.media-amazon.com/images/I/51QFUdAipqL._AC_SY695_.jpg",
+      "overall_score": 87.33333333333333
+    },
+    {
+      "product_id": "B0158HFU0Y",
+      "title": "On Men's The Roger Advantage Shoes",
+      "slug": "on-mens-the-roger-advantage",
+      "url": "https://www.shoesonwhite.com/2026/02/on-mens-the-roger-advantage.html",
+      "brand": "On Cloud",
+      "price_min": 153,
+      "image": "https://m.media-amazon.com/images/I/61GfYgYs0EL._AC_SY695_.jpg",
+      "overall_score": 82.33333333333333
+    },
+    {
+      "product_id": "B004C0592I",
+      "title": "Reebok Court Advance Sneakers for Men Shoes",
+      "slug": "reebok-court-advance-sneakers-for-men",
+      "url": "https://www.shoesonwhite.com/2026/02/reebok-court-advance-sneakers-for-men.html",
+      "brand": "Reebok",
+      "price_min": 49.99,
+      "image": "https://m.media-amazon.com/images/I/61UkNHUu8jL._AC_SY500_.jpg",
+      "overall_score": 78
     }
   ]
 }
