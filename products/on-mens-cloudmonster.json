@@ -1,0 +1,191 @@
+{
+  "metadata": {
+    "product_id": "B0FXPZLNS2",
+    "slug": "on-mens-cloudmonster",
+    "generated_at": "2026-02-19T04:12:25.931Z",
+    "source": "google_sheets",
+    "version": "1.0",
+    "urls": {
+      "product": "https://www.shoesonwhite.com/2026/02/on-mens-cloudmonster.html",
+      "gender": "https://www.shoesonwhite.com/p/men.html",
+      "brand": "https://www.shoesonwhite.com/p/on-cloud.html",
+      "subcategory": "https://www.shoesonwhite.com/p/athletic.html"
+    }
+  },
+  "product": {
+    "product_id": "B0FXPZLNS2",
+    "asin": "B0FXPZLNS3",
+    "product_title": "On Men's Cloudmonster Sneakers",
+    "brand": "On Cloud",
+    "category": "Shoes",
+    "subcategory": "Athletic",
+    "color": "White",
+    "gender": "Men",
+    "weight_lbs": 1,
+    "upper_material": "Synthetic-and-rubber",
+    "sole_material": "Rubber",
+    "outer_material": "Performance mesh",
+    "lining": "-",
+    "closure_type": "Lace-up",
+    "cushioning": "Helion superfoam with large CloudTec pods for maximum, energetic cushioning.",
+    "breathability": "Highly breathable upper for a cool and comfortable feel.",
+    "amazon_url": "https://amzn.to/4aYrlxa",
+    "price_min": 125,
+    "price_max": 316,
+    "currency": "USD",
+    "rating": 4.6,
+    "review_count": 2441,
+    "comfort_score": 88,
+    "durability_score": 85,
+    "breathability_score": 87,
+    "overall_score": 86.66666666666667,
+    "short_description": "Experience a truly unique and powerful ride with the On Men's Cloudmonster Sneakers. This shoe is unlike anything On has created before, designed for runners and enthusiasts who crave maximum cushioning with an explosive, bouncy feel. The Cloudmonster gets its name and its character from the largest CloudTec? pods ever fitted to an On shoe. These massive, visible pods are engineered to provide an unprecedented level of impact absorption, making every landing feel incredibly soft and protected. But the real magic happens on toe-off. The pods, combined with a specially tuned Speedboard?, work together to create a powerful, propulsive sensation, launching you forward with a unique, energetic bounce. This \"monster\" ride is both incredibly cushioned and surprisingly responsive, making long distances feel effortless and easy runs feel exhilarating. The upper is crafted from a lightweight, highly breathable mesh that offers a comfortable, secure fit. For those seeking the ultimate in cushioned, energetic comfort, the On Men's Cloudmonster delivers a monstrously good time with every stride.",
+    "about_this_item": "Rubber sole, Removable insole, Cushioned collar, Designed for running, Round toe",
+    "slug": "on-mens-cloudmonster",
+    "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloudmonster.html",
+    "gender_url": "https://www.shoesonwhite.com/p/men.html",
+    "brand_url": "https://www.shoesonwhite.com/p/on-cloud.html",
+    "subcategory_url": "https://www.shoesonwhite.com/p/athletic.html",
+    "image_urls": [
+      "https://m.media-amazon.com/images/I/51V8egvLcuL._AC_SY695_.jpg",
+      "https://m.media-amazon.com/images/I/51R7NkN5NIL._AC_SY695_.jpg",
+      "https://m.media-amazon.com/images/I/616kORKoloL._AC_SY695_.jpg",
+      "https://m.media-amazon.com/images/I/61Ys0qll2xL._AC_SY695_.jpg"
+    ],
+    "main_image": "https://m.media-amazon.com/images/I/51V8egvLcuL._AC_SY695_.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://www.shoesonwhite.com/#product-B0FXPZLNS2",
+      "name": "On Men's Cloudmonster Sneakers",
+      "description": "Experience a truly unique and powerful ride with the On Men's Cloudmonster Sneakers. This shoe is unlike anything On has created before, designed for runners and enthusiasts who crave maximum cushioning with an explosive, bouncy feel. The Cloudmonster gets its name and its character from the largest CloudTec? pods ever fitted to an On shoe. These massive, visible pods are engineered to provide an unprecedented level of impact absorption, making every landing feel incredibly soft and protected. But the real magic happens on toe-off. The pods, combined with a specially tuned Speedboard?, work together to create a powerful, propulsive sensation, launching you forward with a unique, energetic bounce. This \"monster\" ride is both incredibly cushioned and surprisingly responsive, making long distances feel effortless and easy runs feel exhilarating. The upper is crafted from a lightweight, highly breathable mesh that offers a comfortable, secure fit. For those seeking the ultimate in cushioned, energetic comfort, the On Men's Cloudmonster delivers a monstrously good time with every stride.",
+      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloudmonster.html",
+      "sku": "B0FXPZLNS2",
+      "mpn": "B0FXPZLNS3",
+      "brand": {
+        "@type": "Brand",
+        "name": "On Cloud",
+        "url": "https://www.shoesonwhite.com/p/on-cloud.html"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloudmonster.html",
+        "priceCurrency": "USD",
+        "price": 125,
+        "priceValidUntil": "2027-02-19",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.6,
+        "reviewCount": 2441,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Athletic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Color",
+          "value": "White"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Synthetic-and-rubber"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Closure Type",
+          "value": "Lace-up"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Weight",
+          "value": "1"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Comfort Score",
+          "value": "88"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Durability Score",
+          "value": "85"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Breathability Score",
+          "value": "87"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Overall Score",
+          "value": "86.66666666666667"
+        }
+      ],
+      "image": [
+        "https://m.media-amazon.com/images/I/51V8egvLcuL._AC_SY695_.jpg",
+        "https://m.media-amazon.com/images/I/51R7NkN5NIL._AC_SY695_.jpg",
+        "https://m.media-amazon.com/images/I/616kORKoloL._AC_SY695_.jpg",
+        "https://m.media-amazon.com/images/I/61Ys0qll2xL._AC_SY695_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.shoesonwhite.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Men",
+            "item": "https://www.shoesonwhite.com/p/men.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "On Cloud",
+            "item": "https://www.shoesonwhite.com/p/on-cloud.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Athletic",
+            "item": "https://www.shoesonwhite.com/p/athletic.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "On Men's Cloudmonster Sneakers",
+            "item": "https://www.shoesonwhite.com/2026/02/on-mens-cloudmonster.html"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-02-19T04:12:20.294Z",
+    "last_updated": "2026-02-19T04:12:20.294Z"
+  }
+}
