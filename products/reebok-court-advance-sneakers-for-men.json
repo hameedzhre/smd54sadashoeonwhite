@@ -2,7 +2,7 @@
   "metadata": {
     "product_id": "B004C0592I",
     "slug": "reebok-court-advance-sneakers-for-men",
-    "generated_at": "2026-02-15T18:02:22.488Z",
+    "generated_at": "2026-02-19T04:15:43.454Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
@@ -19,7 +19,7 @@
     "brand": "Reebok",
     "category": "Shoes",
     "subcategory": "Sneakers",
-    "color": "White Shoes",
+    "color": "White",
     "gender": "Men",
     "weight_lbs": 4.21,
     "upper_material": "Leather",
@@ -27,19 +27,19 @@
     "outer_material": "Leather",
     "lining": "OrthoLite",
     "closure_type": "Lace-up",
-    "cushioning": "Padded collar + DMX midsole + memory foam",
-    "breathability": "Perforated",
+    "cushioning": "Lightweight EVA midsole provides dependable cushioning for everyday casual wear.",
+    "breathability": "Durable leather upper with perforated toe box offers slightly improved, but still limited, airflow.",
     "amazon_url": "https://amzn.to/4qVcB7U",
     "price_min": 49.99,
     "price_max": 60,
     "currency": "USD",
     "rating": 4.5,
     "review_count": 8867,
-    "comfort_score": 73,
-    "durability_score": 78,
-    "breathability_score": 75,
-    "overall_score": 75.33333333333333,
-    "short_description": "Classic Reebok men's tennis-inspired casual sneakers",
+    "comfort_score": 83,
+    "durability_score": 86,
+    "breathability_score": 65,
+    "overall_score": 78,
+    "short_description": "Channel timeless tennis style with the Reebok Court Advance Sneakers for Men. These casual shoes take inspiration from Reebok's rich heritage in tennis, reimagining classic court aesthetics for the modern man's everyday wardrobe. The shoe features a clean, low-profile silhouette with a durable leather upper, offering a premium look and feel that only gets better with age. Perforated details on the toe box add a touch of classic tennis style and promote breathability. The design is minimal and versatile, making these sneakers an easy complement to jeans, chinos, or shorts. Underfoot, a lightweight EVA midsole provides reliable cushioning for all-day comfort, while the high-abrasion rubber outsole ensures durable traction. Finished with the iconic Reebok vector logo and a vintage-inspired \"Court Advance\" hit, these sneakers deliver an authentic retro vibe with modern comfort. Step onto the street with classic court style in the Reebok Court Advance.",
     "about_this_item": "The Court Advance combines retro style with comfort. Features leather upper, OrthoLite sock liner, DMX midsole bubbles, padded collar, and durable rubber sole. Ideal for casual wear or court sports. Perforated details enhance breathability. Available in multiple sizes and colors.",
     "primary_keyword": "Reebok Court Advance Sneakers",
     "slug": "reebok-court-advance-sneakers-for-men",
@@ -61,7 +61,7 @@
       "@type": "Product",
       "@id": "https://www.shoesonwhite.com/#product-B004C0592I",
       "name": "Reebok Court Advance Sneakers for Men Shoes",
-      "description": "Classic Reebok men's tennis-inspired casual sneakers",
+      "description": "Channel timeless tennis style with the Reebok Court Advance Sneakers for Men. These casual shoes take inspiration from Reebok's rich heritage in tennis, reimagining classic court aesthetics for the modern man's everyday wardrobe. The shoe features a clean, low-profile silhouette with a durable leather upper, offering a premium look and feel that only gets better with age. Perforated details on the toe box add a touch of classic tennis style and promote breathability. The design is minimal and versatile, making these sneakers an easy complement to jeans, chinos, or shorts. Underfoot, a lightweight EVA midsole provides reliable cushioning for all-day comfort, while the high-abrasion rubber outsole ensures durable traction. Finished with the iconic Reebok vector logo and a vintage-inspired \"Court Advance\" hit, these sneakers deliver an authentic retro vibe with modern comfort. Step onto the street with classic court style in the Reebok Court Advance.",
       "url": "https://www.shoesonwhite.com/2026/02/reebok-court-advance-sneakers-for-men.html",
       "sku": "B004C0592I",
       "mpn": "B004C0592I",
@@ -75,7 +75,7 @@
         "url": "https://www.shoesonwhite.com/2026/02/reebok-court-advance-sneakers-for-men.html",
         "priceCurrency": "USD",
         "price": 49.99,
-        "priceValidUntil": "2027-02-15",
+        "priceValidUntil": "2027-02-19",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -108,7 +108,7 @@
         {
           "@type": "PropertyValue",
           "name": "Color",
-          "value": "White Shoes"
+          "value": "White"
         },
         {
           "@type": "PropertyValue",
@@ -128,22 +128,22 @@
         {
           "@type": "PropertyValue",
           "name": "Comfort Score",
-          "value": "73"
+          "value": "83"
         },
         {
           "@type": "PropertyValue",
           "name": "Durability Score",
-          "value": "78"
+          "value": "86"
         },
         {
           "@type": "PropertyValue",
           "name": "Breathability Score",
-          "value": "75"
+          "value": "65"
         },
         {
           "@type": "PropertyValue",
           "name": "Overall Score",
-          "value": "75.33333333333333"
+          "value": "78"
         }
       ],
       "image": [
@@ -190,7 +190,7 @@
         ]
       }
     },
-    "created_at": "2026-02-15T18:02:04.390Z",
-    "last_updated": "2026-02-15T18:02:04.390Z"
+    "created_at": "2026-02-19T04:12:20.300Z",
+    "last_updated": "2026-02-19T04:12:20.300Z"
   }
 }
