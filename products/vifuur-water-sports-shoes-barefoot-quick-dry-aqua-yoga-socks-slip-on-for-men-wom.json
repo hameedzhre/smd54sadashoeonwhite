@@ -2,7 +2,7 @@
   "metadata": {
     "product_id": "B07JPYSNDP",
     "slug": "vifuur-water-sports-shoes-barefoot-quick-dry-aqua-yoga-socks-slip-on-for-men-wom",
-    "generated_at": "2026-02-19T04:15:36.871Z",
+    "generated_at": "2026-02-19T09:57:59.109Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
@@ -48,14 +48,13 @@
     "brand_url": "https://www.shoesonwhite.com/p/vifuur.html",
     "subcategory_url": "https://www.shoesonwhite.com/p/athletic.html",
     "image_urls": [
-      "https://m.media-amazon.com/images/I/71aO75Tv+2L._AC_UY575_.png",
       "https://m.media-amazon.com/images/I/61HfxZFArtL._AC_SY695_.jpg",
       "https://m.media-amazon.com/images/I/71Om6GgAKUL._AC_SY695_.jpg",
       "https://m.media-amazon.com/images/I/61JRcXnhyVL._AC_SY695_.jpg",
       "https://m.media-amazon.com/images/I/51oDHA9AD2L._AC_SY695_.jpg",
       "https://m.media-amazon.com/images/I/71x-JeT+eKL._AC_SY695_.jpg"
     ],
-    "main_image": "https://m.media-amazon.com/images/I/71aO75Tv+2L._AC_UY575_.png",
+    "main_image": "https://m.media-amazon.com/images/I/61HfxZFArtL._AC_SY695_.jpg",
     "schema": {
       "@context": "https://schema.org",
       "@type": "Product",
@@ -147,7 +146,6 @@
         }
       ],
       "image": [
-        "https://m.media-amazon.com/images/I/71aO75Tv+2L._AC_UY575_.png",
         "https://m.media-amazon.com/images/I/61HfxZFArtL._AC_SY695_.jpg",
         "https://m.media-amazon.com/images/I/71Om6GgAKUL._AC_SY695_.jpg",
         "https://m.media-amazon.com/images/I/61JRcXnhyVL._AC_SY695_.jpg",
@@ -190,7 +188,7 @@
         ]
       }
     },
-    "created_at": "2026-02-19T04:12:20.300Z",
-    "last_updated": "2026-02-19T04:12:20.300Z"
+    "created_at": "2026-02-19T09:57:28.935Z",
+    "last_updated": "2026-02-19T09:57:28.935Z"
   }
 }
