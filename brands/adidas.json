@@ -3,7 +3,7 @@
     "name": "Adidas",
     "slug": "adidas",
     "url": "https://www.shoesonwhite.com/p/adidas.html",
-    "generated_at": "2026-02-19T04:15:56.738Z",
+    "generated_at": "2026-02-19T09:58:46.225Z",
     "total_products": 6,
     "site_url": "https://www.shoesonwhite.com"
   },
@@ -14,15 +14,15 @@
   },
   "products": [
     {
-      "product_id": "B0DBM6HSYS",
-      "title": "adidas Women's X_PLR Path Running Shoes",
-      "slug": "adidas-womens-x_plr-path-running",
-      "url": "https://www.shoesonwhite.com/2026/02/adidas-womens-x_plr-path-running.html",
-      "gender": "Women",
+      "product_id": "B08S8VR3L2",
+      "title": "Adidas Men's Advantage Sneaker",
+      "slug": "adidas-mens-advantage",
+      "url": "https://www.shoesonwhite.com/2026/02/adidas-mens-advantage.html",
+      "gender": "Men",
       "subcategory": "Athletic",
-      "price_min": 33.4,
-      "image": "https://m.media-amazon.com/images/I/810-HWy02gL._AC_SY500_.jpg",
-      "overall_score": 82
+      "price_min": 36.42,
+      "image": "https://m.media-amazon.com/images/I/719pbj+-iFL._AC_SX500_.jpg",
+      "overall_score": 75
     },
     {
       "product_id": "B0CKMRBH96",
@@ -32,8 +32,19 @@
       "gender": "Unisex",
       "subcategory": "Athletic",
       "price_min": 90,
-      "image": "https://m.media-amazon.com/images/I/71jI8iSK-pL._AC_UY575_.png",
+      "image": "https://m.media-amazon.com/images/I/51wWpT0YL8L._AC_SX695_.jpg",
       "overall_score": 76
+    },
+    {
+      "product_id": "B0DBM6HSYS",
+      "title": "adidas Women's X_PLR Path Running Shoes",
+      "slug": "adidas-womens-x_plr-path-running",
+      "url": "https://www.shoesonwhite.com/2026/02/adidas-womens-x_plr-path-running.html",
+      "gender": "Women",
+      "subcategory": "Athletic",
+      "price_min": 33.4,
+      "image": "https://m.media-amazon.com/images/I/810-HWy02gL._AC_SY500_.jpg",
+      "overall_score": 82
     },
     {
       "product_id": "B0CKMHWRW6",
@@ -47,17 +58,6 @@
       "overall_score": 81.33333333333333
     },
     {
-      "product_id": "B09Y2VHQ90",
-      "title": "Adidas Women's Bravada 2.0 Platform Sneakers",
-      "slug": "adidas-womens-bravada-20-platform",
-      "url": "https://www.shoesonwhite.com/2026/02/adidas-womens-bravada-20-platform.html",
-      "gender": "Women",
-      "subcategory": "Sneakers",
-      "price_min": 45.49,
-      "image": "https://m.media-amazon.com/images/I/61-BcYPKzXL._AC_SY695_.jpg",
-      "overall_score": 76
-    },
-    {
       "product_id": "B09KMY3ZLD",
       "title": "adidas Women's Grand Court 2.0 Tennis Shoe",
       "slug": "adidas-womens-grand-court-20-tennis-shoe",
@@ -69,15 +69,15 @@
       "overall_score": 76.33333333333333
     },
     {
-      "product_id": "B08S8VR3L2",
-      "title": "Adidas Men's Advantage Sneaker",
-      "slug": "adidas-mens-advantage",
-      "url": "https://www.shoesonwhite.com/2026/02/adidas-mens-advantage.html",
-      "gender": "Men",
-      "subcategory": "Athletic",
-      "price_min": 36.42,
-      "image": "https://m.media-amazon.com/images/I/61FhVYvcQjL._AC_SX500_.jpg",
-      "overall_score": 75
+      "product_id": "B09Y2VHQ90",
+      "title": "Adidas Women's Bravada 2.0 Platform Sneakers",
+      "slug": "adidas-womens-bravada-20-platform",
+      "url": "https://www.shoesonwhite.com/2026/02/adidas-womens-bravada-20-platform.html",
+      "gender": "Women",
+      "subcategory": "Sneakers",
+      "price_min": 45.49,
+      "image": "https://m.media-amazon.com/images/I/61-BcYPKzXL._AC_SY695_.jpg",
+      "overall_score": 76
     }
   ]
 }
