@@ -1,0 +1,190 @@
+{
+  "metadata": {
+    "product_id": "B0DF6BPXM8",
+    "slug": "on-mens-cloud-6",
+    "generated_at": "2026-02-19T04:12:46.452Z",
+    "source": "google_sheets",
+    "version": "1.0",
+    "urls": {
+      "product": "https://www.shoesonwhite.com/2026/02/on-mens-cloud-6.html",
+      "gender": "https://www.shoesonwhite.com/p/men.html",
+      "brand": "https://www.shoesonwhite.com/p/on-cloud.html",
+      "subcategory": "https://www.shoesonwhite.com/p/athletic.html"
+    }
+  },
+  "product": {
+    "product_id": "B0DF6BPXM8",
+    "asin": "B0DF6BPXM9",
+    "product_title": "On Men's Cloud 6 Sneakers",
+    "brand": "On Cloud",
+    "category": "Shoes",
+    "subcategory": "Athletic",
+    "color": "White",
+    "gender": "Men",
+    "weight_lbs": 1.94,
+    "upper_material": "Mesh",
+    "sole_material": "Rubber",
+    "outer_material": "Rubber",
+    "lining": "Polyester",
+    "closure_type": "Lace-up",
+    "cushioning": "Plush and responsive CloudTec cushioning for a soft, bouncy feel.",
+    "breathability": "Engineered mesh upper promotes excellent airflow.",
+    "amazon_url": "https://amzn.to/4kGf3wG",
+    "price_min": 157.04,
+    "price_max": 159,
+    "currency": "USD",
+    "rating": 4.5,
+    "review_count": 22,
+    "comfort_score": 92,
+    "durability_score": 88,
+    "breathability_score": 85,
+    "overall_score": 88.33333333333333,
+    "short_description": "Experience the next evolution of premium comfort with the On Men's Cloud 6 Sneakers. Building on the legacy of its celebrated predecessor, the Cloud 6 refines the perfect balance of plush cushioning and lightweight performance for the modern lifestyle. Engineered with a redesigned upper crafted from 100% recycled polyester, this shoe offers a sock-like fit that adapts seamlessly to your foot, providing enhanced flexibility and all-day wearability. The iconic CloudTec? pods in the midsole deliver that signature soft landing with every step, while the updated Zero-Gravity foam ensures a bouncy, responsive feel without any excess weight. Whether you're navigating a busy workday, exploring a new city, or simply enjoying a casual weekend, the Cloud 6 provides unparalleled underfoot comfort. The speed-lacing system allows for a quick, secure fit, while the reflective details add a layer of safety for low-light adventures. More than just a sneaker, the On Men's Cloud 6 is a statement of Swiss-engineered design, merging sustainable materials with cutting-edge technology to create a versatile shoe that performs as good as it looks. Discover the effortless comfort and modern style that has made the Cloud series a global phenomenon, perfect for the man who demands both function and fashion from his footwear.",
+    "about_this_item": "Upper Same Cloud 6 look, now more functional than ever. The new mesh upper has improved durability and breathability, with a stronger abrasion resistance to take on daily wear. Midsole / outsole The midsole is 50% bio-attributed, reducing the bottom unit's CO2 footprint by 20%. An updated outsole features connected rubber pods for better traction, grip and durability. Speedboard The Speedboard is engineered for optimal all-day performance, torsional support and stability ? stable landings, soft toe-offs.",
+    "primary_keyword": "Men's Fashion Sneakers",
+    "slug": "on-mens-cloud-6",
+    "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloud-6.html",
+    "gender_url": "https://www.shoesonwhite.com/p/men.html",
+    "brand_url": "https://www.shoesonwhite.com/p/on-cloud.html",
+    "subcategory_url": "https://www.shoesonwhite.com/p/athletic.html",
+    "image_urls": [
+      "https://m.media-amazon.com/images/I/615Sy7Z9+lL._AC_SY625_.jpg",
+      "https://m.media-amazon.com/images/I/61biWMah2UL._AC_SY625_.jpg",
+      "https://m.media-amazon.com/images/I/610PrCjvVmL._AC_SY625_.jpg"
+    ],
+    "main_image": "https://m.media-amazon.com/images/I/615Sy7Z9+lL._AC_SY625_.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://www.shoesonwhite.com/#product-B0DF6BPXM8",
+      "name": "On Men's Cloud 6 Sneakers",
+      "description": "Experience the next evolution of premium comfort with the On Men's Cloud 6 Sneakers. Building on the legacy of its celebrated predecessor, the Cloud 6 refines the perfect balance of plush cushioning and lightweight performance for the modern lifestyle. Engineered with a redesigned upper crafted from 100% recycled polyester, this shoe offers a sock-like fit that adapts seamlessly to your foot, providing enhanced flexibility and all-day wearability. The iconic CloudTec? pods in the midsole deliver that signature soft landing with every step, while the updated Zero-Gravity foam ensures a bouncy, responsive feel without any excess weight. Whether you're navigating a busy workday, exploring a new city, or simply enjoying a casual weekend, the Cloud 6 provides unparalleled underfoot comfort. The speed-lacing system allows for a quick, secure fit, while the reflective details add a layer of safety for low-light adventures. More than just a sneaker, the On Men's Cloud 6 is a statement of Swiss-engineered design, merging sustainable materials with cutting-edge technology to create a versatile shoe that performs as good as it looks. Discover the effortless comfort and modern style that has made the Cloud series a global phenomenon, perfect for the man who demands both function and fashion from his footwear.",
+      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloud-6.html",
+      "sku": "B0DF6BPXM8",
+      "mpn": "B0DF6BPXM9",
+      "brand": {
+        "@type": "Brand",
+        "name": "On Cloud",
+        "url": "https://www.shoesonwhite.com/p/on-cloud.html"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloud-6.html",
+        "priceCurrency": "USD",
+        "price": 157.04,
+        "priceValidUntil": "2027-02-19",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.5,
+        "reviewCount": 22,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Athletic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Color",
+          "value": "White"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Mesh"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Closure Type",
+          "value": "Lace-up"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Weight",
+          "value": "1.94"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Comfort Score",
+          "value": "92"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Durability Score",
+          "value": "88"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Breathability Score",
+          "value": "85"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Overall Score",
+          "value": "88.33333333333333"
+        }
+      ],
+      "image": [
+        "https://m.media-amazon.com/images/I/615Sy7Z9+lL._AC_SY625_.jpg",
+        "https://m.media-amazon.com/images/I/61biWMah2UL._AC_SY625_.jpg",
+        "https://m.media-amazon.com/images/I/610PrCjvVmL._AC_SY625_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.shoesonwhite.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Men",
+            "item": "https://www.shoesonwhite.com/p/men.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "On Cloud",
+            "item": "https://www.shoesonwhite.com/p/on-cloud.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Athletic",
+            "item": "https://www.shoesonwhite.com/p/athletic.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "On Men's Cloud 6 Sneakers",
+            "item": "https://www.shoesonwhite.com/2026/02/on-mens-cloud-6.html"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-02-19T04:12:20.295Z",
+    "last_updated": "2026-02-19T04:12:20.295Z"
+  }
+}
