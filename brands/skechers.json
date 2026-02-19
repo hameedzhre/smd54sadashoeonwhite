@@ -3,7 +3,7 @@
     "name": "Skechers",
     "slug": "skechers",
     "url": "https://www.shoesonwhite.com/p/skechers.html",
-    "generated_at": "2026-02-19T04:15:50.778Z",
+    "generated_at": "2026-02-19T10:00:17.001Z",
     "total_products": 8,
     "site_url": "https://www.shoesonwhite.com"
   },
@@ -14,48 +14,15 @@
   },
   "products": [
     {
-      "product_id": "B0FH7GZD1Y",
-      "title": "Skechers Women's Uno Stand on Air Sneakers Shoes",
-      "slug": "skechers-womens-uno-stand-on-air-sneakers",
-      "url": "https://www.shoesonwhite.com/2026/02/skechers-womens-uno-stand-on-air-sneakers.html",
-      "gender": "Women",
-      "subcategory": "Sneakers",
-      "price_min": 44.99,
-      "image": "https://m.media-amazon.com/images/I/717k9ujBpFL._AC_SX500_.jpg",
-      "overall_score": 80.66666666666667
-    },
-    {
-      "product_id": "B0FBSBXCMS",
-      "title": "Skechers Women's Bobs B Cute Sneaker ? Memory Foam, Flexible Outsole, Lightweight Vegan Shoes",
-      "slug": "skechers-womens-bobs-b-cute-sneaker-memory-foam-flexible-outsole-lightweight-veg",
-      "url": "https://www.shoesonwhite.com/2026/02/skechers-womens-bobs-b-cute-sneaker-memory-foam-flexible-outsole-lightweight-veg.html",
-      "gender": "Women",
-      "subcategory": "Sneakers",
-      "price_min": 49.95,
-      "image": "https://m.media-amazon.com/images/I/71KJFFcZd2L._AC_SY500_.jpg",
-      "overall_score": 78.33333333333333
-    },
-    {
-      "product_id": "B0F9294296",
-      "title": "Skechers Women's Go Walk Joy Cushioning Sneakers Shoes",
-      "slug": "skechers-womens-go-walk-joy-cushioning-sneakers",
-      "url": "https://www.shoesonwhite.com/2026/02/skechers-womens-go-walk-joy-cushioning-sneakers.html",
-      "gender": "Women",
+      "product_id": "B07ZQWLXTL",
+      "title": "Skechers Go Run Consistent - 220102, Women's Fashion Sneakers, White/Silver, 8.5",
+      "slug": "skechers-go-run-consistent-220102-womens-fashion-sneakers-whitesilver-85",
+      "url": "https://www.shoesonwhite.com/2026/02/skechers-go-run-consistent-220102-womens-fashion-sneakers-whitesilver-85.html",
+      "gender": "Unisex",
       "subcategory": "Athletic",
-      "price_min": 44.88,
-      "image": "https://m.media-amazon.com/images/I/61O-QcGZp+L._AC_SX522_.jpg",
-      "overall_score": 84
-    },
-    {
-      "product_id": "B0F8VJ3B5D",
-      "title": "Skechers Women's Arch Fit Arcade Meet Ya There Sneakers",
-      "slug": "skechers-womens-arch-fit-arcade-meet-ya-there",
-      "url": "https://www.shoesonwhite.com/2026/02/skechers-womens-arch-fit-arcade-meet-ya-there.html",
-      "gender": "Women",
-      "subcategory": "Sneakers",
-      "price_min": 50.99,
-      "image": "https://m.media-amazon.com/images/I/71qSEh7gAPL._AC_SX500_.jpg",
-      "overall_score": 81
+      "price_min": 40,
+      "image": "https://m.media-amazon.com/images/I/612ln3MW8HL._AC_SX695_.jpg",
+      "overall_score": 76.66666666666667
     },
     {
       "product_id": "B0F8JF6VQW",
@@ -65,8 +32,19 @@
       "gender": "Unisex",
       "subcategory": "Athletic",
       "price_min": 62,
-      "image": "https://m.media-amazon.com/images/I/71wez6Xh0BL._AC_UY575_.png",
+      "image": "https://m.media-amazon.com/images/I/71BfLAQ4eLL._AC_SX695_.jpg",
       "overall_score": 73
+    },
+    {
+      "product_id": "B0FH7GZD1Y",
+      "title": "Skechers Women's Uno Stand on Air Sneakers Shoes",
+      "slug": "skechers-womens-uno-stand-on-air-sneakers",
+      "url": "https://www.shoesonwhite.com/2026/02/skechers-womens-uno-stand-on-air-sneakers.html",
+      "gender": "Women",
+      "subcategory": "Sneakers",
+      "price_min": 44.99,
+      "image": "https://m.media-amazon.com/images/I/717k9ujBpFL._AC_SX500_.jpg",
+      "overall_score": 80.66666666666667
     },
     {
       "product_id": "B0D7YTJBMF",
@@ -80,15 +58,15 @@
       "overall_score": 83.33333333333333
     },
     {
-      "product_id": "B07ZQWLXTL",
-      "title": "Skechers Go Run Consistent - 220102, Women's Fashion Sneakers, White/Silver, 8.5",
-      "slug": "skechers-go-run-consistent-220102-womens-fashion-sneakers-whitesilver-85",
-      "url": "https://www.shoesonwhite.com/2026/02/skechers-go-run-consistent-220102-womens-fashion-sneakers-whitesilver-85.html",
-      "gender": "Unisex",
+      "product_id": "B0F9294296",
+      "title": "Skechers Women's Go Walk Joy Cushioning Sneakers Shoes",
+      "slug": "skechers-womens-go-walk-joy-cushioning-sneakers",
+      "url": "https://www.shoesonwhite.com/2026/02/skechers-womens-go-walk-joy-cushioning-sneakers.html",
+      "gender": "Women",
       "subcategory": "Athletic",
-      "price_min": 40,
-      "image": "https://m.media-amazon.com/images/I/61xHpZrxEeL._AC_UY575_.png",
-      "overall_score": 76.66666666666667
+      "price_min": 44.88,
+      "image": "https://m.media-amazon.com/images/I/61O-QcGZp+L._AC_SX522_.jpg",
+      "overall_score": 84
     },
     {
       "product_id": "B014GNJWW7",
@@ -100,6 +78,28 @@
       "price_min": 49.72,
       "image": "https://m.media-amazon.com/images/I/619BpI3vxQL._AC_SY500_.jpg",
       "overall_score": 77.66666666666667
+    },
+    {
+      "product_id": "B0FBSBXCMS",
+      "title": "Skechers Women's Bobs B Cute Sneaker ? Memory Foam, Flexible Outsole, Lightweight Vegan Shoes",
+      "slug": "skechers-womens-bobs-b-cute-sneaker-memory-foam-flexible-outsole-lightweight-veg",
+      "url": "https://www.shoesonwhite.com/2026/02/skechers-womens-bobs-b-cute-sneaker-memory-foam-flexible-outsole-lightweight-veg.html",
+      "gender": "Women",
+      "subcategory": "Sneakers",
+      "price_min": 49.95,
+      "image": "https://m.media-amazon.com/images/I/71KJFFcZd2L._AC_SY500_.jpg",
+      "overall_score": 78.33333333333333
+    },
+    {
+      "product_id": "B0F8VJ3B5D",
+      "title": "Skechers Women's Arch Fit Arcade Meet Ya There Sneakers",
+      "slug": "skechers-womens-arch-fit-arcade-meet-ya-there",
+      "url": "https://www.shoesonwhite.com/2026/02/skechers-womens-arch-fit-arcade-meet-ya-there.html",
+      "gender": "Women",
+      "subcategory": "Sneakers",
+      "price_min": 50.99,
+      "image": "https://m.media-amazon.com/images/I/71qSEh7gAPL._AC_SX500_.jpg",
+      "overall_score": 81
     }
   ]
 }
