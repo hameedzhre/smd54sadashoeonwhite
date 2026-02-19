@@ -1,0 +1,192 @@
+{
+  "metadata": {
+    "product_id": "B0DJHC6VCN",
+    "slug": "on-mens-cloudeclipse",
+    "generated_at": "2026-02-19T04:12:43.484Z",
+    "source": "google_sheets",
+    "version": "1.0",
+    "urls": {
+      "product": "https://www.shoesonwhite.com/2026/02/on-mens-cloudeclipse.html",
+      "gender": "https://www.shoesonwhite.com/p/men.html",
+      "brand": "https://www.shoesonwhite.com/p/on-cloud.html",
+      "subcategory": "https://www.shoesonwhite.com/p/athletic.html"
+    }
+  },
+  "product": {
+    "product_id": "B0DJHC6VCN",
+    "asin": "B0DJHC6VCN",
+    "product_title": "On Mens Cloudeclipse",
+    "brand": "On Cloud",
+    "category": "Shoes",
+    "subcategory": "Athletic",
+    "color": "White",
+    "gender": "Men",
+    "weight_lbs": 3,
+    "upper_material": "Recycled polyester mesh",
+    "sole_material": "Rubber",
+    "outer_material": "Rubber",
+    "lining": "Polyester",
+    "closure_type": "Lace-up",
+    "cushioning": "Dual-layer CloudTec and Helion superfoam for maximum comfort and impact protection.",
+    "breathability": "Breathable, engineered mesh upper keeps feet well-ventilated.",
+    "amazon_url": "https://amzn.to/4aWLyn0",
+    "price_min": 114.6,
+    "price_max": 224.95,
+    "currency": "USD",
+    "rating": 4.6,
+    "review_count": 153,
+    "comfort_score": 88,
+    "durability_score": 84,
+    "breathability_score": 82,
+    "overall_score": 84.66666666666667,
+    "short_description": "Reach new heights of comfort with the On Mens Cloudeclipse, the brand's ultimate max-cushioned shoe designed for those who want to float through their runs. True to its name, the Cloudeclipse offers an unparalleled sensation of softness and protection, eclipsing all previous notions of what a cushioned running shoe can be. It achieves this through a revolutionary dual-layer CloudTec? configuration, where two layers of Helion? superfoam pods work in perfect harmony. The top layer compresses for a soft, plush landing, while the bottom layer provides a stable, cushioned platform, effectively doubling the impact protection. This innovative design is guided by a uniquely curved Speedboard?, nestled between the two foam layers, which promotes a smooth, effortless rolling motion from heel-strike to toe-off. The result is a run that feels impossibly soft and incredibly efficient, reducing fatigue even on the longest distances. The upper is crafted from a lightweight, engineered mesh that offers a premium feel and a comfortable, secure fit. For runners seeking the pinnacle of plush, high-mileage comfort without sacrificing a responsive feel, the On Mens Cloudeclipse is the ultimate cloud-like experience.",
+    "about_this_item": "Sustainability Total recycled content: More than 90% recycled content in Polyester, More than 85% recycled content in Ethylene-vinyl Acetate, Speedboard Speedboard for added control and speed built into the maximalist midsole., Upper 100% recycled polyester mesh upper plus knitted tongue with engineered wings for superior midfoot lockdown., Mid / Outsole Outsole: Grip rubber compound with enhanced traction pattern. Midsole: HelionTM superfoam.",
+    "primary_keyword": "Men's Road Running Shoes",
+    "slug": "on-mens-cloudeclipse",
+    "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloudeclipse.html",
+    "gender_url": "https://www.shoesonwhite.com/p/men.html",
+    "brand_url": "https://www.shoesonwhite.com/p/on-cloud.html",
+    "subcategory_url": "https://www.shoesonwhite.com/p/athletic.html",
+    "image_urls": [
+      "https://m.media-amazon.com/images/I/61C69EcUnpL._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/61eGUO6CEtL._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/51gA12IV8QL._AC_SY500_.jpg",
+      "https://m.media-amazon.com/images/I/51RkeDKLlFL._AC_SY500_.jpg"
+    ],
+    "main_image": "https://m.media-amazon.com/images/I/61C69EcUnpL._AC_SY500_.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://www.shoesonwhite.com/#product-B0DJHC6VCN",
+      "name": "On Mens Cloudeclipse",
+      "description": "Reach new heights of comfort with the On Mens Cloudeclipse, the brand's ultimate max-cushioned shoe designed for those who want to float through their runs. True to its name, the Cloudeclipse offers an unparalleled sensation of softness and protection, eclipsing all previous notions of what a cushioned running shoe can be. It achieves this through a revolutionary dual-layer CloudTec? configuration, where two layers of Helion? superfoam pods work in perfect harmony. The top layer compresses for a soft, plush landing, while the bottom layer provides a stable, cushioned platform, effectively doubling the impact protection. This innovative design is guided by a uniquely curved Speedboard?, nestled between the two foam layers, which promotes a smooth, effortless rolling motion from heel-strike to toe-off. The result is a run that feels impossibly soft and incredibly efficient, reducing fatigue even on the longest distances. The upper is crafted from a lightweight, engineered mesh that offers a premium feel and a comfortable, secure fit. For runners seeking the pinnacle of plush, high-mileage comfort without sacrificing a responsive feel, the On Mens Cloudeclipse is the ultimate cloud-like experience.",
+      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloudeclipse.html",
+      "sku": "B0DJHC6VCN",
+      "mpn": "B0DJHC6VCN",
+      "brand": {
+        "@type": "Brand",
+        "name": "On Cloud",
+        "url": "https://www.shoesonwhite.com/p/on-cloud.html"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloudeclipse.html",
+        "priceCurrency": "USD",
+        "price": 114.6,
+        "priceValidUntil": "2027-02-19",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.6,
+        "reviewCount": 153,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Athletic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Color",
+          "value": "White"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Recycled polyester mesh"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Closure Type",
+          "value": "Lace-up"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Weight",
+          "value": "3"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Comfort Score",
+          "value": "88"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Durability Score",
+          "value": "84"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Breathability Score",
+          "value": "82"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Overall Score",
+          "value": "84.66666666666667"
+        }
+      ],
+      "image": [
+        "https://m.media-amazon.com/images/I/61C69EcUnpL._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/61eGUO6CEtL._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/51gA12IV8QL._AC_SY500_.jpg",
+        "https://m.media-amazon.com/images/I/51RkeDKLlFL._AC_SY500_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.shoesonwhite.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Men",
+            "item": "https://www.shoesonwhite.com/p/men.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "On Cloud",
+            "item": "https://www.shoesonwhite.com/p/on-cloud.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Athletic",
+            "item": "https://www.shoesonwhite.com/p/athletic.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "On Mens Cloudeclipse",
+            "item": "https://www.shoesonwhite.com/2026/02/on-mens-cloudeclipse.html"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-02-19T04:12:20.295Z",
+    "last_updated": "2026-02-19T04:12:20.295Z"
+  }
+}
