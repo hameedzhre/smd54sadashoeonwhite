@@ -2,7 +2,7 @@
   "metadata": {
     "product_id": "B0922CS587",
     "slug": "lacoste-mens-bayliss",
-    "generated_at": "2026-02-15T18:02:39.371Z",
+    "generated_at": "2026-02-19T04:15:29.015Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
@@ -19,27 +19,26 @@
     "brand": "Lacoste",
     "category": "Shoes",
     "subcategory": "Sneakers",
-    "color": "White Shoes",
+    "color": "White",
     "gender": "Men",
-    "weight_lbs": "N/A",
     "upper_material": "Polyester / Leather / Polyurethane (52%-36%-12%)",
     "sole_material": "Rubber",
     "outer_material": "Fabric / Leather / Synthetic",
     "lining": "Textile (implied)",
     "closure_type": "Lace-up",
-    "cushioning": "Moderate (padded collar & tongue)",
-    "breathability": "Moderate (fabric upper)",
+    "cushioning": "Padded collar and a cushioned insole deliver comfortable support for everyday wear.",
+    "breathability": "Leather or textile upper offers moderate breathability; leather versions are less airy.",
     "amazon_url": "https://amzn.to/3OrAkOz",
     "price_min": 66.28,
     "price_max": 98,
     "currency": "USD",
     "rating": 4.5,
     "review_count": 9843,
-    "comfort_score": 74,
-    "durability_score": 80,
-    "breathability_score": 72,
+    "comfort_score": 80,
+    "durability_score": 84,
+    "breathability_score": 62,
     "overall_score": 75.33333333333333,
-    "short_description": "Low-profile classic casual sneaker ? versatile with suits or jeans, good value at discount",
+    "short_description": "Add a touch of French sportswear elegance to your everyday style with the Lacoste Men's Bayliss Sneakers. These low-profile sneakers are the perfect embodiment of Lacoste's timeless aesthetic, blending classic design with modern versatility. The Bayliss features a clean, minimalist silhouette with a durable leather or textile upper, offering a sophisticated and understated look that effortlessly elevates any casual outfit. Whether you're pairing them with tailored chinos, dark denim, or even a casual suit, these sneakers provide a polished finish. The classic vulcanized construction ensures flexibility and a lightweight feel, while a padded collar and cushioned insole deliver all-day comfort. Subtle branding, including the iconic Lacoste crocodile logo discreetly placed on the side, adds a touch of heritage without being overpowering. For a versatile, go-to sneaker that transitions seamlessly from weekend errands to smart-casual occasions, the Lacoste Men's Bayliss is an excellent choice, especially when found at a great value.",
     "about_this_item": "? Low profile sneaker for men ? Polyester/leather/polyurethane upper ? Rubber sole ? Padded collar & tongue ? Imported",
     "primary_keyword": "Lacoste Bayliss Deep White",
     "slug": "lacoste-mens-bayliss",
@@ -61,7 +60,7 @@
       "@type": "Product",
       "@id": "https://www.shoesonwhite.com/#product-B0922CS587",
       "name": "Lacoste Men's Bayliss Sneakers",
-      "description": "Low-profile classic casual sneaker ? versatile with suits or jeans, good value at discount",
+      "description": "Add a touch of French sportswear elegance to your everyday style with the Lacoste Men's Bayliss Sneakers. These low-profile sneakers are the perfect embodiment of Lacoste's timeless aesthetic, blending classic design with modern versatility. The Bayliss features a clean, minimalist silhouette with a durable leather or textile upper, offering a sophisticated and understated look that effortlessly elevates any casual outfit. Whether you're pairing them with tailored chinos, dark denim, or even a casual suit, these sneakers provide a polished finish. The classic vulcanized construction ensures flexibility and a lightweight feel, while a padded collar and cushioned insole deliver all-day comfort. Subtle branding, including the iconic Lacoste crocodile logo discreetly placed on the side, adds a touch of heritage without being overpowering. For a versatile, go-to sneaker that transitions seamlessly from weekend errands to smart-casual occasions, the Lacoste Men's Bayliss is an excellent choice, especially when found at a great value.",
       "url": "https://www.shoesonwhite.com/2026/02/lacoste-mens-bayliss.html",
       "sku": "B0922CS587",
       "mpn": "B0922CS588",
@@ -75,7 +74,7 @@
         "url": "https://www.shoesonwhite.com/2026/02/lacoste-mens-bayliss.html",
         "priceCurrency": "USD",
         "price": 66.28,
-        "priceValidUntil": "2027-02-15",
+        "priceValidUntil": "2027-02-19",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -108,7 +107,7 @@
         {
           "@type": "PropertyValue",
           "name": "Color",
-          "value": "White Shoes"
+          "value": "White"
         },
         {
           "@type": "PropertyValue",
@@ -123,17 +122,17 @@
         {
           "@type": "PropertyValue",
           "name": "Comfort Score",
-          "value": "74"
-        },
-        {
-          "@type": "PropertyValue",
-          "name": "Durability Score",
           "value": "80"
         },
         {
           "@type": "PropertyValue",
+          "name": "Durability Score",
+          "value": "84"
+        },
+        {
+          "@type": "PropertyValue",
           "name": "Breathability Score",
-          "value": "72"
+          "value": "62"
         },
         {
           "@type": "PropertyValue",
@@ -185,7 +184,7 @@
         ]
       }
     },
-    "created_at": "2026-02-15T18:02:04.391Z",
-    "last_updated": "2026-02-15T18:02:04.391Z"
+    "created_at": "2026-02-19T04:12:20.299Z",
+    "last_updated": "2026-02-19T04:12:20.299Z"
   }
 }
