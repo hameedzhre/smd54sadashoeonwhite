@@ -2,7 +2,7 @@
   "metadata": {
     "product_id": "B0DCV7BV1F",
     "slug": "vamjam-mens-running-shoes-fashion-sneakers-lightweight-breathable-flying",
-    "generated_at": "2026-02-15T18:02:10.719Z",
+    "generated_at": "2026-02-19T04:12:47.429Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
@@ -19,27 +19,26 @@
     "brand": "VAMJAM",
     "category": "Shoes",
     "subcategory": "Athletic",
-    "color": "White Shoes",
+    "color": "White",
     "gender": "Men",
-    "weight_lbs": "N/A",
     "upper_material": "Fly knitting",
     "sole_material": "EVA",
     "outer_material": "Mesh",
     "lining": "Mesh",
     "closure_type": "Lace-Up",
-    "cushioning": "Yes",
-    "breathability": "Yes",
+    "cushioning": "Soft, cushioned insole provides responsive comfort and shock absorption for walking and light running.",
+    "breathability": "Highly breathable flying knit upper promotes maximum ventilation for a cool, dry feel.",
     "amazon_url": "https://amzn.to/45U9Hrz",
     "price_min": 32.99,
     "price_max": 32.99,
     "currency": "USD",
     "rating": 4.2,
     "review_count": 2516,
-    "comfort_score": 78,
-    "durability_score": 72,
+    "comfort_score": 86,
+    "durability_score": 75,
     "breathability_score": 92,
-    "overall_score": 80.66666666666667,
-    "short_description": "Lightweight, breathable, comfortable running/walking shoes suitable for casual wear.",
+    "overall_score": 84.33333333333333,
+    "short_description": "Discover the perfect blend of performance and style with the VAMJAM Men's Running Shoes Fashion Sneakers. Engineered for the active man, these versatile shoes are designed to keep up with your dynamic lifestyle, whether you're hitting the gym, going for a run, or simply enjoying a casual day out. The upper features innovative flying knitting technology, creating a lightweight, breathable, and seamless fit that adapts to the shape of your foot for a sock-like feel. This ensures maximum airflow, keeping your feet cool and dry even during intense workouts. The lace-up closure allows for a customized, secure fit, while the cushioned insole and flexible midsole provide responsive comfort and shock absorption with every step. The durable outsole offers reliable traction on various surfaces. Combining athletic performance with a sleek, modern aesthetic, these VAMJAM sneakers are the ideal choice for the man who wants footwear that can transition seamlessly from a workout to everyday wear.",
     "about_this_item": "EXQUISITE FLYING KNITTING TECHNOLOGY - The upper adopts flying knitting technology for breathability and lightweight comfort. EVA NON-SLIP OUTSOLE - Highly elastic and soft EVA material with excellent wear resistance. SUPPORTIVE INSOLES - Firmly fix feet, providing protection for ankles and toes. IDEAL FOR CASUAL OCCASIONS - Great for walking, parties, or casual events. PROVIDES BETTER COMFORT - Soft cushioning for all-day wear.",
     "primary_keyword": "VAMJAM Men's Running Shoes",
     "slug": "vamjam-mens-running-shoes-fashion-sneakers-lightweight-breathable-flying",
@@ -60,7 +59,7 @@
       "@type": "Product",
       "@id": "https://www.shoesonwhite.com/#product-B0DCV7BV1F",
       "name": "VAMJAM Men's Running Shoes Fashion Sneakers - Lightweight Breathable Flying Knitting Lace Up Mesh Walking Shoes Workout Casual Sports Shoes",
-      "description": "Lightweight, breathable, comfortable running/walking shoes suitable for casual wear.",
+      "description": "Discover the perfect blend of performance and style with the VAMJAM Men's Running Shoes Fashion Sneakers. Engineered for the active man, these versatile shoes are designed to keep up with your dynamic lifestyle, whether you're hitting the gym, going for a run, or simply enjoying a casual day out. The upper features innovative flying knitting technology, creating a lightweight, breathable, and seamless fit that adapts to the shape of your foot for a sock-like feel. This ensures maximum airflow, keeping your feet cool and dry even during intense workouts. The lace-up closure allows for a customized, secure fit, while the cushioned insole and flexible midsole provide responsive comfort and shock absorption with every step. The durable outsole offers reliable traction on various surfaces. Combining athletic performance with a sleek, modern aesthetic, these VAMJAM sneakers are the ideal choice for the man who wants footwear that can transition seamlessly from a workout to everyday wear.",
       "url": "https://www.shoesonwhite.com/2026/02/vamjam-mens-running-shoes-fashion-sneakers-lightweight-breathable-flying.html",
       "sku": "B0DCV7BV1F",
       "mpn": "B0DCV7BV1F",
@@ -74,7 +73,7 @@
         "url": "https://www.shoesonwhite.com/2026/02/vamjam-mens-running-shoes-fashion-sneakers-lightweight-breathable-flying.html",
         "priceCurrency": "USD",
         "price": 32.99,
-        "priceValidUntil": "2027-02-15",
+        "priceValidUntil": "2027-02-19",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -107,7 +106,7 @@
         {
           "@type": "PropertyValue",
           "name": "Color",
-          "value": "White Shoes"
+          "value": "White"
         },
         {
           "@type": "PropertyValue",
@@ -122,12 +121,12 @@
         {
           "@type": "PropertyValue",
           "name": "Comfort Score",
-          "value": "78"
+          "value": "86"
         },
         {
           "@type": "PropertyValue",
           "name": "Durability Score",
-          "value": "72"
+          "value": "75"
         },
         {
           "@type": "PropertyValue",
@@ -137,7 +136,7 @@
         {
           "@type": "PropertyValue",
           "name": "Overall Score",
-          "value": "80.66666666666667"
+          "value": "84.33333333333333"
         }
       ],
       "image": [
@@ -183,7 +182,7 @@
         ]
       }
     },
-    "created_at": "2026-02-15T18:02:04.389Z",
-    "last_updated": "2026-02-15T18:02:04.389Z"
+    "created_at": "2026-02-19T04:12:20.295Z",
+    "last_updated": "2026-02-19T04:12:20.295Z"
   }
 }
