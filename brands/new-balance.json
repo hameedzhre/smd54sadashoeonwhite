@@ -3,7 +3,7 @@
     "name": "New Balance",
     "slug": "new-balance",
     "url": "https://www.shoesonwhite.com/p/new-balance.html",
-    "generated_at": "2026-02-19T04:15:48.988Z",
+    "generated_at": "2026-02-19T09:58:43.630Z",
     "total_products": 4,
     "site_url": "https://www.shoesonwhite.com"
   },
@@ -14,14 +14,14 @@
   },
   "products": [
     {
-      "product_id": "B0G7GVNSJ6",
-      "title": "New Balance Women's 608 V5 Casual Comfort Cross Trainer",
-      "slug": "new-balance-womens-608-v5-casual-comfort-cross",
-      "url": "https://www.shoesonwhite.com/2026/02/new-balance-womens-608-v5-casual-comfort-cross.html",
-      "gender": "Women",
-      "subcategory": "Sneakers",
-      "price_min": 63.96,
-      "image": "https://m.media-amazon.com/images/I/613LIIH2peL._AC_SX500_.jpg",
+      "product_id": "B093XKL7WZ",
+      "title": "New Balance Men's 608 V5 Casual Comfort Cross Trainer",
+      "slug": "new-balance-mens-608-v5-casual-comfort-cross",
+      "url": "https://www.shoesonwhite.com/2026/02/new-balance-mens-608-v5-casual-comfort-cross.html",
+      "gender": "Men",
+      "subcategory": "Athletic",
+      "price_min": 42.43,
+      "image": "https://m.media-amazon.com/images/I/61p6oqRqYQL._AC_SX500_.jpg",
       "overall_score": 77
     },
     {
@@ -47,14 +47,14 @@
       "overall_score": 81.66666666666667
     },
     {
-      "product_id": "B093XKL7WZ",
-      "title": "New Balance Men's 608 V5 Casual Comfort Cross Trainer",
-      "slug": "new-balance-mens-608-v5-casual-comfort-cross",
-      "url": "https://www.shoesonwhite.com/2026/02/new-balance-mens-608-v5-casual-comfort-cross.html",
-      "gender": "Men",
-      "subcategory": "Athletic",
-      "price_min": 42.43,
-      "image": "https://m.media-amazon.com/images/I/61p6oqRqYQL._AC_SX500_.jpg",
+      "product_id": "B0G7GVNSJ6",
+      "title": "New Balance Women's 608 V5 Casual Comfort Cross Trainer",
+      "slug": "new-balance-womens-608-v5-casual-comfort-cross",
+      "url": "https://www.shoesonwhite.com/2026/02/new-balance-womens-608-v5-casual-comfort-cross.html",
+      "gender": "Women",
+      "subcategory": "Sneakers",
+      "price_min": 63.96,
+      "image": "https://m.media-amazon.com/images/I/613LIIH2peL._AC_SX500_.jpg",
       "overall_score": 77
     }
   ]
