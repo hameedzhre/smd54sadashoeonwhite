@@ -3,7 +3,7 @@
     "name": "Converse",
     "slug": "converse",
     "url": "https://www.shoesonwhite.com/p/converse.html",
-    "generated_at": "2026-02-19T04:16:15.677Z",
+    "generated_at": "2026-02-19T10:00:17.660Z",
     "total_products": 2,
     "site_url": "https://www.shoesonwhite.com"
   },
@@ -14,17 +14,6 @@
   },
   "products": [
     {
-      "product_id": "B00D2V7YZ8",
-      "title": "Converse Unisex Adult Chuck Taylor All Star High Top Sneaker",
-      "slug": "converse-unisex-adult-chuck-taylor-all-star-high-top",
-      "url": "https://www.shoesonwhite.com/2026/02/converse-unisex-adult-chuck-taylor-all-star-high-top.html",
-      "gender": "Unisex",
-      "subcategory": "Sneakers",
-      "price_min": 31.81,
-      "image": "https://m.media-amazon.com/images/I/61zi2SuCRpL._AC_SX679_.jpg",
-      "overall_score": 75
-    },
-    {
       "product_id": "B000OLVQ6M",
       "title": "Converse Unisex Adult Chuck Taylor All Star Low Top Sneaker",
       "slug": "converse-unisex-adult-chuck-taylor-all-star-low-top",
@@ -33,6 +22,17 @@
       "subcategory": "Sneakers",
       "price_min": 59.99,
       "image": "https://m.media-amazon.com/images/I/41+2Cz+9MFL._AC_SY741_.jpg",
+      "overall_score": 75
+    },
+    {
+      "product_id": "B00D2V7YZ8",
+      "title": "Converse Unisex Adult Chuck Taylor All Star High Top Sneaker",
+      "slug": "converse-unisex-adult-chuck-taylor-all-star-high-top",
+      "url": "https://www.shoesonwhite.com/2026/02/converse-unisex-adult-chuck-taylor-all-star-high-top.html",
+      "gender": "Unisex",
+      "subcategory": "Sneakers",
+      "price_min": 31.81,
+      "image": "https://m.media-amazon.com/images/I/61zi2SuCRpL._AC_SX679_.jpg",
       "overall_score": 75
     }
   ]
