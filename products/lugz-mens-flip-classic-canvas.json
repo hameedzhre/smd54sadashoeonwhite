@@ -2,7 +2,7 @@
   "metadata": {
     "product_id": "B0D8L25VM2",
     "slug": "lugz-mens-flip-classic-canvas",
-    "generated_at": "2026-02-15T18:02:37.361Z",
+    "generated_at": "2026-02-19T04:12:52.310Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
@@ -19,27 +19,26 @@
     "brand": "Lugz",
     "category": "Shoes",
     "subcategory": "Sneakers",
-    "color": "White Shoes",
+    "color": "White",
     "gender": "Men",
-    "weight_lbs": "N/A",
     "upper_material": "Canvas",
     "sole_material": "Rubber",
     "outer_material": "Canvas",
     "lining": "Breathable Fabric",
     "closure_type": "Lace-up",
-    "cushioning": "Cushioned Insole",
-    "breathability": "Yes",
+    "cushioning": "Padded collar and a basic cushioned insole offer simple, everyday comfort.",
+    "breathability": "Sturdy canvas upper provides good natural breathability.",
     "amazon_url": "https://amzn.to/3NYYqQK",
     "price_min": 29.97,
     "price_max": 50,
     "currency": "USD",
     "rating": 4.4,
     "review_count": 11310,
-    "comfort_score": 72,
-    "durability_score": 65,
-    "breathability_score": 85,
-    "overall_score": 74,
-    "short_description": "Classic and versatile men's canvas sneaker",
+    "comfort_score": 77,
+    "durability_score": 83,
+    "breathability_score": 72,
+    "overall_score": 77.33333333333333,
+    "short_description": "Keep it classic and cool with the Lugz Mens Flip Classic Canvas Sneaker. This iconic silhouette has been a staple in casual footwear for decades, celebrated for its timeless design, durable construction, and effortless street-style appeal. The Flip features a sturdy canvas upper in a versatile, neutral color, offering a breathable and flexible fit that molds to your foot for all-day comfort. The clean, low-top silhouette is simple and understated, making it the perfect complement to any casual outfit, from jeans and shorts to joggers. A durable rubber cupsole construction provides reliable traction and long-lasting wear, while the padded collar ensures a comfortable fit around the ankle. Finished with the signature Lugz logo, these sneakers represent authentic, no-nonsense style. For a classic canvas sneaker that delivers on both style and durability, the Lugz Mens Flip is an enduring choice.",
     "about_this_item": "Cushioned Insole for added comfort, Canvas Upper, Rubber outsole, Lace-up closure, Padded collar",
     "primary_keyword": "Lugz Flip Canvas Sneaker",
     "slug": "lugz-mens-flip-classic-canvas",
@@ -62,7 +61,7 @@
       "@type": "Product",
       "@id": "https://www.shoesonwhite.com/#product-B0D8L25VM2",
       "name": "Lugz Mens Flip Classic Canvas Sneaker",
-      "description": "Classic and versatile men's canvas sneaker",
+      "description": "Keep it classic and cool with the Lugz Mens Flip Classic Canvas Sneaker. This iconic silhouette has been a staple in casual footwear for decades, celebrated for its timeless design, durable construction, and effortless street-style appeal. The Flip features a sturdy canvas upper in a versatile, neutral color, offering a breathable and flexible fit that molds to your foot for all-day comfort. The clean, low-top silhouette is simple and understated, making it the perfect complement to any casual outfit, from jeans and shorts to joggers. A durable rubber cupsole construction provides reliable traction and long-lasting wear, while the padded collar ensures a comfortable fit around the ankle. Finished with the signature Lugz logo, these sneakers represent authentic, no-nonsense style. For a classic canvas sneaker that delivers on both style and durability, the Lugz Mens Flip is an enduring choice.",
       "url": "https://www.shoesonwhite.com/2026/02/lugz-mens-flip-classic-canvas.html",
       "sku": "B0D8L25VM2",
       "mpn": "B0D8L25VM3",
@@ -76,7 +75,7 @@
         "url": "https://www.shoesonwhite.com/2026/02/lugz-mens-flip-classic-canvas.html",
         "priceCurrency": "USD",
         "price": 29.97,
-        "priceValidUntil": "2027-02-15",
+        "priceValidUntil": "2027-02-19",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -109,7 +108,7 @@
         {
           "@type": "PropertyValue",
           "name": "Color",
-          "value": "White Shoes"
+          "value": "White"
         },
         {
           "@type": "PropertyValue",
@@ -124,22 +123,22 @@
         {
           "@type": "PropertyValue",
           "name": "Comfort Score",
-          "value": "72"
+          "value": "77"
         },
         {
           "@type": "PropertyValue",
           "name": "Durability Score",
-          "value": "65"
+          "value": "83"
         },
         {
           "@type": "PropertyValue",
           "name": "Breathability Score",
-          "value": "85"
+          "value": "72"
         },
         {
           "@type": "PropertyValue",
           "name": "Overall Score",
-          "value": "74"
+          "value": "77.33333333333333"
         }
       ],
       "image": [
@@ -187,7 +186,7 @@
         ]
       }
     },
-    "created_at": "2026-02-15T18:02:04.391Z",
-    "last_updated": "2026-02-15T18:02:04.391Z"
+    "created_at": "2026-02-19T04:12:20.296Z",
+    "last_updated": "2026-02-19T04:12:20.296Z"
   }
 }
