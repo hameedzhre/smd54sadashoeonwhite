@@ -2,7 +2,7 @@
   "metadata": {
     "product_id": "B0BXTWMYWM",
     "slug": "puma-womens-smash-v3-platform-lace-up-sneakers-shoes",
-    "generated_at": "2026-02-15T18:02:23.466Z",
+    "generated_at": "2026-02-19T04:15:13.421Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
@@ -19,7 +19,7 @@
     "brand": "PUMA",
     "category": "Shoes",
     "subcategory": "Sneakers",
-    "color": "White Shoes",
+    "color": "White",
     "gender": "Women",
     "weight_lbs": 2.13,
     "upper_material": "Leather",
@@ -27,19 +27,19 @@
     "outer_material": "Leather",
     "lining": "Faux Leather",
     "closure_type": "Lace-Up",
-    "cushioning": "Softfoam+ insole",
-    "breathability": "N/A",
+    "cushioning": "Softfoam+ sockliner provides plush, step-in cushioning that molds to the foot for superior comfort.",
+    "breathability": "Premium leather upper is not breathable; the platform style prioritizes look over airflow.",
     "amazon_url": "https://amzn.to/46s3IdN",
     "price_min": 49.98,
     "price_max": 65,
     "currency": "USD",
     "rating": 4.3,
     "review_count": 1308,
-    "comfort_score": 69,
-    "durability_score": 74,
-    "breathability_score": 68,
-    "overall_score": 70.33333333333333,
-    "short_description": "Leather platform sneaker with Softfoam+ cushioning.",
+    "comfort_score": 86,
+    "durability_score": 82,
+    "breathability_score": 62,
+    "overall_score": 76.66666666666667,
+    "short_description": "Elevate your casual style with the Puma Womens Smash V3 Platform Lace Up Sneakers. This iconic silhouette takes the classic tennis-inspired Smash sneaker and gives it a modern, fashion-forward lift. The shoe features a premium leather upper in a clean, versatile colorway, offering a sleek and sophisticated look that's perfect for everyday wear. The defining feature is the chunky platform midsole, which adds a bold, elevated aesthetic while providing a stable and comfortable base. Inside, the shoe is equipped with Puma's Softfoam+ sockliner, a plush, step-in cushioning that molds to your foot for exceptional comfort and a luxurious feel with every step. The durable rubber outsole ensures reliable traction. With its perfect blend of retro inspiration and contemporary platform style, the Puma Smash V3 is the ultimate casual sneaker for the woman who wants to stand out in comfort.",
     "about_this_item": "AN OPTIMAL DAILY ESSENTIAL... ENHANCED MATERIAL AND FIT: This shoe is equipped with a soft leather upper... SLEEK DESIGN AND HIGH-QUALITY HOLD...",
     "primary_keyword": "platform sneakers, leather sneakers",
     "slug": "puma-womens-smash-v3-platform-lace-up-sneakers-shoes",
@@ -60,7 +60,7 @@
       "@type": "Product",
       "@id": "https://www.shoesonwhite.com/#product-B0BXTWMYWM",
       "name": "Puma Womens Smash V3 Platform Lace Up Sneakers Shoes Casual",
-      "description": "Leather platform sneaker with Softfoam+ cushioning.",
+      "description": "Elevate your casual style with the Puma Womens Smash V3 Platform Lace Up Sneakers. This iconic silhouette takes the classic tennis-inspired Smash sneaker and gives it a modern, fashion-forward lift. The shoe features a premium leather upper in a clean, versatile colorway, offering a sleek and sophisticated look that's perfect for everyday wear. The defining feature is the chunky platform midsole, which adds a bold, elevated aesthetic while providing a stable and comfortable base. Inside, the shoe is equipped with Puma's Softfoam+ sockliner, a plush, step-in cushioning that molds to your foot for exceptional comfort and a luxurious feel with every step. The durable rubber outsole ensures reliable traction. With its perfect blend of retro inspiration and contemporary platform style, the Puma Smash V3 is the ultimate casual sneaker for the woman who wants to stand out in comfort.",
       "url": "https://www.shoesonwhite.com/2026/02/puma-womens-smash-v3-platform-lace-up-sneakers-shoes.html",
       "sku": "B0BXTWMYWM",
       "mpn": "B0BXTWMYWM",
@@ -74,7 +74,7 @@
         "url": "https://www.shoesonwhite.com/2026/02/puma-womens-smash-v3-platform-lace-up-sneakers-shoes.html",
         "priceCurrency": "USD",
         "price": 49.98,
-        "priceValidUntil": "2027-02-15",
+        "priceValidUntil": "2027-02-19",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -107,7 +107,7 @@
         {
           "@type": "PropertyValue",
           "name": "Color",
-          "value": "White Shoes"
+          "value": "White"
         },
         {
           "@type": "PropertyValue",
@@ -127,22 +127,22 @@
         {
           "@type": "PropertyValue",
           "name": "Comfort Score",
-          "value": "69"
+          "value": "86"
         },
         {
           "@type": "PropertyValue",
           "name": "Durability Score",
-          "value": "74"
+          "value": "82"
         },
         {
           "@type": "PropertyValue",
           "name": "Breathability Score",
-          "value": "68"
+          "value": "62"
         },
         {
           "@type": "PropertyValue",
           "name": "Overall Score",
-          "value": "70.33333333333333"
+          "value": "76.66666666666667"
         }
       ],
       "image": [
@@ -188,7 +188,7 @@
         ]
       }
     },
-    "created_at": "2026-02-15T18:02:04.390Z",
-    "last_updated": "2026-02-15T18:02:04.390Z"
+    "created_at": "2026-02-19T04:12:20.297Z",
+    "last_updated": "2026-02-19T04:12:20.297Z"
   }
 }
