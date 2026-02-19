@@ -1,0 +1,191 @@
+{
+  "metadata": {
+    "product_id": "B0DCT1PDCY",
+    "slug": "on-mens-cloudrunner-2",
+    "generated_at": "2026-02-19T04:12:48.367Z",
+    "source": "google_sheets",
+    "version": "1.0",
+    "urls": {
+      "product": "https://www.shoesonwhite.com/2026/02/on-mens-cloudrunner-2.html",
+      "gender": "https://www.shoesonwhite.com/p/men.html",
+      "brand": "https://www.shoesonwhite.com/p/on-cloud.html",
+      "subcategory": "https://www.shoesonwhite.com/p/athletic.html"
+    }
+  },
+  "product": {
+    "product_id": "B0DCT1PDCY",
+    "asin": "B0DCT1PDCY",
+    "product_title": "On Men's Cloudrunner 2 Sneakers",
+    "brand": "On Cloud",
+    "category": "Shoes",
+    "subcategory": "Athletic",
+    "color": "White",
+    "gender": "Men",
+    "weight_lbs": 2,
+    "upper_material": "Mesh",
+    "sole_material": "Rubber",
+    "outer_material": "Mesh",
+    "lining": "Polyester",
+    "closure_type": "Lace-up",
+    "cushioning": "Dual-density Helion superfoam for maximum comfort and support.",
+    "breathability": "Engineered mesh upper provides excellent breathability for long runs.",
+    "amazon_url": "https://amzn.to/4s0zKGd",
+    "price_min": 142.7,
+    "price_max": 178.94,
+    "currency": "USD",
+    "rating": 4.7,
+    "review_count": 447,
+    "comfort_score": 93,
+    "durability_score": 89,
+    "breathability_score": 84,
+    "overall_score": 88.66666666666667,
+    "short_description": "Experience unparalleled stability and supreme comfort with the On Men's Cloudrunner 2 Sneakers, the ultimate everyday training partner for runners seeking a reliable and supportive ride. Designed to provide maximum comfort over long distances, the Cloudrunner 2 builds on its predecessor with enhanced cushioning and a more secure, adaptive fit. It features a dual-density midsole with On's signature CloudTec? pods, crafted from plush Helion? superfoam. This configuration offers a soft, impact-absorbing landing while providing a stable platform for a smooth, controlled ride. A uniquely designed Speedboard? works in harmony with the pods to guide the foot and promote an efficient stride. The upper has been completely redesigned with a softer, more flexible engineered mesh that wraps the foot for a snug, comfortable feel, while the updated heel counter provides additional support and lockdown. Reflective details ensure visibility during early morning or evening runs. For runners who prioritize stability, cushioning, and a dependable, comfortable feel mile after mile, the On Men's Cloudrunner 2 delivers a truly cloud-like experience with every step.",
+    "about_this_item": "Rubber sole, Cushioned collar and removable insole, Reflective accents, Lightweight and breathable design , Colorblock design, Designed for running, Round toe",
+    "slug": "on-mens-cloudrunner-2",
+    "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloudrunner-2.html",
+    "gender_url": "https://www.shoesonwhite.com/p/men.html",
+    "brand_url": "https://www.shoesonwhite.com/p/on-cloud.html",
+    "subcategory_url": "https://www.shoesonwhite.com/p/athletic.html",
+    "image_urls": [
+      "https://m.media-amazon.com/images/I/51rTZmmva-L._AC_SY695_.jpg",
+      "https://m.media-amazon.com/images/I/51-mKzpP3bL._AC_SY695_.jpg",
+      "https://m.media-amazon.com/images/I/617b2zjFy4L._AC_SY695_.jpg",
+      "https://m.media-amazon.com/images/I/61RbjEBU9KL._AC_SY695_.jpg"
+    ],
+    "main_image": "https://m.media-amazon.com/images/I/51rTZmmva-L._AC_SY695_.jpg",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://www.shoesonwhite.com/#product-B0DCT1PDCY",
+      "name": "On Men's Cloudrunner 2 Sneakers",
+      "description": "Experience unparalleled stability and supreme comfort with the On Men's Cloudrunner 2 Sneakers, the ultimate everyday training partner for runners seeking a reliable and supportive ride. Designed to provide maximum comfort over long distances, the Cloudrunner 2 builds on its predecessor with enhanced cushioning and a more secure, adaptive fit. It features a dual-density midsole with On's signature CloudTec? pods, crafted from plush Helion? superfoam. This configuration offers a soft, impact-absorbing landing while providing a stable platform for a smooth, controlled ride. A uniquely designed Speedboard? works in harmony with the pods to guide the foot and promote an efficient stride. The upper has been completely redesigned with a softer, more flexible engineered mesh that wraps the foot for a snug, comfortable feel, while the updated heel counter provides additional support and lockdown. Reflective details ensure visibility during early morning or evening runs. For runners who prioritize stability, cushioning, and a dependable, comfortable feel mile after mile, the On Men's Cloudrunner 2 delivers a truly cloud-like experience with every step.",
+      "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloudrunner-2.html",
+      "sku": "B0DCT1PDCY",
+      "mpn": "B0DCT1PDCY",
+      "brand": {
+        "@type": "Brand",
+        "name": "On Cloud",
+        "url": "https://www.shoesonwhite.com/p/on-cloud.html"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.shoesonwhite.com/2026/02/on-mens-cloudrunner-2.html",
+        "priceCurrency": "USD",
+        "price": 142.7,
+        "priceValidUntil": "2027-02-19",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.7,
+        "reviewCount": 447,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Shoes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Athletic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Color",
+          "value": "White"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Mesh"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Closure Type",
+          "value": "Lace-up"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Weight",
+          "value": "2"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Comfort Score",
+          "value": "93"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Durability Score",
+          "value": "89"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Breathability Score",
+          "value": "84"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Overall Score",
+          "value": "88.66666666666667"
+        }
+      ],
+      "image": [
+        "https://m.media-amazon.com/images/I/51rTZmmva-L._AC_SY695_.jpg",
+        "https://m.media-amazon.com/images/I/51-mKzpP3bL._AC_SY695_.jpg",
+        "https://m.media-amazon.com/images/I/617b2zjFy4L._AC_SY695_.jpg",
+        "https://m.media-amazon.com/images/I/61RbjEBU9KL._AC_SY695_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.shoesonwhite.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Men",
+            "item": "https://www.shoesonwhite.com/p/men.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "On Cloud",
+            "item": "https://www.shoesonwhite.com/p/on-cloud.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Athletic",
+            "item": "https://www.shoesonwhite.com/p/athletic.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "On Men's Cloudrunner 2 Sneakers",
+            "item": "https://www.shoesonwhite.com/2026/02/on-mens-cloudrunner-2.html"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-02-19T04:12:20.295Z",
+    "last_updated": "2026-02-19T04:12:20.295Z"
+  }
+}
