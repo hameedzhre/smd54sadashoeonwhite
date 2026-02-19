@@ -2,7 +2,7 @@
   "metadata": {
     "product_id": "B0BH5MJPGS",
     "slug": "bruno-marc-mens-knitflex-breeze-mesh-sneakers-oxford-lace-up-lightweight-casual-",
-    "generated_at": "2026-02-15T18:02:46.542Z",
+    "generated_at": "2026-02-19T04:15:17.265Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
@@ -19,27 +19,26 @@
     "brand": "Bruno Marc",
     "category": "Shoes",
     "subcategory": "Sneakers",
-    "color": "White Shoes",
+    "color": "White",
     "gender": "Men",
-    "weight_lbs": "N/A",
     "upper_material": "Knitted mesh",
     "sole_material": "EVA (Ethylene Vinyl Acetate)",
     "outer_material": "Textile (knit mesh)",
     "lining": "Memory foam",
     "closure_type": "Lace-Up",
-    "cushioning": "Memory foam insole + cushy EVA outsole",
-    "breathability": "High (breathable knitted upper)",
+    "cushioning": "Soft, cushioned insole provides all-day comfort and shock absorption for walking.",
+    "breathability": "Highly breathable, seamless knitted mesh upper wraps the foot for maximum ventilation.",
     "amazon_url": "https://amzn.to/4r3nW64",
     "price_min": 38.99,
     "price_max": 38.99,
     "currency": "USD",
     "rating": 4.6,
     "review_count": 13578,
-    "comfort_score": 82,
-    "durability_score": 82,
-    "breathability_score": 88,
-    "overall_score": 84,
-    "short_description": "Breathable lightweight knit mesh casual sneaker ? great for walking & summer",
+    "comfort_score": 86,
+    "durability_score": 75,
+    "breathability_score": 92,
+    "overall_score": 84.33333333333333,
+    "short_description": "Experience the ultimate in lightweight, breathable comfort with the Bruno Marc Men's KnitFlex Breeze Mesh Sneakers. These casual walking shoes are expertly designed for the modern man who values comfort and style, especially during warmer months or long days on his feet. The upper is constructed from a seamless, flexible knitted mesh material that wraps your foot like a sock, providing a snug, adaptive fit and exceptional breathability to keep your feet cool and dry. The lace-up oxford style allows for a secure, customized fit. Inside, a soft, cushioned insole provides all-day comfort and shock absorption, reducing foot fatigue whether you're walking, traveling, or running errands. The lightweight, flexible outsole offers reliable traction and enhances the shoe's overall ease of movement. With their sleek, modern aesthetic and focus on breathable comfort, the Bruno Marc KnitFlex Breeze sneakers are the perfect choice for summer walks, casual outings, and everyday wear.",
     "about_this_item": "? Breathable knitted upper for airflow ? Responsive EVA outsole + memory foam insole for cushioning ? Elastic collar, lace-up & pull tab for easy on/off ? Lightweight (7.76 oz per shoe) ? Casual/semi-formal style with wing-shaped stitching",
     "primary_keyword": "Bruno Marc KnitFlex Breeze Mesh White",
     "slug": "bruno-marc-mens-knitflex-breeze-mesh-sneakers-oxford-lace-up-lightweight-casual-",
@@ -62,7 +61,7 @@
       "@type": "Product",
       "@id": "https://www.shoesonwhite.com/#product-B0BH5MJPGS",
       "name": "Bruno Marc Men's KnitFlex Breeze Mesh Sneakers Oxford Lace-up Lightweight Casual Walking Shoes",
-      "description": "Breathable lightweight knit mesh casual sneaker ? great for walking & summer",
+      "description": "Experience the ultimate in lightweight, breathable comfort with the Bruno Marc Men's KnitFlex Breeze Mesh Sneakers. These casual walking shoes are expertly designed for the modern man who values comfort and style, especially during warmer months or long days on his feet. The upper is constructed from a seamless, flexible knitted mesh material that wraps your foot like a sock, providing a snug, adaptive fit and exceptional breathability to keep your feet cool and dry. The lace-up oxford style allows for a secure, customized fit. Inside, a soft, cushioned insole provides all-day comfort and shock absorption, reducing foot fatigue whether you're walking, traveling, or running errands. The lightweight, flexible outsole offers reliable traction and enhances the shoe's overall ease of movement. With their sleek, modern aesthetic and focus on breathable comfort, the Bruno Marc KnitFlex Breeze sneakers are the perfect choice for summer walks, casual outings, and everyday wear.",
       "url": "https://www.shoesonwhite.com/2026/02/bruno-marc-mens-knitflex-breeze-mesh-sneakers-oxford-lace-up-lightweight-casual-.html",
       "sku": "B0BH5MJPGS",
       "mpn": "B0BH5MJPGS",
@@ -76,7 +75,7 @@
         "url": "https://www.shoesonwhite.com/2026/02/bruno-marc-mens-knitflex-breeze-mesh-sneakers-oxford-lace-up-lightweight-casual-.html",
         "priceCurrency": "USD",
         "price": 38.99,
-        "priceValidUntil": "2027-02-15",
+        "priceValidUntil": "2027-02-19",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -109,7 +108,7 @@
         {
           "@type": "PropertyValue",
           "name": "Color",
-          "value": "White Shoes"
+          "value": "White"
         },
         {
           "@type": "PropertyValue",
@@ -124,22 +123,22 @@
         {
           "@type": "PropertyValue",
           "name": "Comfort Score",
-          "value": "82"
+          "value": "86"
         },
         {
           "@type": "PropertyValue",
           "name": "Durability Score",
-          "value": "82"
+          "value": "75"
         },
         {
           "@type": "PropertyValue",
           "name": "Breathability Score",
-          "value": "88"
+          "value": "92"
         },
         {
           "@type": "PropertyValue",
           "name": "Overall Score",
-          "value": "84"
+          "value": "84.33333333333333"
         }
       ],
       "image": [
@@ -187,7 +186,7 @@
         ]
       }
     },
-    "created_at": "2026-02-15T18:02:04.392Z",
-    "last_updated": "2026-02-15T18:02:04.392Z"
+    "created_at": "2026-02-19T04:12:20.297Z",
+    "last_updated": "2026-02-19T04:12:20.297Z"
   }
 }
