@@ -2,7 +2,7 @@
   "metadata": {
     "product_id": "B0CH9HQ8QZ",
     "slug": "adokoo-womens-fashion-sneakers-pu-leather-casual-shoes-white-tennis-low-top-shoe",
-    "generated_at": "2026-02-15T18:02:47.435Z",
+    "generated_at": "2026-02-19T04:15:07.428Z",
     "source": "google_sheets",
     "version": "1.0",
     "urls": {
@@ -19,7 +19,7 @@
     "brand": "Adokoo",
     "category": "Shoes",
     "subcategory": "Sneakers",
-    "color": "White Shoes",
+    "color": "White",
     "gender": "Women",
     "weight_lbs": 1.9,
     "upper_material": "PU Leather",
@@ -27,19 +27,19 @@
     "outer_material": "Faux Leather",
     "lining": "Foam",
     "closure_type": "Lace-Up",
-    "cushioning": "Memory Foam",
-    "breathability": "Medium",
+    "cushioning": "Plush memory foam cushioned insole molds to the foot for personalized, all-day comfort and support.",
+    "breathability": "Smooth PU leather upper offers minimal breathability; may cause feet to feel warm.",
     "amazon_url": "https://amzn.to/45TDNeS",
     "price_min": 21.99,
     "price_max": 25.99,
     "currency": "USD",
     "rating": 4.3,
     "review_count": 1500,
-    "comfort_score": 75,
-    "durability_score": 84,
-    "breathability_score": 87,
-    "overall_score": 82,
-    "short_description": "Comfortable white PU leather fashion sneakers with memory foam cushioning and non-slip rubber sole for everyday wear.",
+    "comfort_score": 85,
+    "durability_score": 80,
+    "breathability_score": 58,
+    "overall_score": 74.33333333333333,
+    "short_description": "Elevate your everyday casual style with the Adokoo Women's Fashion Sneakers. These chic and versatile low-top shoes are designed for the woman who wants a clean, classic look with lasting comfort. The upper is crafted from smooth, durable PU leather in a crisp white, offering a sleek and sophisticated aesthetic that pairs effortlessly with any outfit, from jeans and leggings to dresses and skirts. The lace-up design allows for a secure, adjustable fit. Inside, the shoe features a plush memory foam cushioned insole that molds to the unique contours of your foot, providing personalized, all-day comfort and support. This makes them ideal for long days of walking, shopping, or travel. The durable, non-slip rubber outsole ensures reliable traction on various surfaces. For a timeless, versatile fashion sneaker that combines premium materials, memory foam comfort, and classic style, the Adokoo Women's Fashion Sneakers are an essential addition to your wardrobe.",
     "about_this_item": "Soft wipe-clean synthetic leather upper, padded memory foam insole, non-slip rubber outsole, lace-up closure, versatile casual style suitable for daily walking and outfits.",
     "primary_keyword": "women white sneakers",
     "slug": "adokoo-womens-fashion-sneakers-pu-leather-casual-shoes-white-tennis-low-top-shoe",
@@ -61,7 +61,7 @@
       "@type": "Product",
       "@id": "https://www.shoesonwhite.com/#product-B0CH9HQ8QZ",
       "name": "Adokoo Women's Fashion Sneakers PU Leather Casual Shoes White Tennis Low Top Shoes Womens Lace Up Sneakers",
-      "description": "Comfortable white PU leather fashion sneakers with memory foam cushioning and non-slip rubber sole for everyday wear.",
+      "description": "Elevate your everyday casual style with the Adokoo Women's Fashion Sneakers. These chic and versatile low-top shoes are designed for the woman who wants a clean, classic look with lasting comfort. The upper is crafted from smooth, durable PU leather in a crisp white, offering a sleek and sophisticated aesthetic that pairs effortlessly with any outfit, from jeans and leggings to dresses and skirts. The lace-up design allows for a secure, adjustable fit. Inside, the shoe features a plush memory foam cushioned insole that molds to the unique contours of your foot, providing personalized, all-day comfort and support. This makes them ideal for long days of walking, shopping, or travel. The durable, non-slip rubber outsole ensures reliable traction on various surfaces. For a timeless, versatile fashion sneaker that combines premium materials, memory foam comfort, and classic style, the Adokoo Women's Fashion Sneakers are an essential addition to your wardrobe.",
       "url": "https://www.shoesonwhite.com/2026/02/adokoo-womens-fashion-sneakers-pu-leather-casual-shoes-white-tennis-low-top-shoe.html",
       "sku": "B0CH9HQ8QZ",
       "mpn": "B0CH9HQ8QZ",
@@ -75,7 +75,7 @@
         "url": "https://www.shoesonwhite.com/2026/02/adokoo-womens-fashion-sneakers-pu-leather-casual-shoes-white-tennis-low-top-shoe.html",
         "priceCurrency": "USD",
         "price": 21.99,
-        "priceValidUntil": "2027-02-15",
+        "priceValidUntil": "2027-02-19",
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
@@ -108,7 +108,7 @@
         {
           "@type": "PropertyValue",
           "name": "Color",
-          "value": "White Shoes"
+          "value": "White"
         },
         {
           "@type": "PropertyValue",
@@ -128,22 +128,22 @@
         {
           "@type": "PropertyValue",
           "name": "Comfort Score",
-          "value": "75"
+          "value": "85"
         },
         {
           "@type": "PropertyValue",
           "name": "Durability Score",
-          "value": "84"
+          "value": "80"
         },
         {
           "@type": "PropertyValue",
           "name": "Breathability Score",
-          "value": "87"
+          "value": "58"
         },
         {
           "@type": "PropertyValue",
           "name": "Overall Score",
-          "value": "82"
+          "value": "74.33333333333333"
         }
       ],
       "image": [
@@ -190,7 +190,7 @@
         ]
       }
     },
-    "created_at": "2026-02-15T18:02:04.392Z",
-    "last_updated": "2026-02-15T18:02:04.392Z"
+    "created_at": "2026-02-19T04:12:20.296Z",
+    "last_updated": "2026-02-19T04:12:20.296Z"
   }
 }
